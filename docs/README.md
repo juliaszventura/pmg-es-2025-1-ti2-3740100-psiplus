@@ -53,7 +53,7 @@ Muitos pacientes também relatam a dificuldade em acompanhar seu progresso ao lo
 
 ### 1.3 Objetivo geral
 
-_O objetivo geral deste trabalho é desenvolver um sistema de gestão digital para psicólogos e pacientes, com funcionalidades voltadas para o registro das emoções diárias dos pacientes, o acompanhamento contínuo pelo psicólogo e a organização eficiente da agenda profissional._
+O objetivo geral deste trabalho é desenvolver um sistema de gestão digital para psicólogos e pacientes, com funcionalidades voltadas para o registro das emoções diárias dos pacientes, o acompanhamento contínuo pelo psicólogo e a organização eficiente da agenda profissional.
 
 #### 1.3.1 Objetivos específicos
 
@@ -62,8 +62,7 @@ concentrar sua prática investigativa, ou como você irá aprofundar seu trabalh
 
 ### 1.4 Justificativas
 
-_Mostre também as **justificativas** para o 
-desenvolvimento do seu trabalho e, caso deseje, destaque alguma contribuição do trabalho._
+Este trabalho justifica-se pela crescente demanda por soluções tecnológicas na área da saúde mental, especialmente em psicologia, e pela necessidade de um sistema que facilite o gerenciamento tanto para o profissional quanto para o paciente. O sistema proposto busca melhorar a organização e o acompanhamento das sessões, oferecendo uma maneira mais prática e eficaz de monitorar a evolução do paciente. Além disso, a plataforma permitirá ao psicólogo otimizar seu tempo, tornando o processo de agendamento e análise de dados mais ágil, promovendo uma experiência mais completa e satisfatória para ambas as partes. O trabalho também destaca a importância da tecnologia como aliada no processo terapêutico, ao tornar os dados mais acessíveis e fáceis de gerenciar.
 
 ## 2. Participantes do processo
 
