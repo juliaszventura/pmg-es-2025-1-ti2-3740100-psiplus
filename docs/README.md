@@ -11,15 +11,15 @@
 
 **Kayke Emanoel de Souza Santos, kaykeeman@gmail.com**
 
-**Nome completo do Aluno 6, email do aluno 6**
+**Carlos Eduardo Sousa Santos, cadusantos9000@gmail.com**
 
 ---
 
 Professores:
 
-** Prof. Nome do Prof 1 **
+** Michelle Hanne Soares de Andrade **
 
-** Prof. Nome do Prof 2 **
+** Danilo de Quadrs Maia Filho **
 
 ** Prof. Nome do Prof 3 **
 
