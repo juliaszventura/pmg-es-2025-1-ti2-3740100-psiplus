@@ -1,7 +1,7 @@
-# TITULO DO PROJETO
+# PSIPLUS
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+**Nico Jobski Andrade, jobskiandrade@gmail.com**
 
 **Nome completo do Aluno 2, email do aluno 2**
 
@@ -43,21 +43,17 @@ _Apresente uma frase introdutória definindo o que será apresentado._
 
 ### 1.1 Contextualização
 
-_Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere.
-A **contextualização** deve ser desenvolvida de algo mais genérico para algo mais específico. 
-A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas)._
+Nos últimos anos, diversas áreas têm se beneficiado de soluções digitais para otimizar processos, melhorar o acesso e facilitar o acompanhamento de dados. A psicologia, por sua vez, ainda lida com desafios relacionados à organização de consultas, controle de histórico de pacientes e gestão de informações, especialmente no que se refere ao acompanhamento diário das emoções dos pacientes. Nesse cenário, a implementação de um sistema de gestão entre psicólogos e pacientes se apresenta como uma solução viável para transformar esses processos, oferecendo maior transparência e eficiência.
 
 ### 1.2 Problema
 
-_Em seguida o aluno deve caminhar a contextualização para descrever o **problema** que o trabalho trata. 
-O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve rapidamente apresentar 
-o cenário de problema da empresa. A empresa só deve ser citada explicitamente se o aluno tiver autorização 
-para tal._
+Atualmente, muitos psicólogos enfrentam dificuldades relacionadas ao controle de informações e à organização do acompanhamento de seus pacientes, como o registro diário das emoções, a comunicação eficaz entre sessões e a gestão da agenda. A agenda de um psicólogo costuma ser cheia e, muitas vezes, desorganizada, o que pode gerar falhas no agendamento de sessões ou conflitos de horário.
+
+Muitos pacientes também relatam a dificuldade em acompanhar seu progresso ao longo do tempo, não conseguindo acessar de forma clara e prática o histórico de suas emoções. A ausência de uma plataforma integrada que centralize essas funções resulta em uma gestão ineficiente tanto para o psicólogo quanto para o paciente, impactando a qualidade do atendimento e a experiência de acompanhamento psicológico.
 
 ### 1.3 Objetivo geral
 
-_O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
-O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, avaliar, comparar, desenvolver, etc.). No caso específico deste projeto, o objetivo deste trabalho é desenvolver um sistema para automação de processos para um problema específico._
+_O objetivo geral deste trabalho é desenvolver um sistema de gestão digital para psicólogos e pacientes, com funcionalidades voltadas para o registro das emoções diárias dos pacientes, o acompanhamento contínuo pelo psicólogo e a organização eficiente da agenda profissional._
 
 #### 1.3.1 Objetivos específicos
 
