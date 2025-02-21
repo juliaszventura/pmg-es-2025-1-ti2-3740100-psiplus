@@ -31,15 +31,15 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade Cató
 
 ---
 
-_**Resumo**. Escrever aqui o resumo. O resumo deve contextualizar rapidamente o trabalho, descrever seu objetivo e, ao final, 
-mostrar algum resultado relevante do trabalho (até 10 linhas)._
+Esse projeto tem como foco criar uma plataforma online para psicólogos, onde tudo fica centralizado: agendamento de consultas, comunicação direta com os pacientes e registro do estado emocional deles. A ideia é facilitar a rotina do profissional e melhorar a experiência dos pacientes, eliminando a bagunça de usar várias ferramentas separadas.
 
 ---
 
 
 ## 1. Introdução
 
-_Apresente uma frase introdutória definindo o que será apresentado._
+No mundo digital de hoje, até os consultórios de psicologia precisam se modernizar. Muitos profissionais ainda usam métodos manuais ou sistemas desconexos para marcar consultas, manter contato e acompanhar o bem-estar dos pacientes. Pensando nisso, surge a proposta de desenvolver um site que una todas essas funcionalidades em um único lugar, tornando o dia a dia muito mais prático.
+
 
 ### 1.1 Contextualização
 
@@ -57,8 +57,11 @@ O objetivo geral deste trabalho é desenvolver um sistema de gestão digital par
 
 #### 1.3.1 Objetivos específicos
 
-_Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde você vai querer 
-concentrar sua prática investigativa, ou como você irá aprofundar seu trabalho._
+	•	Criar um sistema de agendamento simples e intuitivo.
+	•	Estabelecer um canal de comunicação direto entre psicólogos e pacientes.
+	•	Implementar um módulo para registro e monitoramento dos sentimentos dos pacientes.
+	•	Integrar funcionalidades administrativas que auxiliem na gestão do consultório.
+	•	Garantir uma experiência de uso agradável, com foco em acessibilidade e facilidade de uso.
 
 ### 1.4 Justificativas
 
