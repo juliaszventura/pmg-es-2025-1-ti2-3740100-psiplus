@@ -3,13 +3,13 @@
 
 **Nico Jobski Andrade, jobskiandrade@gmail.com**
 
-**Nome completo do Aluno 2, email do aluno 2**
+**Júlia de Souza Ventura, juliavt403@gmail.com**
 
-**Nome completo do Aluno 3, email do aluno 3**
+**Rafael Rocha Caldeira Brant, rafaelrbrant07@gmail.com**
 
-**Nome completo do Aluno 4, email do aluno 4**
+**Ana Luiza de Freitas Rodrigues, analuizafreitas12@yahoo.com.br**
 
-**Nome completo do Aluno 5, email do aluno 5**
+**Kayke Emanoel de Souza Santos, kaykeeman@gmail.com**
 
 **Nome completo do Aluno 6, email do aluno 6**
 
