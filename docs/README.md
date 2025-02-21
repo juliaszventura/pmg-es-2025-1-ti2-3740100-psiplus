@@ -17,11 +17,11 @@
 
 Professores:
 
-** Michelle Hanne Soares de Andrade **
+**Michelle Hanne Soares de Andrade**
 
-** Danilo de Quadrs Maia Filho **
+**Danilo de Quadrs Maia Filho**
 
-** Prof. Nome do Prof 3 **
+**Prof. Nome do Prof 3**
 
 ---
 
