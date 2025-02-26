@@ -45,11 +45,13 @@ No mundo digital de hoje, até os consultórios de psicologia precisam se modern
 
 Nos últimos anos, diversas áreas têm se beneficiado de soluções digitais para otimizar processos, facilitar a gestão de informações e ampliar o acesso a atendimentos e acompanhamento profissional. No entanto, a psicologia ainda enfrenta desafios como a organização de consultas, o controle do histórico dos pacientes e o monitoramento contínuo de suas emoções. Diante desse cenário, a implementação de um sistema integrado de gestão entre psicólogos e pacientes surge como uma solução estratégica, trazendo mais transparência, eficiência e praticidade para o atendimento.
 
+
 ### 1.2 Problema
 
 Atualmente, muitos psicólogos enfrentam dificuldades relacionadas ao controle de informações e à organização do acompanhamento de seus pacientes, como o registro diário das emoções, a comunicação eficaz entre sessões e a gestão da agenda. A agenda de um psicólogo costuma ser cheia e, muitas vezes, desorganizada, o que pode gerar falhas no agendamento de sessões ou conflitos de horário.
 
 Muitos pacientes também relatam a dificuldade em acompanhar seu progresso ao longo do tempo, não conseguindo acessar de forma clara e prática o histórico de suas emoções. A ausência de uma plataforma integrada que centralize essas funções resulta em uma gestão ineficiente tanto para o psicólogo quanto para o paciente, impactando a qualidade do atendimento e a experiência de acompanhamento psicológico.
+
 
 ### 1.3 Objetivo geral
 
