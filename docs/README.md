@@ -40,18 +40,19 @@ Esse projeto visa desenvolver uma plataforma online para psicólogos, centraliza
 
 No mundo digital de hoje, até os consultórios de psicologia precisam se modernizar. Muitos profissionais ainda dependem de métodos manuais ou de sistemas desconexos para agendar, gerenciar consultas e acompanhar o bem-estar dos pacientes. Pensando nisso, surge a proposta de desenvolver uma plataforma integrada que reúne todas essas funcionalidades em um só lugar, tornando o dia a dia dos psicólogos muito mais prático.
 
-
 ### 1.1 Contextualização
 
 Nos últimos anos, diversas áreas têm se beneficiado de soluções digitais para otimizar processos, facilitar a gestão de informações e ampliar o acesso a atendimentos e acompanhamento profissional. No entanto, a psicologia ainda enfrenta desafios como a organização de consultas, o controle do histórico dos pacientes e o monitoramento contínuo de suas emoções. Diante desse cenário, a implementação de um sistema integrado de gestão entre psicólogos e pacientes surge como uma solução estratégica, trazendo mais transparência, eficiência e praticidade para o atendimento.
 
-
 ### 1.2 Problema
 
-Atualmente, muitos psicólogos enfrentam dificuldades relacionadas ao controle de informações e à organização do acompanhamento de seus pacientes, como o registro diário das emoções, a comunicação eficaz entre sessões e a gestão da agenda. A agenda de um psicólogo costuma ser cheia e, muitas vezes, desorganizada, o que pode gerar falhas no agendamento de sessões ou conflitos de horário.
+Atualmente, muitos psicólogos enfrentam desafios significativos na gestão eficiente de suas práticas clínicas, o que pode comprometer a qualidade do atendimento oferecido. Os principais problemas incluem:
 
-Muitos pacientes também relatam a dificuldade em acompanhar seu progresso ao longo do tempo, não conseguindo acessar de forma clara e prática o histórico de suas emoções. A ausência de uma plataforma integrada que centralize essas funções resulta em uma gestão ineficiente tanto para o psicólogo quanto para o paciente, impactando a qualidade do atendimento e a experiência de acompanhamento psicológico.
-
+	•	**Gestão ineficaz da agenda:** A ausência de um sistema integrado pode levar a agendamentos confusos, sobreposição de horários e dificuldade na remarcação de sessões, resultando em uma rotina desorganizada e estressante para o profissional.
+	•	Estabelecer um canal de comunicação direto entre psicólogos e pacientes.
+	•	Implementar um módulo para registro e monitoramento dos sentimentos dos pacientes.
+	•	Integrar funcionalidades administrativas que auxiliem na gestão do consultório.
+	•	Garantir uma experiência de uso agradável, com foco em acessibilidade e facilidade de uso.
 
 ### 1.3 Objetivo geral
 
