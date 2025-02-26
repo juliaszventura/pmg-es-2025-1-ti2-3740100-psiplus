@@ -19,7 +19,7 @@ Professores:
 
 **Michelle Hanne Soares de Andrade**
 
-**Danilo de Quadrs Maia Filho**
+**Danilo de Quadra Maia Filho**
 
 **Prof. Nome do Prof 3**
 
@@ -31,19 +31,19 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade Cató
 
 ---
 
-Esse projeto tem como foco criar uma plataforma online para psicólogos, onde tudo fica centralizado: agendamento de consultas, comunicação direta com os pacientes e registro do estado emocional deles. A ideia é facilitar a rotina do profissional e melhorar a experiência dos pacientes, eliminando a bagunça de usar várias ferramentas separadas.
+Esse projeto visa desenvolver uma plataforma online para psicólogos, centralizando todas as funcionalidades essenciais em um só lugar. O sistema permitirá o agendamento de consultas, controle dos pacientes e o registro do estado emocional deles, proporcionando mais organização e eficiência. O objetivo é otimizar a rotina dos profissionais e aprimorar a experiência dos pacientes, eliminando a necessidade de múltiplas ferramentas e garantindo um atendimento mais fluido e integrado.
 
 ---
 
 
 ## 1. Introdução
 
-No mundo digital de hoje, até os consultórios de psicologia precisam se modernizar. Muitos profissionais ainda usam métodos manuais ou sistemas desconexos para marcar consultas, manter contato e acompanhar o bem-estar dos pacientes. Pensando nisso, surge a proposta de desenvolver um site que una todas essas funcionalidades em um único lugar, tornando o dia a dia muito mais prático.
+No mundo digital de hoje, até os consultórios de psicologia precisam se modernizar. Muitos profissionais ainda dependem de métodos manuais ou de sistemas desconexos para agendar, gerenciar consultas e acompanhar o bem-estar dos pacientes. Pensando nisso, surge a proposta de desenvolver uma plataforma integrada que reúne todas essas funcionalidades em um só lugar, tornando o dia a dia dos psicólogos muito mais prático.
 
 
 ### 1.1 Contextualização
 
-Nos últimos anos, diversas áreas têm se beneficiado de soluções digitais para otimizar processos, melhorar o acesso e facilitar o acompanhamento de dados. A psicologia, por sua vez, ainda lida com desafios relacionados à organização de consultas, controle de histórico de pacientes e gestão de informações, especialmente no que se refere ao acompanhamento diário das emoções dos pacientes. Nesse cenário, a implementação de um sistema de gestão entre psicólogos e pacientes se apresenta como uma solução viável para transformar esses processos, oferecendo maior transparência e eficiência.
+Nos últimos anos, diversas áreas têm se beneficiado de soluções digitais para otimizar processos, facilitar a gestão de informações e ampliar o acesso a atendimentos e acompanhamento profissional. No entanto, a psicologia ainda enfrenta desafios como a organização de consultas, o controle do histórico dos pacientes e o monitoramento contínuo de suas emoções. Diante desse cenário, a implementação de um sistema integrado de gestão entre psicólogos e pacientes surge como uma solução estratégica, trazendo mais transparência, eficiência e praticidade para o atendimento.
 
 ### 1.2 Problema
 
