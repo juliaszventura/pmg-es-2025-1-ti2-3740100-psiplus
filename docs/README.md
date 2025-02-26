@@ -49,10 +49,14 @@ Nos últimos anos, diversas áreas têm se beneficiado de soluções digitais pa
 Atualmente, muitos psicólogos enfrentam desafios significativos na gestão eficiente de suas práticas clínicas, o que pode comprometer a qualidade do atendimento oferecido. Os principais problemas incluem:
 
 - **Gestão ineficaz da agenda:** A ausência de um sistema integrado pode levar a agendamentos confusos, sobreposição de horários e dificuldade na remarcação de sessões, resultando em uma rotina desorganizada e estressante para o profissional.
-	•	Estabelecer um canal de comunicação direto entre psicólogos e pacientes.
-	•	Implementar um módulo para registro e monitoramento dos sentimentos dos pacientes.
-	•	Integrar funcionalidades administrativas que auxiliem na gestão do consultório.
-	•	Garantir uma experiência de uso agradável, com foco em acessibilidade e facilidade de uso.
+- **Falta de registro centralizado das informações do paciente:** A utilização de métodos manuais ou sistemas desconexos dificulta o acompanhamento contínuo do histórico e das emoções dos pacientes, tornando o monitoramento da evolução terapêutica menos preciso e eficiente.
+- **Comunicação limitada entre sessões:** Sem uma ferramenta que permita o registro contínuo das emoções e eventos diários, muitos aspectos importantes do dia a dia do paciente podem se perder entre as sessões. Isso dificulta que o psicólogo tenha uma visão completa do estado emocional do paciente ao longo do tempo, impactando a personalização do atendimento.
+
+Esses desafios evidenciam a necessidade de soluções tecnológicas que integrem e centralizem as funções essenciais da prática psicológica. De acordo com o blog Saúde Vianet, a implementação de softwares de gestão clínica pode centralizar todas as operações em um só lugar, facilitando o agendamento, a comunicação e o registro de informações dos pacientes, além de melhorar a organização financeira e o controle de custos. 
+
+A adoção de plataformas digitais especializadas não apenas otimiza a rotina dos profissionais de psicologia, mas também aprimora a experiência dos pacientes, promovendo um atendimento mais organizado, eficiente e centrado nas necessidades individuais.
+
+- https://saudevianet.com.br/blog/desafios-gestao-de-clinicas-de-psicologia/?utm_source=chatgpt.com
 
 ### 1.3 Objetivo geral
 
