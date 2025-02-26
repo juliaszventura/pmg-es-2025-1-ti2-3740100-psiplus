@@ -48,7 +48,7 @@ Nos últimos anos, diversas áreas têm se beneficiado de soluções digitais pa
 
 Atualmente, muitos psicólogos enfrentam desafios significativos na gestão eficiente de suas práticas clínicas, o que pode comprometer a qualidade do atendimento oferecido. Os principais problemas incluem:
 
-	•	**Gestão ineficaz da agenda:** A ausência de um sistema integrado pode levar a agendamentos confusos, sobreposição de horários e dificuldade na remarcação de sessões, resultando em uma rotina desorganizada e estressante para o profissional.
+- **Gestão ineficaz da agenda:** A ausência de um sistema integrado pode levar a agendamentos confusos, sobreposição de horários e dificuldade na remarcação de sessões, resultando em uma rotina desorganizada e estressante para o profissional.
 	•	Estabelecer um canal de comunicação direto entre psicólogos e pacientes.
 	•	Implementar um módulo para registro e monitoramento dos sentimentos dos pacientes.
 	•	Integrar funcionalidades administrativas que auxiliem na gestão do consultório.
