@@ -73,7 +73,9 @@ O objetivo geral deste trabalho é desenvolver um sistema de gestão digital par
 
 ### 1.4 Justificativas
 
-Este trabalho justifica-se pela crescente demanda por soluções tecnológicas na área da saúde mental, especialmente em psicologia, e pela necessidade de um sistema que facilite o gerenciamento tanto para o profissional quanto para o paciente. O sistema proposto busca melhorar a organização e o acompanhamento das sessões, oferecendo uma maneira mais prática e eficaz de monitorar a evolução do paciente. Além disso, a plataforma permitirá ao psicólogo otimizar seu tempo, tornando o processo de agendamento e análise de dados mais ágil, promovendo uma experiência mais completa e satisfatória para ambas as partes. O trabalho também destaca a importância da tecnologia como aliada no processo terapêutico, ao tornar os dados mais acessíveis e fáceis de gerenciar.
+A gestão de práticas psicológicas enfrenta desafios como desorganização da agenda, dificuldades no acompanhamento das emoções dos pacientes e comunicação limitada entre sessões. Esses problemas impactam tanto o profissional quanto o paciente, prejudicando a qualidade do atendimento e a continuidade do tratamento.
+
+Este trabalho se justifica pela crescente demanda por soluções tecnológicas na área da saúde mental, especialmente em psicologia, e pela necessidade de um sistema que facilite o gerenciamento tanto para o profissional quanto para o paciente. Ao criar um sistema digital de gestão, será possível integrar o agendamento, a gestão de pacientes e o registro das emoções dos pacientes em uma plataforma única, simplificando o dia a dia do psicólogo e promovendo um atendimento mais organizado e eficiente. Além disso, a plataforma permitirá ao psicólogo otimizar seu tempo, tornando o processo de agendamento e análise de dados mais ágil, promovendo uma experiência mais completa e satisfatória para ambas as partes. O trabalho também destaca a importância da tecnologia como aliada no processo terapêutico, ao tornar os dados mais acessíveis e fáceis de gerenciar.
 
 ## 2. Participantes do processo
 
