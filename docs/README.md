@@ -51,12 +51,13 @@ Atualmente, muitos psicólogos enfrentam desafios significativos na gestão efic
 - **Gestão ineficaz da agenda:** A ausência de um sistema integrado pode levar a agendamentos confusos, sobreposição de horários e dificuldade na remarcação de sessões, resultando em uma rotina desorganizada e estressante para o profissional.
 - **Falta de registro centralizado das informações do paciente:** A utilização de métodos manuais ou sistemas desconexos dificulta o acompanhamento contínuo do histórico e das emoções dos pacientes, tornando o monitoramento da evolução terapêutica menos preciso e eficiente.
 - **Comunicação limitada entre sessões:** Sem uma ferramenta que permita o registro contínuo das emoções e eventos diários, muitos aspectos importantes do dia a dia do paciente podem se perder entre as sessões. Isso dificulta que o psicólogo tenha uma visão completa do estado emocional do paciente ao longo do tempo, impactando a personalização do atendimento.
+- **Ausência de um acompanhamento visual estruturado:** Sem uma ferramenta intuitiva, os pacientes podem ter dificuldade em perceber padrões emocionais ao longo do tempo.
 
 Esses desafios mostram a importância de soluções tecnológicas que tornem a rotina dos psicólogos mais organizada e eficiente. De acordo com o blog Saúde Vianet, a implementação de softwares de gestão clínica pode centralizar todas as operações em um só lugar, facilitando o agendamento, a comunicação e o registro de informações dos pacientes, além de melhorar a organização financeira e o controle de custos. 
 
 A adoção de plataformas digitais especializadas não apenas otimiza a rotina dos profissionais de psicologia, mas também aprimora a experiência dos pacientes, promovendo um atendimento mais organizado, eficiente e centrado nas necessidades individuais.
 
-- https://saudevianet.com.br/blog/desafios-gestao-de-clinicas-de-psicologia/?utm_source=chatgpt.com
+- https://saudevianet.com.br/blog/desafios-gestao-de-clinicas-de-psicologia/
 
 ### 1.3 Objetivo geral
 
@@ -65,10 +66,10 @@ O objetivo geral deste trabalho é desenvolver um sistema de gestão digital par
 #### 1.3.1 Objetivos específicos
 
 	•	Criar um sistema de agendamento simples e intuitivo.
-	•	Estabelecer um canal de comunicação direto entre psicólogos e pacientes.
+	•	Estabelecer um canal de comunicação entre psicólogos e pacientes.
 	•	Implementar um módulo para registro e monitoramento dos sentimentos dos pacientes.
-	•	Integrar funcionalidades administrativas que auxiliem na gestão do consultório.
 	•	Garantir uma experiência de uso agradável, com foco em acessibilidade e facilidade de uso.
+ 	•	Oferecer uma gestão eficiente das consultas do consultório, permitindo o controle de horários, histórico e organização das sessões de forma prática e sem erros.
 
 ### 1.4 Justificativas
 
