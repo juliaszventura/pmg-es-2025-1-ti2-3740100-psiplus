@@ -156,11 +156,11 @@ Rafael procurou terapia após passar por uma fase difícil em sua vida, marcada 
 
 ### 3.1. Análise da situação atual
 
-_Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propõe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional._
+Atualmente, muitos psicólogos enfrentam desafios na gestão de suas práticas clínicas devido à ausência de sistemas integrados que facilitem o agendamento de consultas, o acompanhamento do estado emocional dos pacientes e a comunicação eficiente entre sessões. Muitos profissionais ainda dependem de métodos manuais ou de sistemas desconexos, o que pode levar a agendamentos confusos, dificuldades no monitoramento contínuo dos pacientes e limitações na comunicação, impactando a qualidade do atendimento e a eficiência do processo terapêutico.​
 
 ### 3.2. Descrição geral da proposta de solução
 
-_Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias._
+A proposta do PSI+ é desenvolver uma plataforma online que centralize as principais funcionalidades necessárias para a prática psicológica em um único ambiente digital. O sistema permitirá o agendamento de consultas de forma simples e intuitiva, o registro e monitoramento contínuo das emoções dos pacientes, e estabelecerá um canal de comunicação seguro entre psicólogos e pacientes. Além disso, a plataforma oferecerá recursos para a gestão eficiente das consultas, permitindo o controle de horários, histórico e organização das sessões de forma prática e sem erros. Ao integrar essas funcionalidades, o PSI+ busca otimizar a rotina dos profissionais de psicologia e aprimorar a experiência dos pacientes, promovendo um atendimento mais organizado, eficiente e centrado nas necessidades individuais.​
 
 ### 3.3. Modelagem dos processos
 
