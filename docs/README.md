@@ -81,6 +81,40 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 
 ### 2.1. Persona 1
 
+**Nome:** Luíza Almeida
+
+**Idade:** 47 anos
+
+**Profissão:** Psicóloga clínica
+
+**Estado civil:** Casada
+
+**Localização:** São Paulo, SP
+
+**Escolaridade:** Pós-graduação em Psicologia Clínica
+
+**Hobbies e Interesses:** Ler e cozinhar
+
+**Traços de Personalidade:** Empática, paciente, organizada e curiosa
+
+**Histórico Profissional e Motivação:**
+Luíza é uma profissional experiente, atuando na área há mais de 20 anos. Ela se especializou em terapia cognitivo-comportamental e trabalha principalmente com adultos que enfrentam ansiedade, depressão e desafios emocionais. Com o aumento da demanda por atendimentos psicológicos, ela percebeu a necessidade de modernizar sua gestão de pacientes, otimizando seu tempo e melhorando a organização do seu trabalho.
+
+**Desafios na Rotina Profissional:**
+- Gestão de horários e agendamentos, evitando sobrecarga
+- Manter registros organizados sobre a evolução de cada paciente
+- Equilibrar a vida profissional com a pessoal, evitando burnout
+- Acompanhar os avanços tecnológicos na psicologia sem perder a abordagem humanizada
+- Melhorar a comunicação entre sessões, sem comprometer limites éticos
+  
+**Objetivos com a Plataforma PSI+:**
+- Conseguir cadastrar todos os seus clientes em uma única plataforma
+- Poder agendar as consultas em um calendário virtual
+- Ter mais organização com os horários das consultas
+- Fornecer um serviço de melhor qualidade para seus clientes
+- Acompanhar a evolução dos pacientes de forma mais estruturada
+- Utilizar ferramentas que a ajudem a monitorar o progresso terapêutico
+
 
 ### 2.1. Persona 2
 
