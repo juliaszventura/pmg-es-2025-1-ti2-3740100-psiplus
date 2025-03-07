@@ -79,8 +79,36 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 
 ## 2. Participantes do processo
 
-_Apresente aqui os perfis dos usuários-chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários. Apresente claramente o papel a ser desempenhado por cada usuário._
+### 2.1. Persona 1
 
+
+### 2.1. Persona 2
+
+**Nome:** Rafael Oliveira
+**Idade:** 28 anos
+**Profissão:** Analista de TI
+**Estado civil:** Namorando
+**Localização:** São Paulo, SP
+**Escolaridade:** Ensino superior completo em Ciências da Computação
+**Hobbies e Interesses:** Jogos de computador e música
+**Traços de Personalidade:** Introvertido, analítico e calmo
+
+**Histórico Psicológico:**
+Rafael procurou terapia após passar por uma fase difícil em sua vida, marcada por estresse no trabalho e sentimentos de inadequação. Ele tem uma tendência a evitar conflitos, o que resulta em dificuldades de comunicação e frustração em seus relacionamentos. Rafael também sofre de ataques de pânico ocasionais, principalmente quando se sente sobrecarregado. Ele sente que não está atendendo às expectativas que ele mesmo coloca sobre si.
+
+**Motivos para buscar a terapia:**
+- Dificuldade em lidar com o estresse no trabalho e com a pressão por resultados rápidos
+- Sintomas de ansiedade e ataques de pânico ocasionais
+- Problemas de comunicação com a parceira e medo de não ser compreendido
+- Sentimentos de insegurança e dificuldade em expressar emoções
+- Falta de motivação em algumas áreas da vida pessoal e profissional
+
+**Objetivos na terapia:**
+- Aprender a gerenciar o estresse e os ataques de pânico de forma saudável
+- Melhorar suas habilidades de comunicação, especialmente com sua parceira
+- Aumentar sua autoestima e confiança
+- Desenvolver habilidades para lidar com críticas e frustrações de maneira mais saudável
+- Melhorar sua motivação e engajamento com suas atividades pessoais e profissionais
 
 
 ## 3. Modelagem do processo de negócio
