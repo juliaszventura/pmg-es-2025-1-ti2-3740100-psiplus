@@ -116,7 +116,7 @@ Luíza é uma profissional experiente, atuando na área há mais de 20 anos. Ela
 - Utilizar ferramentas que a ajudem a monitorar o progresso terapêutico
 
 
-### 2.1. Persona 2
+### 2.2. Persona 2
 
 **Nome:** Rafael Oliveira
 
