@@ -85,6 +85,7 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 ### 2.1. Persona 2
 
 **Nome:** Rafael Oliveira
+
 **Idade:** 28 anos
 **Profissão:** Analista de TI
 **Estado civil:** Namorando
