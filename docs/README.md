@@ -87,11 +87,17 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 **Nome:** Rafael Oliveira
 
 **Idade:** 28 anos
+
 **Profissão:** Analista de TI
+
 **Estado civil:** Namorando
+
 **Localização:** São Paulo, SP
+
 **Escolaridade:** Ensino superior completo em Ciências da Computação
+
 **Hobbies e Interesses:** Jogos de computador e música
+
 **Traços de Personalidade:** Introvertido, analítico e calmo
 
 **Histórico Psicológico:**
