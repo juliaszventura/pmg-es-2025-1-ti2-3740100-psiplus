@@ -84,15 +84,22 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 - Conseguir cadastrar todos os seus clientes em uma única plataforma
 - Poder agendar as consultas em um calendário virtual
 - Ter mais organização com os horários das consultas
+- Ter uma visão geral da agenda e das sessões marcadas, remarcadas ou canceladas
+- Otimizar o tempo e reduzir erros na gestão da clínica
+- Ter um registro organizado do histórico emocional dos pacientes
 - Fornecer um serviço de melhor qualidade para seus clientes
 - Acompanhar a evolução dos pacientes de forma mais estruturada
+- Manter anotações e registros seguros sobre as sessões
 - Utilizar ferramentas que a ajudem a monitorar o progresso terapêutico
-
 
 ### 2.2. Paciente
 
-- 
-
+- Agendar e remarcar consultas de forma prática e rápida
+- Registrar emoções e eventos diários para compartilhar com o psicólogo
+- Ter acesso ao histórico das próprias emoções e identificar padrões emocionais
+- Comunicar-se de maneira segura e pontual com o psicólogo entre as sessões
+- Sentir-se mais ativo no próprio processo terapêutico através do acompanhamento digital
+- Garantir que suas informações e registros estejam protegidos e acessíveis quando necessário
 
 ## 3. Modelagem do processo de negócio
 
