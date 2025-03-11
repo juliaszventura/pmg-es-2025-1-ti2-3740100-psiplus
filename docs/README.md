@@ -79,33 +79,7 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 
 ## 2. Participantes do processo
 
-### 2.1. Persona 1
-
-**Nome:** Luíza Almeida
-
-**Idade:** 47 anos
-
-**Profissão:** Psicóloga clínica
-
-**Estado civil:** Casada
-
-**Localização:** São Paulo, SP
-
-**Escolaridade:** Pós-graduação em Psicologia Clínica
-
-**Hobbies e Interesses:** Ler e cozinhar
-
-**Traços de Personalidade:** Empática, paciente, organizada e curiosa
-
-**Histórico Profissional e Motivação:**
-Luíza é uma profissional experiente, atuando na área há mais de 20 anos. Ela se especializou em terapia cognitivo-comportamental e trabalha principalmente com adultos que enfrentam ansiedade, depressão e desafios emocionais. Com o aumento da demanda por atendimentos psicológicos, ela percebeu a necessidade de modernizar sua gestão de pacientes, otimizando seu tempo e melhorando a organização do seu trabalho.
-
-**Desafios na Rotina Profissional:**
-- Gestão de horários e agendamentos, evitando sobrecarga
-- Manter registros organizados sobre a evolução de cada paciente
-- Equilibrar a vida profissional com a pessoal, evitando burnout
-- Acompanhar os avanços tecnológicos na psicologia sem perder a abordagem humanizada
-- Melhorar a comunicação entre sessões, sem comprometer limites éticos
+### 2.1. Psicólogo 
   
 **Objetivos com a Plataforma PSI+:**
 - Conseguir cadastrar todos os seus clientes em uma única plataforma
@@ -116,35 +90,8 @@ Luíza é uma profissional experiente, atuando na área há mais de 20 anos. Ela
 - Utilizar ferramentas que a ajudem a monitorar o progresso terapêutico
 
 
-### 2.2. Persona 2
+### 2.2. Paciente
 
-**Nome:** Rafael Oliveira
-
-**Idade:** 28 anos
-
-**Profissão:** Analista de TI
-
-**Estado civil:** Namorando
-
-**Localização:** São Paulo, SP
-
-**Escolaridade:** Ensino superior completo em Ciências da Computação
-
-**Hobbies e Interesses:** Jogos de computador e música
-
-**Traços de Personalidade:** Introvertido, analítico e calmo
-
-**Histórico Psicológico:**
-Rafael procurou terapia após passar por uma fase difícil em sua vida, marcada por estresse no trabalho e sentimentos de inadequação. Ele tem uma tendência a evitar conflitos, o que resulta em dificuldades de comunicação e frustração em seus relacionamentos. Rafael também sofre de ataques de pânico ocasionais, principalmente quando se sente sobrecarregado. Ele sente que não está atendendo às expectativas que ele mesmo coloca sobre si.
-
-**Motivos para buscar a terapia:**
-- Dificuldade em lidar com o estresse no trabalho e com a pressão por resultados rápidos
-- Sintomas de ansiedade e ataques de pânico ocasionais
-- Problemas de comunicação com a parceira e medo de não ser compreendido
-- Sentimentos de insegurança e dificuldade em expressar emoções
-- Falta de motivação em algumas áreas da vida pessoal e profissional
-
-**Objetivos na terapia:**
 - Aprender a gerenciar o estresse e os ataques de pânico de forma saudável
 - Melhorar suas habilidades de comunicação, especialmente com sua parceira
 - Aumentar sua autoestima e confiança
