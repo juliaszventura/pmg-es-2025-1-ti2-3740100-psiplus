@@ -80,8 +80,7 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 ## 2. Participantes do processo
 
 ### 2.1. Psicólogo 
-  
-**Objetivos com a Plataforma PSI+:**
+
 - Conseguir cadastrar todos os seus clientes em uma única plataforma
 - Poder agendar as consultas em um calendário virtual
 - Ter mais organização com os horários das consultas
@@ -92,11 +91,7 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 
 ### 2.2. Paciente
 
-- Aprender a gerenciar o estresse e os ataques de pânico de forma saudável
-- Melhorar suas habilidades de comunicação, especialmente com sua parceira
-- Aumentar sua autoestima e confiança
-- Desenvolver habilidades para lidar com críticas e frustrações de maneira mais saudável
-- Melhorar sua motivação e engajamento com suas atividades pessoais e profissionais
+- 
 
 
 ## 3. Modelagem do processo de negócio
