@@ -135,7 +135,7 @@ A proposta do PSI+ é desenvolver uma plataforma online que centralize as princi
 
 [PROCESSO 3 - Controle de pacientes e Histórico Clínico](processo-3-Controle-de-Pacientes-e-Histórico-Clínico.md "Detalhamento do Processo 3.")
 
-[PROCESSO 4 - Estatísticas e feedback das emoções do indivíduo](processo-4-nome-do-processo.md "Detalhamento do Processo 4.")
+[PROCESSO 4 - Estatísticas e feedback das emoções do indivíduo](processo-4-estatisticas.md "Detalhamento do Processo 4.")
 
 ## 4. Projeto da solução
 
