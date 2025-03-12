@@ -109,11 +109,11 @@ Atualmente, muitos psicólogos enfrentam desafios na gestão de suas práticas c
 
 **Agendamento de Consultas:**
 
-**Registro e gestão das sessões terapêuticas:**
+**Registro e Gestão das sessões terapêuticas:**
 
-**Controle de pacientes e Histórico Clínico:**
+**Gestão de Pacientes e Histórico Clínico:** Atualmente, o cadastro de pacientes, o controle de informações e o histórico clínico em clínicas de psicologia são gerenciados de forma descentralizada. Muitos profissionais ainda utilizam fichas físicas, cadernos de anotações ou planilhas simples para registrar dados dos pacientes, o que torna o acesso às informações lento e suscetível a perdas. Em alguns casos, clínicas maiores adotam softwares genéricos de gestão, mas esses sistemas nem sempre são adaptados às necessidades específicas da psicologia, dificultando a organização do histórico clínico e o acompanhamento detalhado da evolução do paciente. O armazenamento descentralizado dessas informações também compromete a continuidade do tratamento, pois o psicólogo depende de registros dispersos ou da memória do paciente para acompanhar seu progresso ao longo do tempo.
 
-**Estatísticas e feedback das emoções do indivíduo:**
+**Estatísticas e Feedback das emoções do indivíduo:**
 
 ### 3.2. Descrição geral da proposta de solução
 
@@ -121,11 +121,11 @@ A proposta do PSI+ é desenvolver uma plataforma online que centralize as princi
 
 **Agendamento de Consultas:**
 
-**Registro e gestão das sessões terapêuticas:**
+**Registro e Gestão das sessões terapêuticas:**
 
-**Controle de pacientes e Histórico Clínico:**
+**Gestão de Pacientes e Histórico Clínico:** O PSI+ propõe uma solução digital integrada que centraliza o cadastro de pacientes, o controle de informações e o histórico clínico em uma plataforma segura e acessível. Com esse sistema, os psicólogos poderão registrar e consultar facilmente os dados de seus pacientes, garantindo um histórico clínico detalhado e atualizado em tempo real. O sistema possibilita um acompanhamento estruturado da evolução do paciente, permitindo a inserção de anotações após cada consulta e o registro de eventos importantes entre as sessões. Além disso, elimina a necessidade de documentos físicos e reduz o risco de perda de informações, tornando o atendimento mais eficiente e organizado.
 
-**Estatísticas e feedback das emoções do indivíduo:**
+**Estatísticas e Feedback das emoções do indivíduo:**
 
 ### 3.3. Modelagem dos processos
 
