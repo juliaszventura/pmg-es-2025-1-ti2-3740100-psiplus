@@ -1,7 +1,6 @@
 ### 3.3.3 Processo 3 – Gestão do Paciente e Histórico Clínico
 
-_Apresente aqui o nome e as oportunidades de melhoria para o processo 3. 
-Em seguida, apresente o modelo do processo 3, descrito no padrão BPMN._
+**Gestão do Paciente e Histórico Cínico:** A gestão de pacientes e históricos clínicos em clínicas de psicologia enfrenta desafios como registros descentralizados, dificuldades de acesso às informações e processos manuais suscetíveis a erros. A digitalização completa do processo permite maior organização, reduz burocracias e melhora a continuidade do tratamento. Um sistema centralizado e automatizado possibilita um cadastro mais eficiente, facilitando atualizações e acesso rápido ao histórico clínico. Além disso, a inclusão de um módulo para solicitação de histórico pelos pacientes proporciona mais autonomia, garantindo um atendimento mais ágil e eficiente.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 3](images/process.png "Modelo BPMN do Processo 3.")
 
