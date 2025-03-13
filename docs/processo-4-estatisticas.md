@@ -1,9 +1,10 @@
-### 3.3.4 Processo 4 – NOME DO PROCESSO
+### 3.3.4 Processo 4 – Estatísticas e feedback das emoções do indivíduo
 
-_Apresente aqui o nome e as oportunidades de melhoria para o processo 4. 
-Em seguida, apresente o modelo do processo 4, descrito no padrão BPMN._
+O sistema apresenta uma visão de um período selecionado das emoções do paciente, com base nos registros realizados pelo paciente e pelo psicólogo. Com o gráfico é possível realizar comparação entre as visões e também é possível analisar o progresso com o tempo e ter feedbacks das consultas realizadas, o que facilita para o psicólogo proporcionando um melhor acompanhamento e também para o paciente compreender o processo terapêutico.
 
-![Exemplo de um Modelo BPMN do PROCESSO 4](images/process.png "Modelo BPMN do Processo 4.")
+![Wireframe](images/wireframe-estatisticas.jpeg "Wireframe tela estatísticas.")
+
+![Exemplo de um Modelo BPMN do PROCESSO 4](images/bpmn-estatisticas.png "Modelo BPMN do Processo 4.")
 
 
 #### Detalhamento das atividades
