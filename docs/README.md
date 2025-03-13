@@ -61,15 +61,7 @@ A adoção de plataformas digitais especializadas não apenas otimiza a rotina d
 
 ### 1.3 Objetivo geral
 
-O objetivo geral deste trabalho é desenvolver um sistema de gestão digital para psicólogos e pacientes, com funcionalidades voltadas para o registro das emoções diárias dos pacientes, o acompanhamento contínuo pelo psicólogo e a organização eficiente da agenda profissional.
-
-#### 1.3.1 Objetivos específicos
-
-	•	Criar um sistema de agendamento simples e intuitivo.
-	•	Estabelecer um canal de comunicação entre psicólogos e pacientes.
-	•	Implementar um módulo para registro e monitoramento dos sentimentos dos pacientes.
-	•	Garantir uma experiência de uso agradável, com foco em acessibilidade e facilidade de uso.
- 	•	Oferecer uma gestão eficiente das consultas do consultório, permitindo o controle de horários, histórico e organização das sessões de forma prática e sem erros.
+O objetivo deste trabalho é desenvolver o PSI+, um sistema de gestão digital voltado para psicólogos e pacientes, que centralize as principais funcionalidades necessárias para uma prática clínica eficiente e estruturada. A plataforma tem como foco a organização da agenda profissional, permitindo um sistema de agendamento simples e intuitivo, além de oferecer um canal de comunicação seguro entre psicólogos e pacientes. O PSI+ também incluirá um módulo para registro e monitoramento contínuo dos sentimentos dos pacientes, possibilitando um acompanhamento mais detalhado da evolução terapêutica. Para garantir uma experiência de uso agradável, o sistema será desenvolvido com foco em acessibilidade e facilidade de navegação, proporcionando uma gestão eficiente das consultas do consultório, com controle estruturado de horários, histórico clínico e organização das sessões. Dessa forma, a plataforma visa otimizar o tempo do profissional, reduzir erros na administração da clínica e promover um atendimento mais humanizado, organizado e centrado nas necessidades individuais dos pacientes.
 
 ### 1.4 Justificativas
 
@@ -113,7 +105,7 @@ Atualmente, muitos psicólogos enfrentam desafios na gestão de suas práticas c
 
 **Gestão de Pacientes e Histórico Clínico:** Atualmente, o cadastro de pacientes, o controle de informações e o histórico clínico em clínicas de psicologia são gerenciados de forma descentralizada. Muitos profissionais ainda utilizam fichas físicas, cadernos de anotações ou planilhas simples para registrar dados dos pacientes, o que torna o acesso às informações lento e suscetível a perdas. Em alguns casos, clínicas maiores adotam softwares genéricos de gestão, mas esses sistemas nem sempre são adaptados às necessidades específicas da psicologia, dificultando a organização do histórico clínico e o acompanhamento detalhado da evolução do paciente. O armazenamento descentralizado dessas informações também compromete a continuidade do tratamento, pois o psicólogo depende de registros dispersos ou da memória do paciente para acompanhar seu progresso ao longo do tempo.
 
-**Estatísticas e Feedback das emoções do indivíduo:**
+**Estatísticas e Feedback das emoções do indivíduo:** Esse sistema de feedback fornecerá ao psicólogo informações valiosas sobre momentos críticos ou padrões emocionais que podem necessitar de atenção especial. Além disso, o paciente poderá acompanhar sua própria evolução emocional ao longo das sessões, promovendo um maior engajamento com o tratamento e uma compreensão mais aprofundada de sua saúde mental. A implementação dessas estatísticas e do feedback automatizado dentro do PSI+ permitirá um atendimento mais embasado, assertivo e personalizado, otimizando o tempo do profissional e potencializando os resultados da terapia.
 
 ### 3.2. Descrição geral da proposta de solução
 
