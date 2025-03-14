@@ -47,18 +47,15 @@ Diante desse cenário, surge uma oportunidade para integrar e potencializar essa
 
 ### 1.2 Problema
 
-Atualmente, muitos psicólogos enfrentam desafios significativos na gestão eficiente de suas práticas clínicas, o que pode comprometer a qualidade do atendimento oferecido. Os principais problemas incluem:
+A falta de confiança dos pacientes em falar sobre seus sentimentos é um dos desafios mais complexos enfrentados pelos psicólogos no exercício da psicoterapia. A relação terapêutica 
+é construída sobre uma base de confiança mútua, e, quando essa confiança não é estabelecida,o progresso do tratamento pode ser severamente prejudicado. Estudos indicam que muitos 
+pacientes enfrentam dificuldades em expressar suas emoções, o que pode comprometer a eficácia do tratamento[1.6]...Pensando nisso nós da PSI+criamos uma solução 
+para que essas ocasiões possam ser contornadas, nosso sistema conta comum calendario de emocões onde o paciente possa se expressar mais confortavelmente, e assim
+o psicólogo pode ter acesso ao que o paciente sente e fazer as sessões serem mais produtivas.
 
-- **Gestão ineficaz da agenda:** A ausência de um sistema integrado pode levar a agendamentos confusos, sobreposição de horários e dificuldade na remarcação de sessões, resultando em uma rotina desorganizada e estressante para o profissional.
-- **Falta de registro centralizado das informações do paciente:** A utilização de métodos manuais ou sistemas desconexos dificulta o acompanhamento contínuo do histórico e das emoções dos pacientes, tornando o monitoramento da evolução terapêutica menos preciso e eficiente.
-- **Comunicação limitada entre sessões:** Sem uma ferramenta que permita o registro contínuo das emoções e eventos diários, muitos aspectos importantes do dia a dia do paciente podem se perder entre as sessões. Isso dificulta que o psicólogo tenha uma visão completa do estado emocional do paciente ao longo do tempo, impactando a personalização do atendimento.
-- **Ausência de um acompanhamento visual estruturado:** Sem uma ferramenta intuitiva, os pacientes podem ter dificuldade em perceber padrões emocionais ao longo do tempo.
-
-Esses desafios mostram a importância de soluções tecnológicas que tornem a rotina dos psicólogos mais organizada e eficiente. De acordo com o blog Saúde Vianet, a implementação de softwares de gestão clínica pode centralizar todas as operações em um só lugar, facilitando o agendamento, a comunicação e o registro de informações dos pacientes, além de melhorar a organização financeira e o controle de custos. 
-
-A adoção de plataformas digitais especializadas não apenas otimiza a rotina dos profissionais de psicologia, mas também aprimora a experiência dos pacientes, promovendo um atendimento mais organizado, eficiente e centrado nas necessidades individuais.
-
-- https://saudevianet.com.br/blog/desafios-gestao-de-clinicas-de-psicologia/
+A gestão eficiente das datas de consultas e dos pacientes cadastrados é um desafio significativo para psicólogos, impactando diretamente na qualidade do atendimento e no 
+andamento dos tratamentos. A falta de organização pode levar a atrasos no atendimento e a falta do paciente na consulta, comprometendo a eficácia das intervenções terapêuticas[1.7]...Nosso sistema apresenta uma excelente ferramenta paraque esses problemas sejam evitados, como por exemplo: mandando um email e uma mensagem para
+o paciente um dia antes de sua consulta, visando confirmar sua presença podendo dar continuidadeou desmarcar a sua consulta caso ele queira.
 
 ### 1.3 Objetivo geral
 
@@ -176,6 +173,9 @@ http://portal.pucminas.br/imagedb/documento/DOC_DSC_NOME_ARQUI20160217102425.pdf
 
 **[1.5]** - _RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial**. Rio de Janeiro: Elsevier, c2013. xxi, 988 p. ISBN 9788535237016._
 
+**[1.6]** - Tenho dificuldade de me expressar, [https://www.doctoralia.com.br/perguntas-respostas/tenho-dificuldade-de-me-expressar-por-isso-nao-consigo-ir-ao-psicologo-e-normal-nao-conseguir-se-c].
+
+**[1.7]** - O paciente faltou à consulta e não avisou, [https://nossospsicologos.zendesk.com/hc/pt-br/articles/115000759614-O-paciente-faltou-%C3%A0-consulta-e-n%C3%A3o-avisou-Devo-informar-isso-%C3%A0-plataforma].
 
 
 # APÊNDICES
