@@ -67,4 +67,17 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
 | Atualizar               | Confirma as alterações              | default           |
-| Cancelar            | Descarta mudanças  | default                  |
+| Cancelar            | Descarta mudanças  | cancel                  |
+
+**Consulta ao Histórico Clínico**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ----           | ---               |
+| Data da Consulta            | Data   | Obrigatório    | -                 |
+| Anotações  | Área de Texto                 | Somente leitura               | -                  |
+| Diagnóstico           | Área de Texto   | Somente leitura | -               |
+
+| **Comandos**         |  **Destino**                   | **Tipo** |
+| ---                  | ---                            | ---               |
+| Visualizar               | Exibe o histórico do paciente              | default           |
+| Fechar            | Sai da tela sem alterar dados  | cancel                  |
