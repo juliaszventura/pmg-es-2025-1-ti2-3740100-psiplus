@@ -1,7 +1,8 @@
 ### 3.3.1 Processo 1 – NOME DO PROCESSO
 
 O processo de agendamento de consultas permite que psicólogos cadastrem seus horários disponíveis e ocupados, enquanto os pacientes podem visualizar os horários livres e agendar uma consulta diretamente pela plataforma. O sistema facilita a organização do tempo dos psicólogos e oferece aos pacientes uma maneira simples e eficiente de marcar consultas, garantindo uma gestão otimizada de horários e maior conveniência para ambos os lados.
-![Exemplo de um Modelo BPMN do PROCESSO 1](images/process.png "Modelo BPMN do Processo 1.")
+
+![Modelo BPMN agendamento](images/diagramaAgendamento.png)
 
 #### Detalhamento das atividades
 
