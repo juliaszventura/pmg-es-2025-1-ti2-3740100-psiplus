@@ -104,3 +104,14 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | Aprovar               | Disponibiliza o histórico ao paciente              | default           |
 | Recusar            | Notifica paciente da recusa  | cancel                  |
 
+**Arquivamento de Paciente**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ----           | ---               |
+| Status do Paciente   | Seleção Única   | Ativo / Arquivado   | Ativo                |
+
+| **Comandos**         |  **Destino**                   | **Tipo** |
+| ---                  | ---                            | ---               |
+| Arquivar               | Altera o status para "Arquivado"              | default           |
+| Cancelar            | Mantém o status atual  | cancel                  |
+
