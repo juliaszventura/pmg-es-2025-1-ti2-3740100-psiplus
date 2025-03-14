@@ -119,7 +119,7 @@ A proposta do PSI+ é desenvolver uma plataforma online que centralize as princi
 
 **Gestão de Pacientes e Histórico Clínico:** O PSI+ propõe uma solução digital integrada que centraliza o cadastro de pacientes, o controle de informações e o histórico clínico em uma plataforma segura e acessível. Com esse sistema, os psicólogos poderão registrar e consultar facilmente os dados de seus pacientes, garantindo um histórico clínico detalhado e atualizado em tempo real. O sistema possibilita um acompanhamento estruturado da evolução do paciente, permitindo a inserção de anotações após cada consulta e o registro de eventos importantes entre as sessões. Além disso, elimina a necessidade de documentos físicos e reduz o risco de perda de informações, tornando o atendimento mais eficiente e organizado.
 
-**Estatísticas e Feedback das emoções do indivíduo:**
+**Estatísticas e Feedback das emoções do indivíduo:** A proposta do novo sistema busca solucionar essas limitações através de um calendário de emoções digital, no qual os pacientes poderão registrar suas emoções diariamente, vinculando sentimentos a eventos específicos. Os psicólogos terão acesso a estatísticas automatizadas, gráficos de tendências emocionais e feedbacks personalizados, permitindo uma análise mais aprofundada e dinâmica do estado emocional do paciente. Com isso, será possível identificar padrões recorrentes, ajustar estratégias terapêuticas com base em dados concretos e oferecer um acompanhamento mais preciso e eficiente, promovendo um suporte psicológico mais adaptado às necessidades individuais.
 
 ### 3.3. Modelagem dos processos
 
