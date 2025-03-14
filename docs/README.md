@@ -42,8 +42,8 @@ No mundo digital de hoje, até os consultórios de psicologia precisam se modern
 
 ### 1.1 Contextualização
 
-Atualmente, é comum que os psicólogos utilizem diversos sistemas separados para realizar suas atividades diárias, como plataformas para preenchimento de cadastros e formulários (Google Forms), ferramentas para agendamento de consultas(Zenklub, Virtude), agendas de gestão virtuais (PsicologiaNET, ClinicaWEB), além de diferentes métodos para anotação e avaliação dos pacientes. Essa fragmentação de processos pode gerar desafios na gestão eficiente das informações e no acompanhamento do progresso dos pacientes. Diante desse cenário, surge uma oportunidade para integrar e potencializar essas funcionalidades, criando uma solução que unifique esses processos. 
-Além disso, visamos desenvolver novas abordagens para avaliação psicológica, oferecendo recursos como a apresentação de estatísticas e dados detalhados sobre o estado de cada paciente, facilitando a gestão do trabalho do psicólogo e promovendo uma visão mais clara e completa sobre os casos tratados.
+Atualmente, é comum que os psicólogos utilizem diversos sistemas separados para realizar suas atividades diárias, como plataformas para preenchimento de cadastros e formulários (Google Forms), ferramentas para agendamento de consultas(Zenklub, Virtude), agendas de gestão virtuais (PsicologiaNET, ClinicaWEB), além de diferentes métodos para anotação e avaliação dos pacientes. Essa fragmentação de processos pode gerar desafios na gestão eficiente das informações e no acompanhamento do progresso dos pacientes.
+Diante desse cenário, surge uma oportunidade para integrar e potencializar essas funcionalidades, criando uma solução que unifique esses processos. Além disso, visamos desenvolver novas abordagens para avaliação psicológica, oferecendo recursos como a apresentação de estatísticas e dados detalhados sobre o estado de cada paciente, facilitando a gestão do trabalho do psicólogo e promovendo uma visão mais clara e completa sobre os casos tratados.
 
 ### 1.2 Problema
 
