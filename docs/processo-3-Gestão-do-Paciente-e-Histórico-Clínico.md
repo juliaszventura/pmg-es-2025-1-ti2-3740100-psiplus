@@ -49,19 +49,22 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-|        |                                |                   |
 | Salvar               | Confirma o cadastro e armazena os dados              | default           |
 | Cancelar            | Descarta a ação e retorna à tela inicial  | default                  |
 
 
-**Nome da atividade 2**
+**Atualização de Dados do Paciente**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-|                 |                  |                |                   |
+| ---             | ---              | ----           | ---               |
+| Nome            | Caixa de texto   | Editável    | -                 |
+| Data de Nascimento  | Data                 | Editável (dd-mm-aaaa)               | -                  |
+| Telefone           | Número   | Editável, formato (XX) XXXXX-XXXX | -               |
+| E-mail          | Caixa de Texto   | Formato de e-mail válido | -          |
+| Endereço           | Área de Texto   | Opcional | -               |
+| Observações          | Área de Texto   | Opcional | -          |
 
-| **Comandos**         |  **Destino**                   | **Tipo**          |
+| **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
-|                      |                                |                   |
+| Atualizar               | Confirma as alterações              | default           |
+| Cancelar            | Descarta mudanças  | default                  |
