@@ -81,3 +81,26 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | ---                  | ---                            | ---               |
 | Visualizar               | Exibe o histórico do paciente              | default           |
 | Fechar            | Sai da tela sem alterar dados  | cancel                  |
+
+**Solicitação de Histórico pelo Paciente**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ----           | ---               |
+| Justificativa   | Área de Texto   | Obrigatório    | -                 |
+
+| **Comandos**         |  **Destino**                   | **Tipo** |
+| ---                  | ---                            | ---               |
+| Enviar               | Envia a solicitação ao psicólogo              | default           |
+| Cancelar            | Cancela a solicitação  | cancel                  |
+
+**Liberação do Histórico para o Paciente**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ----           | ---               |
+| Histórico do Paciente   | Área de Texto   | Somente leitura   | -                 |
+
+| **Comandos**         |  **Destino**                   | **Tipo** |
+| ---                  | ---                            | ---               |
+| Aprovar               | Disponibiliza o histórico ao paciente              | default           |
+| Recusar            | Notifica paciente da recusa  | cancel                  |
+
