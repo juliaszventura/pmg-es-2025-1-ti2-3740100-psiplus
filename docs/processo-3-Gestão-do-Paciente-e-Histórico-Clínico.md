@@ -44,13 +44,15 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | Data de Nascimento  | Data                 | Obrigatório (dd-mm-aaaa)               | -                  |
 | Telefone           | Número   | Obrigatório, formato (XX) XXXXX-XXXX | -               |
 | E-mail          | Caixa de Texto   | Formato de e-mail válido | -          |
+| Endereço           | Área de Texto   | Opcional | -               |
+| Observações          | Área de Texto   | Opcional | -          |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
 | [Nome do botão/link] | Atividade/processo de destino  | (default/cancel  ) |
-| ***Exemplo:***       |                                |                   |
-| entrar               | Fim do Processo 1              | default           |
-| cadastrar            | Início do proceso de cadastro  |                   |
+|        |                                |                   |
+| Salvar               | Confirma o cadastro e armazena os dados              | default           |
+| Cancelar            | Descarta a ação e retorna à tela inicial  | default                  |
 
 
 **Nome da atividade 2**
