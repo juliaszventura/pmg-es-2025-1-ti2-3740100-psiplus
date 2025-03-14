@@ -123,7 +123,7 @@ A proposta do PSI+ é desenvolver uma plataforma online que centralize as princi
 
 ### 3.3. Modelagem dos processos
 
-[PROCESSO 1 - Agendamento de Consultas](processo-1-nome-do-processo.md "Detalhamento do Processo 1.")
+[PROCESSO 1 - Agendamento de Consultas](processo-1-Agendamento-de-Consultas.md "Detalhamento do Processo 1.")
 
 [PROCESSO 2 - Registro e gestão das sessões terapêuticas](processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
 
