@@ -1,66 +1,54 @@
-### 3.3.1 Processo 1 – NOME DO PROCESSO
+### 3.3.1 Processo 1 – AGENDAMENTO DE CONSULTAS
 
 O processo de agendamento de consultas permite que psicólogos cadastrem seus horários disponíveis e ocupados, enquanto os pacientes podem visualizar os horários livres e agendar uma consulta diretamente pela plataforma. O sistema facilita a organização do tempo dos psicólogos e oferece aos pacientes uma maneira simples e eficiente de marcar consultas, garantindo uma gestão otimizada de horários e maior conveniência para ambos os lados.
 
 ![Modelo BPMN agendamento](images/diagramaAgendamento.png)
 
-#### Detalhamento das atividades
 
-_Descreva aqui cada uma das propriedades das atividades do processo 1. 
-Devem estar relacionadas com o modelo de processo apresentado anteriormente._
-
-_Os tipos de dados a serem utilizados são:_
-
-_* **Área de texto** - campo texto de múltiplas linhas_
-
-_* **Caixa de texto** - campo texto de uma linha_
-
-_* **Número** - campo numérico_
-
-_* **Data** - campo do tipo data (dd-mm-aaaa)_
-
-_* **Hora** - campo do tipo hora (hh:mm:ss)_
-
-_* **Data e Hora** - campo do tipo data e hora (dd-mm-aaaa, hh:mm:ss)_
-
-_* **Imagem** - campo contendo uma imagem_
-
-_* **Seleção única** - campo com várias opções de valores que são mutuamente exclusivas (tradicional radio button ou combobox)_
-
-_* **Seleção múltipla** - campo com várias opções que podem ser selecionadas mutuamente (tradicional checkbox ou listbox)_
-
-_* **Arquivo** - campo de upload de documento_
-
-_* **Link** - campo que armazena uma URL_
-
-_* **Tabela** - campo formado por uma matriz de valores_
-
-
-**Nome da atividade 1**
+**Efetuar Login**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-| ***Exemplo:***  |                  |                |                   |
 | login           | Caixa de Texto   | formato de e-mail |                |
 | senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel  ) |
-| ***Exemplo:***       |                                |                   |
-| entrar               | Fim do Processo 1              | default           |
+| entrar               | Fim do Processo Efetuar Login           | default           |
 | cadastrar            | Início do proceso de cadastro  |                   |
 
 
-**Nome da atividade 2**
+**Cadastrar horário vago**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
 | [Nome do campo] | [tipo de dados]  |                |                   |
-|                 |                  |                |                   |
+| dataehora       | Data e Hora      |dd-mm-aaaa, hh:mm|                   |
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
-|                      |                                |                   |
+| confirmar | Fim do Processo Cadastrar horário vago  | default|
+| cancelar| Fim do Processo Cadastrar horário vago|cancel|
+
+
+**Cadastrar horário ocupado**
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| nomepaciente       | Caixa de texto      |---| nome                   |
+| dataehora       | Data e Hora      |dd-mm-aaaa, hh:mm|    
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| confirmar | Fim do Processo Cadastrar horário ocupado  | default|
+| cancelar| Fim do Processo Cadastrar horário ocupado|cancel|
+
+
+**Ocupar horário disponível**
+ **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| selecionarhorario      | Seleção única      |---|                  |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| confirmar | Fim do Processo Ocupar horário disponível  | default|
+| cancelar| Fim do Processo Ocupar horário disponível|cancel|
