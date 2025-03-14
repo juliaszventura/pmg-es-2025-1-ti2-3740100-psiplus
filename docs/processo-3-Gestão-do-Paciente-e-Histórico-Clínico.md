@@ -43,6 +43,8 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | Nome            | Caixa de texto   | Obrigatório    | -                 |
 | Data de Nascimento  | Data                 | Obrigatório (dd-mm-aaaa)               | -                  |
 | Telefone           | Número   | Obrigatório, formato (XX) XXXXX-XXXX | -               |
+| Gênero           | Seleção única   | Masculino/Feminino/Outro | -               |
+| CPF          | Caixa de Texto   | Formato: 000.000.000-00 | -          |
 | E-mail          | Caixa de Texto   | Formato de e-mail válido | -          |
 | Endereço           | Área de Texto   | Opcional | -               |
 | Observações          | Área de Texto   | Opcional | -          |
@@ -50,7 +52,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
 | Salvar               | Confirma o cadastro e armazena os dados              | default           |
-| Cancelar            | Descarta a ação e retorna à tela inicial  | default                  |
+| Cancelar            | Descarta a ação e retorna à tela inicial  | Cancel                  |
 
 
 **Atualização de Dados do Paciente**
@@ -59,6 +61,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | ---             | ---              | ----           | ---               |
 | Nome            | Caixa de texto   | Editável    | -                 |
 | Data de Nascimento  | Data                 | Editável (dd-mm-aaaa)               | -                  |
+| Gênero           | Seleção única   | Masculino/Feminino/Outro | -               |
 | Telefone           | Número   | Editável, formato (XX) XXXXX-XXXX | -               |
 | E-mail          | Caixa de Texto   | Formato de e-mail válido | -          |
 | Endereço           | Área de Texto   | Opcional | -               |
