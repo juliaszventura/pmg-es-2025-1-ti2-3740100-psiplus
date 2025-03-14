@@ -49,13 +49,13 @@ Diante desse cenário, surge uma oportunidade para integrar e potencializar essa
 
 A falta de confiança dos pacientes em falar sobre seus sentimentos é um dos desafios mais complexos enfrentados pelos psicólogos no exercício da psicoterapia. A relação terapêutica 
 é construída sobre uma base de confiança mútua, e, quando essa confiança não é estabelecida,o progresso do tratamento pode ser severamente prejudicado. Estudos indicam que muitos 
-pacientes enfrentam dificuldades em expressar suas emoções, o que pode comprometer a eficácia do tratamento[1.6]...Pensando nisso nós da PSI+criamos uma solução 
+pacientes enfrentam dificuldades em expressar suas emoções, o que pode comprometer a eficácia do tratamento[1.6]. Pensando nisso nós da PSI+ criamos uma solução 
 para que essas ocasiões possam ser contornadas, nosso sistema conta comum calendario de emocões onde o paciente possa se expressar mais confortavelmente, e assim
 o psicólogo pode ter acesso ao que o paciente sente e fazer as sessões serem mais produtivas.
 
 A gestão eficiente das datas de consultas e dos pacientes cadastrados é um desafio significativo para psicólogos, impactando diretamente na qualidade do atendimento e no 
-andamento dos tratamentos. A falta de organização pode levar a atrasos no atendimento e a falta do paciente na consulta, comprometendo a eficácia das intervenções terapêuticas[1.7]...Nosso sistema apresenta uma excelente ferramenta paraque esses problemas sejam evitados, como por exemplo: mandando um email e uma mensagem para
-o paciente um dia antes de sua consulta, visando confirmar sua presença podendo dar continuidadeou desmarcar a sua consulta caso ele queira.
+andamento dos tratamentos. A falta de organização pode levar a atrasos no atendimento e a falta do paciente na consulta, comprometendo a eficácia das intervenções terapêuticas[1.7]. Nosso sistema apresenta uma excelente ferramenta paraque esses problemas sejam evitados, como por exemplo: mandando um email e uma mensagem para
+o paciente um dia antes de sua consulta, visando confirmar sua presença podendo dar continuidade ou desmarcar a sua consulta caso ele queira.
 
 ### 1.3 Objetivo geral
 
