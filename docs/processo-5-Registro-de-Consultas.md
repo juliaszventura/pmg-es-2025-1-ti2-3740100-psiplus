@@ -2,7 +2,7 @@
 
 O sistema permite que o psicólogo registre consultas agendadas, permitindo que o paciente confirme, reagende ou cancele o compromisso. No momento da consulta, o psicólogo pode adicionar anotações ao atendimento e salvar o histórico do paciente para futuras referências.
 
-![Exemplo de um Modelo BPMN do PROCESSO 5](images/bpmn-agendamento.png "Modelo BPMN do Processo 5.")
+![Exemplo de um Modelo BPMN do PROCESSO 5](images/modeloRegistro_Consulta.png")
 
 #### Detalhamento das atividades
 
