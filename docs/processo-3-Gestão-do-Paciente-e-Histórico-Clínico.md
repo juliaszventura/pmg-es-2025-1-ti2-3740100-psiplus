@@ -49,7 +49,6 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel  ) |
 |        |                                |                   |
 | Salvar               | Confirma o cadastro e armazena os dados              | default           |
 | Cancelar            | Descarta a ação e retorna à tela inicial  | default                  |
