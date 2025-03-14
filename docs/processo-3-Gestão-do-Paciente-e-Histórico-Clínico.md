@@ -40,10 +40,10 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ----           | ---               |
-| Nome            | Caixa de texto   |                |                   |
-| ***Exemplo:***  |                  |                |                   |
-| login           | Caixa de Texto   | formato de e-mail |                |
-| senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
+| Nome            | Caixa de texto   | Obrigatório    | -                 |
+| Data de Nascimento  | Data                 | Obrigatório (dd-mm-aaaa)               | -                  |
+| Telefone           | Número   | Obrigatório, formato (XX) XXXXX-XXXX | -               |
+| E-mail          | Caixa de Texto   | Formato de e-mail válido | -          |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
