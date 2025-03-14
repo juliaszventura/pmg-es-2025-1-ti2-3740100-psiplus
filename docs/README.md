@@ -62,7 +62,11 @@ A adoção de plataformas digitais especializadas não apenas otimiza a rotina d
 
 ### 1.3 Objetivo geral
 
-O objetivo deste trabalho é desenvolver o PSI+, um sistema de gestão digital voltado para psicólogos e pacientes, que centralize as principais funcionalidades necessárias para uma prática clínica eficiente e estruturada. A plataforma tem como foco a organização da agenda profissional, permitindo um sistema de agendamento simples e intuitivo, além de oferecer um canal de comunicação seguro entre psicólogos e pacientes. O PSI+ também incluirá um módulo para registro e monitoramento contínuo dos sentimentos dos pacientes, possibilitando um acompanhamento mais detalhado da evolução terapêutica. Para garantir uma experiência de uso agradável, o sistema será desenvolvido com foco em acessibilidade e facilidade de navegação, proporcionando uma gestão eficiente das consultas do consultório, com controle estruturado de horários, histórico clínico e organização das sessões. Dessa forma, a plataforma visa otimizar o tempo do profissional, reduzir erros na administração da clínica e promover um atendimento mais humanizado, organizado e centrado nas necessidades individuais dos pacientes.
+O objetivo geral deste trabalho é desenvolver um sistema de gestão digital para psicólogos e pacientes, com funcionalidades voltadas para o registro das emoções diárias dos pacientes, o acompanhamento contínuo pelo psicólogo e a organização eficiente da agenda profissional.
+
+#### 1.3.1 Objetivos específicos
+
+Os objetivos específicos deste trabalho incluem a criação de um sistema de agendamento simples e intuitivo, além do estabelecimento de um canal de comunicação eficaz entre psicólogos e pacientes. Também busca-se implementar um módulo para o registro e monitoramento dos sentimentos dos pacientes, garantindo um acompanhamento contínuo. Além disso, o sistema deve proporcionar uma experiência de uso agradável, priorizando a acessibilidade e a facilidade de navegação. Por fim, pretende-se oferecer uma gestão eficiente das consultas do consultório, permitindo o controle preciso dos horários, o registro do histórico de atendimentos e a organização das sessões de maneira prática e livre de erros.
 
 ### 1.4 Justificativas
 
