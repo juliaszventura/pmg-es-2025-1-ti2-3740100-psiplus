@@ -1,9 +1,9 @@
-### 3.3.2 Processo 2 – NOME DO PROCESSO
+### 3.3.2 Processo 2 – Registro e gestão das sessões terapêuticas
 
 _Apresente aqui o nome e as oportunidades de melhoria para o processo 2. 
 Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN._
 
-![Exemplo de um Modelo BPMN do PROCESSO 2]([images/wireframe%20gest%C3%A3o%20das%20sess%C3%B5es.png).")
+![Exemplo de um Modelo BPMN do PROCESSO 2](images/wireframe%20gest%C3%A3o%20das%20sess%C3%B5es.png).")
 
 
 #### Detalhamento das atividades
