@@ -137,7 +137,7 @@ Muitos psicólogos enfrentam desafios na gestão de suas práticas clínicas dev
 
 1️⃣ **Cadastro e Gestão da agenda:** 
 
-2️⃣ **Cadastro e Gestão do paciente:**
+2️⃣ **Cadastro e Gestão do paciente:** Na atualidade, o cadastro de pacientes, o controle de informações e o histórico clínico em clínicas de psicologia são gerenciados de forma descentralizada. Muitos profissionais ainda utilizam fichas físicas, cadernos de anotações ou planilhas simples para registrar dados dos pacientes, o que torna o acesso às informações lento e suscetível a perdas. Em alguns casos, clínicas maiores adotam softwares genéricos de gestão, mas esses sistemas nem sempre são adaptados às necessidades específicas da psicologia, dificultando a organização do histórico clínico e o acompanhamento detalhado da evolução do paciente. O armazenamento descentralizado dessas informações também compromete a continuidade do tratamento, pois o psicólogo depende de registros dispersos ou da memória do paciente para acompanhar seu progresso ao longo do tempo.
 
 3️⃣ **Registro das consultas:** 
 
