@@ -13,9 +13,9 @@
 
 Professores:
 
-**Michelle Hanne Soares de Andrade** /br
-**Danilo de Quadra Maia Filho**
-**Joana Gabriela Ribeiro de Souza**
+**Michelle Hanne Soares de Andrade**   
+**Danilo de Quadra Maia Filho**  
+**Joana Gabriela Ribeiro de Souza**  
 
 ---
 
