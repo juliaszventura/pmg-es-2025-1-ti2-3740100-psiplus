@@ -47,19 +47,19 @@ Diante desse cenário, surge uma oportunidade para integrar e potencializar essa
 
 Na área da psicoterapia, diversos desafios impactam diretamente tanto a qualidade do atendimento quanto a eficiência dos profissionais. A comunicação entre paciente e terapeuta, a organização das consultas e o acompanhamento do progresso terapêutico são aspectos fundamentais para um tratamento eficaz. No entanto, dificuldades estruturais e operacionais frequentemente limitam o potencial do processo terapêutico. Os principais problemas identificados são:
 
-❌ **Dificuldade dos pacientes em expressar sentimentos**
+❌ **Dificuldade dos pacientes em expressar sentimentos: **  
 Muitos indivíduos enfrentam barreiras emocionais e psicológicas ao tentar comunicar seus sentimentos e experiências durante as sessões terapêuticas. Essa dificuldade pode ser resultado de diversos fatores, como traumas, medo de julgamento ou falta de hábito em verbalizar emoções. Como consequência, o psicólogo pode ter acesso limitado a informações essenciais para compreender a fundo a realidade do paciente, o que pode comprometer a eficácia do tratamento. É comum que pacientes sintam dificuldades em se expressar verbalmente, o que é apontado em diversas fontes, como [1.6], onde a dificuldade de comunicação é discutida como um fator importante na terapia.
 
-❌ **Falta de ferramentas para monitoramento contínuo**
+❌ **Falta de ferramentas para monitoramento contínuo: **
 O processo terapêutico não se limita apenas às sessões presenciais. O estado emocional dos pacientes oscila ao longo do tempo, e sem um meio eficiente para registrar e compartilhar essas mudanças com o psicólogo, torna-se mais difícil acompanhar a evolução do paciente de forma estruturada. A ausência de uma ferramenta para esse acompanhamento contínuo pode reduzir a precisão do diagnóstico e a personalização das intervenções terapêuticas.
 
-❌ **Gestão ineficiente de consultas**
+❌ **Gestão ineficiente de consultas: **
 O gerenciamento manual da agenda pode gerar problemas como conflitos de horários, esquecimentos e dificuldades na organização do tempo do profissional. Falhas nos agendamentos podem resultar em ausências e menor aproveitamento das sessões. A falta de lembretes automatizados também pode aumentar o índice de faltas, como discutido em [1.7], que aborda as implicações dessas ausências no processo terapêutico.
 
-❌ **Armazenamento e acesso inadequados a registros clínicos**
+❌ **Armazenamento e acesso inadequados a registros clínicos: **
 Manter um histórico detalhado e seguro dos atendimentos é essencial para que o psicólogo possa acompanhar a trajetória do paciente e tomar decisões mais assertivas no tratamento. Entretanto, a ausência de um sistema centralizado e seguro pode resultar em perda de informações importantes, dificultando a análise do progresso do paciente e a continuidade do tratamento em longo prazo.
 
-❌ **Comunicação limitada entre sessões**
+❌ **Comunicação limitada entre sessões: **
 A relação entre paciente e psicólogo não deve ser restrita apenas ao momento da consulta. Em muitos casos, os pacientes passam por situações difíceis entre as sessões e não têm um canal adequado para relatar suas emoções ou receber suporte. A falta de uma comunicação estruturada fora das consultas pode prejudicar a continuidade do tratamento e gerar uma sensação de isolamento no paciente.
 
 Esses desafios evidenciam a necessidade de uma solução integrada que otimize a comunicação, o acompanhamento e a gestão no contexto da psicoterapia. Com um sistema estruturado, é possível aprimorar significativamente a experiência dos pacientes e a eficiência do trabalho dos profissionais da área.
