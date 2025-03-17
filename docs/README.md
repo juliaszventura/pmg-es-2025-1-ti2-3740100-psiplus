@@ -123,7 +123,7 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 
 ### 3.1. Análise da situação atual
 
-Atualmente, muitos psicólogos enfrentam desafios na gestão de suas práticas clínicas devido à ausência de sistemas integrados que facilitem o agendamento de consultas, o acompanhamento do estado emocional dos pacientes e a comunicação eficiente entre sessões. Muitos profissionais ainda dependem de métodos manuais ou de sistemas desconexos, o que pode levar a agendamentos confusos, dificuldades no monitoramento contínuo dos pacientes e limitações na comunicação, impactando a qualidade do atendimento e a eficiência do processo terapêutico.​
+Muitos psicólogos enfrentam desafios na gestão de suas práticas clínicas devido à falta de sistemas integrados para agendamento, acompanhamento emocional e comunicação entre sessões. A dependência de métodos manuais ou sistemas desconexos gera agendamentos confusos, dificuldades no monitoramento contínuo dos pacientes e limitações na comunicação, prejudicando a qualidade do atendimento e a eficiência terapêutica.
 
 1️⃣ **Cadastro e Gestão da agenda (Psicólogo):** 
 
@@ -135,7 +135,7 @@ Atualmente, muitos psicólogos enfrentam desafios na gestão de suas práticas c
 
 ### 3.2. Descrição geral da proposta de solução
 
-A proposta do PSI+ é desenvolver uma plataforma online que centralize as principais funcionalidades necessárias para a prática psicológica em um único ambiente digital. O sistema permitirá o agendamento de consultas de forma simples e intuitiva, o registro e monitoramento contínuo das emoções dos pacientes, e estabelecerá um canal de comunicação seguro entre psicólogos e pacientes. Além disso, a plataforma oferecerá recursos para a gestão eficiente das consultas, permitindo o controle de horários, histórico e organização das sessões de forma prática e sem erros. Ao integrar essas funcionalidades, o PSI+ busca otimizar a rotina dos profissionais de psicologia e aprimorar a experiência dos pacientes, promovendo um atendimento mais organizado, eficiente e centrado nas necessidades individuais.​
+O PSI+ é uma plataforma online que centraliza funcionalidades essenciais para a prática psicológica, incluindo agendamento intuitivo, monitoramento contínuo das emoções dos pacientes e comunicação segura entre psicólogos e pacientes. A plataforma também oferece recursos para gestão eficiente das consultas, com controle de horários, histórico e organização das sessões. O objetivo é otimizar a rotina dos profissionais e melhorar a experiência dos pacientes, promovendo um atendimento mais organizado e eficiente.
 
 1️⃣ **Cadastro e Gestão da agenda (Psicólogo):** 
 
