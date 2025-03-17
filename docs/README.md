@@ -103,58 +103,58 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 
 Atualmente, muitos psicólogos enfrentam desafios na gestão de suas práticas clínicas devido à ausência de sistemas integrados que facilitem o agendamento de consultas, o acompanhamento do estado emocional dos pacientes e a comunicação eficiente entre sessões. Muitos profissionais ainda dependem de métodos manuais ou de sistemas desconexos, o que pode levar a agendamentos confusos, dificuldades no monitoramento contínuo dos pacientes e limitações na comunicação, impactando a qualidade do atendimento e a eficiência do processo terapêutico.​
 
-**Cadastro e Gestão da agenda (Psicólogo):** 
+1️⃣ **Cadastro e Gestão da agenda (Psicólogo):** 
 
-**Cadastro e Gestão do paciente (Psicólogo):**
+2️⃣ **Cadastro e Gestão do paciente (Psicólogo):**
 
-**Registro das consultas (Psicólogo):** 
+3️⃣ **Registro das consultas (Psicólogo):** 
 
-**Registro das emoções e calendário (Paciente):** 
+4️⃣ **Registro das emoções e calendário (Paciente):** 
 
 ### 3.2. Descrição geral da proposta de solução
 
 A proposta do PSI+ é desenvolver uma plataforma online que centralize as principais funcionalidades necessárias para a prática psicológica em um único ambiente digital. O sistema permitirá o agendamento de consultas de forma simples e intuitiva, o registro e monitoramento contínuo das emoções dos pacientes, e estabelecerá um canal de comunicação seguro entre psicólogos e pacientes. Além disso, a plataforma oferecerá recursos para a gestão eficiente das consultas, permitindo o controle de horários, histórico e organização das sessões de forma prática e sem erros. Ao integrar essas funcionalidades, o PSI+ busca otimizar a rotina dos profissionais de psicologia e aprimorar a experiência dos pacientes, promovendo um atendimento mais organizado, eficiente e centrado nas necessidades individuais.​
 
-**Cadastro e Gestão da agenda (Psicólogo):** 
+1️⃣ **Cadastro e Gestão da agenda (Psicólogo):** 
 
-**Cadastro e Gestão do paciente (Psicólogo):**
+2️⃣ **Cadastro e Gestão do paciente (Psicólogo):**
 
-**Registro das consultas (Psicólogo):** 
+3️⃣ **Registro das consultas (Psicólogo):** 
 
-**Registro das emoções e calendário (Paciente):** 
+4️⃣ **Registro das emoções e calendário (Paciente):** 
 
 ### 3.3. Modelagem dos processos
 
-📌 [Processo 1 - Cadastro e Gestão da agenda](processo-1-Cadastro-e-Gestao-da-agenda.md "Detalhamento do Processo 1.")
-📌 [Processo 2 - Cadastro e Gestão do paciente](processo-2-Cadastro-e-Gestao-do-paciente.md "Detalhamento do Processo 2.")
-📌 [Processo 3 - Registro das consultas](processo-3-Registro-das-consultas.md "Detalhamento do Processo 3.")
-📌 [Processo 4 - Registro das emoções e calendário](processo-4-Registro-das-emocoes-e-calendario.md "Detalhamento do Processo 4.")
+📌 [Processo 1 - Cadastro e Gestão da agenda](processo-1-Cadastro-e-Gestao-da-agenda.md "Detalhamento do Processo 1.")  
+📌 [Processo 2 - Cadastro e Gestão do paciente](processo-2-Cadastro-e-Gestao-do-paciente.md "Detalhamento do Processo 2.")  
+📌 [Processo 3 - Registro das consultas](processo-3-Registro-das-consultas.md "Detalhamento do Processo 3.")  
+📌 [Processo 4 - Registro das emoções e calendário](processo-4-Registro-das-emocoes-e-calendario.md "Detalhamento do Processo 4.")  
 
-## 4. Projeto da solução
+## 💡 4. Projeto da solução
 
 _O documento a seguir apresenta o detalhamento do projeto da solução. São apresentadas duas seções que descrevem, respectivamente: modelo relacional e tecnologias._
 
 [Projeto da solução](solution-design.md "Detalhamento do projeto da solução: modelo relacional e tecnologias.")
 
 
-## 5. Indicadores de desempenho
+## 📊 5. Indicadores de desempenho
 
 _O documento a seguir apresenta os indicadores de desempenho dos processos._
 
 [Indicadores de desempenho dos processos](performance-indicators.md)
 
 
-## 6. Interface do sistema
+## 🖥️ 6. Interface do sistema
 
 _A sessão a seguir apresenta a descrição do produto de software desenvolvido._ 
 
 [Documentação da interface do sistema](interface.md)
 
-## 7. Conclusão
+## 🏁 7. Conclusão
 
 _Apresente aqui a conclusão do seu trabalho. Deve ser apresentada aqui uma discussão dos resultados obtidos no trabalho, local em que se verifica as observações pessoais de cada aluno. Essa seção poderá também apresentar sugestões de novas linhas de estudo._
 
-# REFERÊNCIAS
+# 📚 REFERÊNCIAS
 
 _Como um projeto de software não requer revisão bibliográfica, a inclusão das referências não é obrigatória. No entanto, caso você deseje incluir referências relacionadas às tecnologias, padrões, ou metodologias que serão usadas no seu trabalho, relacione-as de acordo com a ABNT._
 
