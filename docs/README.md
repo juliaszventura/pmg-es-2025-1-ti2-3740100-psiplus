@@ -1,6 +1,6 @@
 # PSIPLUS
 
-##Autores
+## Autores
 
 - **Nico Jobski Andrade, jobskiandrade@gmail.com**
 
