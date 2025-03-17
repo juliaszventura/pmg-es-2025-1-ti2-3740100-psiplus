@@ -133,7 +133,7 @@ A proposta do PSI+ é desenvolver uma plataforma online que centralize as princi
 
 [Processo 3 - Registro das consultas](processo-3-Registro-das-consultas.md "Detalhamento do Processo 3.")
 
-[Processo 4 - Registro das emoções e calendário](processo-4-estatisticas.md "Detalhamento do Processo 4.")
+[Processo 4 - Registro das emoções e calendário](processo-4-Registro-das-emocoes-e-calendario.md "Detalhamento do Processo 4.")
 
 ## 4. Projeto da solução
 
