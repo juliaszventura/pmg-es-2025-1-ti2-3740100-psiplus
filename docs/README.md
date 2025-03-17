@@ -21,7 +21,7 @@
 
 ## Instituição
 
-_Curso de Engenharia de Software_
+_Curso de Engenharia de Software_  
 _Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS)_  
 _Belo Horizonte – MG – Brasil_
 
