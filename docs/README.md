@@ -87,11 +87,21 @@ Criar um sistema de gestão de consultas que permita o controle preciso dos hor�
 
 ### 1.4 Justificativas
 
-A gestão de práticas psicológicas enfrenta desafios significativos, como a desorganização da agenda, dificuldades no acompanhamento das emoções dos pacientes e comunicação limitada entre sessões. Esses problemas impactam tanto os profissionais quanto os pacientes, comprometendo a qualidade do atendimento e a continuidade do tratamento.
+A gestão de práticas psicológicas enfrenta desafios que impactam tanto os profissionais quanto os pacientes, comprometendo a qualidade do atendimento e a continuidade do tratamento. Entre os principais problemas enfrentados estão:
 
-Um dos desafios mais complexos enfrentados pelos psicólogos é a dificuldade dos pacientes em expressar seus sentimentos. A relação terapêutica é baseada na confiança mútua e, quando essa confiança não é estabelecida, o progresso do tratamento pode ser prejudicado. Estudos indicam que muitos pacientes têm dificuldades em comunicar suas emoções, o que pode comprometer a eficácia da terapia. Pensando nisso, o projeto Psi+ propõe uma solução inovadora: um calendário de emoções. Esse recurso permitirá que os pacientes registrem seus sentimentos de forma confortável e contínua, proporcionando ao psicólogo uma visão mais ampla do estado emocional do paciente e tornando as sessões mais produtivas.
+📌 Desorganização da agenda – A falta de um sistema eficiente pode resultar em atrasos, ausências e dificuldades na continuidade do tratamento, prejudicando o acompanhamento do paciente.
+📌 Dificuldade no acompanhamento das emoções dos pacientes – Muitos pacientes enfrentam barreiras para expressar seus sentimentos durante as sessões, o que pode comprometer a eficácia da terapia.
+📌 Comunicação limitada entre sessões – A ausência de um canal estruturado para que os pacientes relatem sua evolução dificulta o trabalho do psicólogo e pode afetar o desenvolvimento do tratamento.
+📌 Falta de ferramentas para auxiliar na expressão emocional dos pacientes – Nem todos os pacientes conseguem verbalizar suas emoções com facilidade, o que pode atrasar o progresso terapêutico. 
 
-Além disso, a gestão eficiente das consultas é outro grande desafio para os psicólogos, impactando diretamente a qualidade do atendimento. A falta de organização pode resultar em atrasos, ausências e dificuldades na continuidade do tratamento. Para mitigar esse problema, o sistema Psi+ incluirá uma ferramenta automatizada de notificações, enviando e-mails e mensagens aos pacientes um dia antes da consulta para confirmação ou cancelamento, garantindo um melhor aproveitamento da agenda do profissional.
+🔹 Solução proposta: Psi+
+
+O projeto Psi+ surge como uma inovação na área da psicologia, oferecendo um sistema digital de gestão que visa tornar o atendimento mais organizado e eficiente.
+
+✅ Calendário de emoções – Um recurso que permite aos pacientes registrarem seus sentimentos de forma contínua e acessível. Isso possibilita ao psicólogo uma visão mais ampla do estado emocional do paciente, tornando as sessões mais produtivas.
+✅ Ferramenta automatizada de notificações – Envio de lembretes automáticos via e-mail e mensagens um dia antes da consulta para confirmação ou cancelamento, garantindo um melhor aproveitamento da agenda.
+✅ Melhoria na comunicação entre paciente e psicólogo – A integração de um espaço digital para troca de informações permite que o profissional acompanhe a evolução do paciente entre as sessões, otimizando o tratamento.
+✅ Integração do agendamento, comunicação e acompanhamento emocional – Um sistema unificado que simplifica a rotina do psicólogo, garantindo mais organização e eficiência no atendimento.
 
 Este trabalho se justifica pela crescente demanda por soluções tecnológicas na área da saúde mental, especialmente na psicologia, e pela necessidade de um sistema que otimize o gerenciamento tanto para o profissional quanto para o paciente. A proposta de um sistema digital de gestão possibilita a integração do agendamento, da comunicação e do acompanhamento emocional em uma única plataforma, simplificando o dia a dia do psicólogo e promovendo um atendimento mais organizado e eficiente. Além disso, o uso da tecnologia como aliada no processo terapêutico torna as informações mais acessíveis e gerenciáveis, contribuindo para uma experiência mais completa e satisfatória para ambas as partes.
 
