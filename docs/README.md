@@ -94,9 +94,9 @@ Além disso, a gestão eficiente das consultas é outro grande desafio para os p
 
 Este trabalho se justifica pela crescente demanda por soluções tecnológicas na área da saúde mental, especialmente na psicologia, e pela necessidade de um sistema que otimize o gerenciamento tanto para o profissional quanto para o paciente. A proposta de um sistema digital de gestão possibilita a integração do agendamento, da comunicação e do acompanhamento emocional em uma única plataforma, simplificando o dia a dia do psicólogo e promovendo um atendimento mais organizado e eficiente. Além disso, o uso da tecnologia como aliada no processo terapêutico torna as informações mais acessíveis e gerenciáveis, contribuindo para uma experiência mais completa e satisfatória para ambas as partes.
 
-## 🏢 2. Participantes do processo
+## 🏥 2. Participantes do processo
 
-### 2.1. Psicólogo 
+### 2.1. 🧑‍⚕️ Psicólogo 
 
 - Conseguir cadastrar todos os seus clientes em uma única plataforma
 - Poder agendar as consultas em um calendário virtual
