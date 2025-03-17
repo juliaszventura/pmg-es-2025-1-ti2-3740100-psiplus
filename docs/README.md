@@ -45,15 +45,24 @@ Diante desse cenário, surge uma oportunidade para integrar e potencializar essa
 
 ### 1.2 Problema
 
-A falta de confiança dos pacientes em falar sobre seus sentimentos é um dos desafios mais complexos enfrentados pelos psicólogos no exercício da psicoterapia. A relação terapêutica 
-é construída sobre uma base de confiança mútua, e, quando essa confiança não é estabelecida,o progresso do tratamento pode ser severamente prejudicado. Estudos indicam que muitos 
-pacientes enfrentam dificuldades em expressar suas emoções, o que pode comprometer a eficácia do tratamento[1.6]. Pensando nisso nós da PSI+ criamos uma solução 
-para que essas ocasiões possam ser contornadas, nosso sistema conta comum calendario de emocões onde o paciente possa se expressar mais confortavelmente, e assim
-o psicólogo pode ter acesso ao que o paciente sente e fazer as sessões serem mais produtivas.
+Na área da psicoterapia, diversos desafios impactam diretamente tanto a qualidade do atendimento quanto a eficiência dos profissionais. A comunicação entre paciente e terapeuta, a organização das consultas e o acompanhamento do progresso terapêutico são aspectos fundamentais para um tratamento eficaz. No entanto, dificuldades estruturais e operacionais frequentemente limitam o potencial do processo terapêutico. Os principais problemas identificados são:
 
-A gestão eficiente das datas de consultas e dos pacientes cadastrados é um desafio significativo para psicólogos, impactando diretamente na qualidade do atendimento e no 
-andamento dos tratamentos. A falta de organização pode levar a atrasos no atendimento e a falta do paciente na consulta, comprometendo a eficácia das intervenções terapêuticas[1.7]. Nosso sistema apresenta uma excelente ferramenta paraque esses problemas sejam evitados, como por exemplo: mandando um email e uma mensagem para
-o paciente um dia antes de sua consulta, visando confirmar sua presença podendo dar continuidade ou desmarcar a sua consulta caso ele queira.
+❌ **Dificuldade dos pacientes em expressar sentimentos**
+Muitos indivíduos enfrentam barreiras emocionais e psicológicas ao tentar comunicar seus sentimentos e experiências durante as sessões terapêuticas. Essa dificuldade pode ser resultado de diversos fatores, como traumas, medo de julgamento ou falta de hábito em verbalizar emoções. Como consequência, o psicólogo pode ter acesso limitado a informações essenciais para compreender a fundo a realidade do paciente, o que pode comprometer a eficácia do tratamento. É comum que pacientes sintam dificuldades em se expressar verbalmente, o que é apontado em diversas fontes, como [1.6], onde a dificuldade de comunicação é discutida como um fator importante na terapia.
+
+❌ **Falta de ferramentas para monitoramento contínuo**
+O processo terapêutico não se limita apenas às sessões presenciais. O estado emocional dos pacientes oscila ao longo do tempo, e sem um meio eficiente para registrar e compartilhar essas mudanças com o psicólogo, torna-se mais difícil acompanhar a evolução do paciente de forma estruturada. A ausência de uma ferramenta para esse acompanhamento contínuo pode reduzir a precisão do diagnóstico e a personalização das intervenções terapêuticas.
+
+❌ **Gestão ineficiente de consultas**
+O gerenciamento manual da agenda pode gerar problemas como conflitos de horários, esquecimentos e dificuldades na organização do tempo do profissional. Falhas nos agendamentos podem resultar em ausências e menor aproveitamento das sessões. A falta de lembretes automatizados também pode aumentar o índice de faltas, como discutido em [1.7], que aborda as implicações dessas ausências no processo terapêutico.
+
+❌ **Armazenamento e acesso inadequados a registros clínicos**
+Manter um histórico detalhado e seguro dos atendimentos é essencial para que o psicólogo possa acompanhar a trajetória do paciente e tomar decisões mais assertivas no tratamento. Entretanto, a ausência de um sistema centralizado e seguro pode resultar em perda de informações importantes, dificultando a análise do progresso do paciente e a continuidade do tratamento em longo prazo.
+
+❌ **Comunicação limitada entre sessões**
+A relação entre paciente e psicólogo não deve ser restrita apenas ao momento da consulta. Em muitos casos, os pacientes passam por situações difíceis entre as sessões e não têm um canal adequado para relatar suas emoções ou receber suporte. A falta de uma comunicação estruturada fora das consultas pode prejudicar a continuidade do tratamento e gerar uma sensação de isolamento no paciente.
+
+Esses desafios evidenciam a necessidade de uma solução integrada que otimize a comunicação, o acompanhamento e a gestão no contexto da psicoterapia. Com um sistema estruturado, é possível aprimorar significativamente a experiência dos pacientes e a eficiência do trabalho dos profissionais da área.
 
 ### 1.3 Objetivo geral
 
