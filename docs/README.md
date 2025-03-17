@@ -45,7 +45,7 @@ Diante desse cenário, surge uma oportunidade para integrar e potencializar essa
 
 ### 1.2 Problema
 
-Na psicoterapia, desafios afetam a qualidade do atendimento e a eficiência dos profissionais. A comunicação, organização das consultas e acompanhamento do progresso terapêutico são essenciais para um tratamento eficaz. No entanto, dificuldades estruturais e operacionais limitam o potencial do processo. Os principais problemas identificados são:
+Na psicoterapia, desafios impactam a qualidade do atendimento e a eficiência dos profissionais. A comunicação, a organização das consultas e o acompanhamento do progresso são essenciais, mas limitações estruturais e operacionais dificultam o processo. Os principais problemas são:
 
 ❌ **Dificuldade dos pacientes em expressar sentimentos:** Muitos indivíduos enfrentam barreiras emocionais e psicológicas ao tentar comunicar seus sentimentos e experiências durante as sessões terapêuticas. Essa dificuldade pode ser resultado de diversos fatores, como traumas, medo de julgamento ou falta de hábito em verbalizar emoções. Como consequência, o psicólogo pode ter acesso limitado a informações essenciais para compreender a fundo a realidade do paciente, o que pode comprometer a eficácia do tratamento. É comum que pacientes sintam dificuldades em se expressar verbalmente, o que é apontado em diversas fontes, como [1.6], onde a dificuldade de comunicação é discutida como um fator importante na terapia.
 
