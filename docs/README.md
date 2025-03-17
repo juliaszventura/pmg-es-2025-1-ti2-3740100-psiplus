@@ -131,7 +131,7 @@ A proposta do PSI+ é desenvolver uma plataforma online que centralize as princi
 
 [Processo 2 - Cadastro e Gestão do paciente](processo-2-Cadastro-e-Gestao-do-paciente.md "Detalhamento do Processo 2.")
 
-[Processo 3 - Registro das consultas](processo-3-Gestão-do-Paciente-e-Histórico-Clínico.md "Detalhamento do Processo 3.")
+[Processo 3 - Registro das consultas](processo-3-Registro-das-consultas.md "Detalhamento do Processo 3.")
 
 [Processo 4 - Registro das emoções e calendário](processo-4-estatisticas.md "Detalhamento do Processo 4.")
 
