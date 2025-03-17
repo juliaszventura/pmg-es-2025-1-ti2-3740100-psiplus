@@ -45,13 +45,13 @@ Diante desse cenário, surge uma oportunidade para integrar e potencializar essa
 
 ### 1.2 Problema
 
-❌ A falta de confiança dos pacientes em falar sobre seus sentimentos é um dos desafios mais complexos enfrentados pelos psicólogos no exercício da psicoterapia. A relação terapêutica 
+A falta de confiança dos pacientes em falar sobre seus sentimentos é um dos desafios mais complexos enfrentados pelos psicólogos no exercício da psicoterapia. A relação terapêutica 
 é construída sobre uma base de confiança mútua, e, quando essa confiança não é estabelecida,o progresso do tratamento pode ser severamente prejudicado. Estudos indicam que muitos 
 pacientes enfrentam dificuldades em expressar suas emoções, o que pode comprometer a eficácia do tratamento[1.6]. Pensando nisso nós da PSI+ criamos uma solução 
 para que essas ocasiões possam ser contornadas, nosso sistema conta comum calendario de emocões onde o paciente possa se expressar mais confortavelmente, e assim
 o psicólogo pode ter acesso ao que o paciente sente e fazer as sessões serem mais produtivas.
 
-❌ A gestão eficiente das datas de consultas e dos pacientes cadastrados é um desafio significativo para psicólogos, impactando diretamente na qualidade do atendimento e no 
+A gestão eficiente das datas de consultas e dos pacientes cadastrados é um desafio significativo para psicólogos, impactando diretamente na qualidade do atendimento e no 
 andamento dos tratamentos. A falta de organização pode levar a atrasos no atendimento e a falta do paciente na consulta, comprometendo a eficácia das intervenções terapêuticas[1.7]. Nosso sistema apresenta uma excelente ferramenta paraque esses problemas sejam evitados, como por exemplo: mandando um email e uma mensagem para
 o paciente um dia antes de sua consulta, visando confirmar sua presença podendo dar continuidade ou desmarcar a sua consulta caso ele queira.
 
@@ -73,7 +73,7 @@ Além disso, a gestão eficiente das consultas é outro grande desafio para os p
 
 Este trabalho se justifica pela crescente demanda por soluções tecnológicas na área da saúde mental, especialmente na psicologia, e pela necessidade de um sistema que otimize o gerenciamento tanto para o profissional quanto para o paciente. A proposta de um sistema digital de gestão possibilita a integração do agendamento, da comunicação e do acompanhamento emocional em uma única plataforma, simplificando o dia a dia do psicólogo e promovendo um atendimento mais organizado e eficiente. Além disso, o uso da tecnologia como aliada no processo terapêutico torna as informações mais acessíveis e gerenciáveis, contribuindo para uma experiência mais completa e satisfatória para ambas as partes.
 
-## 2. Participantes do processo
+## 🏢 2. Participantes do processo
 
 ### 2.1. Psicólogo 
 
