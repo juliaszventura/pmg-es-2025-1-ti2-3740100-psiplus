@@ -125,13 +125,10 @@ A proposta do PSI+ é desenvolver uma plataforma online que centralize as princi
 
 ### 3.3. Modelagem dos processos
 
-[Processo 1 - Cadastro e Gestão da agenda](processo-1-Cadastro-e-Gestao-da-agenda.md "Detalhamento do Processo 1.")
-
-[Processo 2 - Cadastro e Gestão do paciente](processo-2-Cadastro-e-Gestao-do-paciente.md "Detalhamento do Processo 2.")
-
-[Processo 3 - Registro das consultas](processo-3-Registro-das-consultas.md "Detalhamento do Processo 3.")
-
-[Processo 4 - Registro das emoções e calendário](processo-4-Registro-das-emocoes-e-calendario.md "Detalhamento do Processo 4.")
+📌 [Processo 1 - Cadastro e Gestão da agenda](processo-1-Cadastro-e-Gestao-da-agenda.md "Detalhamento do Processo 1.")
+📌 [Processo 2 - Cadastro e Gestão do paciente](processo-2-Cadastro-e-Gestao-do-paciente.md "Detalhamento do Processo 2.")
+📌 [Processo 3 - Registro das consultas](processo-3-Registro-das-consultas.md "Detalhamento do Processo 3.")
+📌 [Processo 4 - Registro das emoções e calendário](processo-4-Registro-das-emocoes-e-calendario.md "Detalhamento do Processo 4.")
 
 ## 4. Projeto da solução
 
