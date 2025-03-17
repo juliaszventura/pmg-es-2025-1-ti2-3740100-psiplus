@@ -67,7 +67,7 @@ Esses desafios evidenciam a necessidade de uma solução integrada que otimize a
 
 Desenvolver o PSI+, um sistema de gestão digital para psicólogos e pacientes que centralize as principais funcionalidades necessárias para uma prática clínica eficiente e organizada. A plataforma tem como foco a organização da agenda profissional, oferecendo um sistema de agendamento simples e intuitivo, além de um canal de comunicação seguro entre psicólogos e pacientes. O PSI+ permitirá o registro diário das emoções dos pacientes, facilitando um acompanhamento mais próximo por parte do profissional. O objetivo é criar uma solução acessível, intuitiva e prática, tornando a gestão das consultas mais eficiente e a experiência do usuário mais fluida e livre de complicações.
 
-#### 1.3.1 Objetivos específicos
+#### 🎯 1.3.1 Objetivos específicos
 
 Os objetivos específicos deste trabalho incluem a criação de um sistema de agendamento simples e intuitivo, além do estabelecimento de um canal de comunicação eficaz entre psicólogos e pacientes. Também busca-se implementar um módulo para o registro e monitoramento dos sentimentos dos pacientes, garantindo um acompanhamento contínuo. Além disso, o sistema deve proporcionar uma experiência de uso agradável, priorizando a acessibilidade e a facilidade de navegação. Por fim, pretende-se oferecer uma gestão eficiente das consultas do consultório, permitindo o controle preciso dos horários, o registro do histórico de atendimentos e a organização das sessões de maneira prática e livre de erros.
 
