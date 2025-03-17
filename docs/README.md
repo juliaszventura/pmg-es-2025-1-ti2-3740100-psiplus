@@ -135,25 +135,25 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 
 Muitos psicólogos enfrentam desafios na gestão de suas práticas clínicas devido à falta de sistemas integrados para agendamento, acompanhamento emocional e comunicação entre sessões. A dependência de métodos manuais ou sistemas desconexos gera agendamentos confusos, dificuldades no monitoramento contínuo dos pacientes e limitações na comunicação, prejudicando a qualidade do atendimento e a eficiência terapêutica.
 
-1️⃣ **Cadastro e Gestão da agenda (Psicólogo):** 
+1️⃣ **Cadastro e Gestão da agenda:** 
 
-2️⃣ **Cadastro e Gestão do paciente (Psicólogo):**
+2️⃣ **Cadastro e Gestão do paciente:**
 
-3️⃣ **Registro das consultas (Psicólogo):** 
+3️⃣ **Registro das consultas:** 
 
-4️⃣ **Registro das emoções e calendário (Paciente):** 
+4️⃣ **Registro das emoções e calendário:** 
 
 ### 3.2. Descrição geral da proposta de solução
 
 O PSI+ é uma plataforma online que centraliza funcionalidades essenciais para a prática psicológica, incluindo agendamento intuitivo, monitoramento contínuo das emoções dos pacientes e comunicação segura entre psicólogos e pacientes. A plataforma também oferece recursos para gestão eficiente das consultas, com controle de horários, histórico e organização das sessões. O objetivo é otimizar a rotina dos profissionais e melhorar a experiência dos pacientes, promovendo um atendimento mais organizado e eficiente.
 
-1️⃣ **Cadastro e Gestão da agenda (Psicólogo):** 
+1️⃣ **Cadastro e Gestão da agenda:** 
 
-2️⃣ **Cadastro e Gestão do paciente (Psicólogo):**
+2️⃣ **Cadastro e Gestão do paciente:**
 
-3️⃣ **Registro das consultas (Psicólogo):** 
+3️⃣ **Registro das consultas:** 
 
-4️⃣ **Registro das emoções e calendário (Paciente):** 
+4️⃣ **Registro das emoções e calendário:** 
 
 ### 3.3. Modelagem dos processos
 
