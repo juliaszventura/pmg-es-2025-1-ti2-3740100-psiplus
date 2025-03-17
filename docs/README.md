@@ -1,17 +1,18 @@
 # PSIPLUS
 
+##Autores
 
-**Nico Jobski Andrade, jobskiandrade@gmail.com**
+- **Nico Jobski Andrade, jobskiandrade@gmail.com**
 
-**Júlia de Souza Ventura, juliavt403@gmail.com**
+- **Júlia de Souza Ventura, juliavt403@gmail.com**
 
-**Rafael Rocha Caldeira Brant, rafaelrbrant07@gmail.com**
+- **Rafael Rocha Caldeira Brant, rafaelrbrant07@gmail.com**
 
-**Ana Luiza de Freitas Rodrigues, analuizafreitas12@yahoo.com.br**
+- **Ana Luiza de Freitas Rodrigues, analuizafreitas12@yahoo.com.br**
 
-**Kayke Emanoel de Souza Santos, kaykeeman@gmail.com**
+- **Kayke Emanoel de Souza Santos, kaykeeman@gmail.com**
 
-**Carlos Eduardo Sousa Santos, cadusantos9000@gmail.com**
+- **Carlos Eduardo Sousa Santos, cadusantos9000@gmail.com**
 
 ---
 
