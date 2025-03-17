@@ -97,7 +97,7 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 - Sentir-se mais ativo no próprio processo terapêutico através do acompanhamento digital
 - Garantir que suas informações e registros estejam protegidos e acessíveis quando necessário
 
-## 3. Modelagem do processo de negócio
+## 🔄 3. Modelagem do processo de negócio
 
 ### 3.1. Análise da situação atual
 
