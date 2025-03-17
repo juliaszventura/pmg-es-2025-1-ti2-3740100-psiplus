@@ -56,10 +56,10 @@ O processo terapêutico não se limita apenas às sessões presenciais. O estado
 ❌ **Gestão ineficiente de consultas:**
 O gerenciamento manual da agenda pode gerar problemas como conflitos de horários, esquecimentos e dificuldades na organização do tempo do profissional. Falhas nos agendamentos podem resultar em ausências e menor aproveitamento das sessões. A falta de lembretes automatizados também pode aumentar o índice de faltas, como discutido em [1.7], que aborda as implicações dessas ausências no processo terapêutico.
 
-❌ **Armazenamento e acesso inadequados a registros clínicos:**  
+❌ **Armazenamento e acesso inadequados a registros clínicos:**
 Manter um histórico detalhado e seguro dos atendimentos é essencial para que o psicólogo possa acompanhar a trajetória do paciente e tomar decisões mais assertivas no tratamento. Entretanto, a ausência de um sistema centralizado e seguro pode resultar em perda de informações importantes, dificultando a análise do progresso do paciente e a continuidade do tratamento em longo prazo.
 
-❌ **Comunicação limitada entre sessões:**  
+❌ **Comunicação limitada entre sessões:**
 A relação entre paciente e psicólogo não deve ser restrita apenas ao momento da consulta. Em muitos casos, os pacientes passam por situações difíceis entre as sessões e não têm um canal adequado para relatar suas emoções ou receber suporte. A falta de uma comunicação estruturada fora das consultas pode prejudicar a continuidade do tratamento e gerar uma sensação de isolamento no paciente.
 
 Esses desafios evidenciam a necessidade de uma solução integrada que otimize a comunicação, o acompanhamento e a gestão no contexto da psicoterapia. Com um sistema estruturado, é possível aprimorar significativamente a experiência dos pacientes e a eficiência do trabalho dos profissionais da área.
