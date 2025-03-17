@@ -96,7 +96,7 @@ A gestão de práticas psicológicas enfrenta desafios que impactam tanto os pro
 
 🔹 Solução proposta: Psi+
 
-O projeto Psi+ surge como uma inovação na área da psicologia, oferecendo um sistema digital de gestão que visa tornar o atendimento mais organizado e eficiente.
+O projeto Psi+ surge como uma inovação na área da psicologia, oferecendo um sistema digital de gestão que visa tornar o atendimento mais organizado e eficiente:
 
 ✅ **Calendário de emoções** – Um recurso que permite aos pacientes registrarem seus sentimentos de forma contínua e acessível. Isso possibilita ao psicólogo uma visão mais ampla do estado emocional do paciente, tornando as sessões mais produtivas.  
 ✅ **Ferramenta automatizada de notificações** – Envio de lembretes automáticos via e-mail e mensagens um dia antes da consulta para confirmação ou cancelamento, garantindo um melhor aproveitamento da agenda.  
