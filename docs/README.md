@@ -69,7 +69,20 @@ Desenvolver o PSI+, um sistema de gestão digital para psicólogos e pacientes q
 
 #### 🎯 1.3.1 Objetivos específicos
 
-Os objetivos específicos deste trabalho incluem a criação de um sistema de agendamento simples e intuitivo, além do estabelecimento de um canal de comunicação eficaz entre psicólogos e pacientes. Também busca-se implementar um módulo para o registro e monitoramento dos sentimentos dos pacientes, garantindo um acompanhamento contínuo. Além disso, o sistema deve proporcionar uma experiência de uso agradável, priorizando a acessibilidade e a facilidade de navegação. Por fim, pretende-se oferecer uma gestão eficiente das consultas do consultório, permitindo o controle preciso dos horários, o registro do histórico de atendimentos e a organização das sessões de maneira prática e livre de erros.
+1️⃣ **Criação de um sistema de agendamento intuitivo:** 
+Desenvolver um sistema de agendamento simples e eficiente, que permita aos psicólogos gerenciar seus horários de maneira prática, com uma interface fácil de usar para agendar e organizar as consultas, evitando conflitos de horários e aumentando a eficiência do processo.
+
+2️⃣ **Estabelecimento de um canal de comunicação eficaz:** 
+Implementar um canal de comunicação direto entre psicólogos e pacientes, facilitando a troca de informações importantes entre as sessões, o que permitirá ao paciente relatar seu progresso ou dificuldades emocionais de maneira contínua e ao psicólogo acompanhar esses relatos para intervenções mais precisas.
+
+3️⃣ **Implementação de um módulo de monitoramento emocional:** 
+Criar uma ferramenta para o registro e monitoramento contínuo dos sentimentos dos pacientes, permitindo o acompanhamento detalhado das flutuações emocionais ao longo do tempo. Esse módulo ajudará a oferecer uma visão mais clara do progresso do paciente, permitindo um tratamento mais personalizado e adaptado às suas necessidades.
+
+4️⃣ **Proporcionar uma experiência de uso agradável e acessível:**
+Garantir que o sistema seja acessível e fácil de navegar, promovendo uma experiência de uso agradável tanto para os psicólogos quanto para os pacientes. A interface será projetada para ser intuitiva, com foco na simplicidade, facilitando a navegação e o uso, independentemente do nível de familiaridade com tecnologia.
+
+5️⃣ **Gestão eficiente das consultas e registros clínicos:** 
+Criar um sistema de gestão de consultas que permita o controle preciso dos horários, o registro detalhado do histórico de atendimentos e a organização das sessões de maneira eficiente. Isso contribuirá para uma gestão sem erros, aumentando a produtividade e proporcionando aos psicólogos um acesso rápido e organizado a todos os dados clínicos necessários para o acompanhamento contínuo do paciente.
 
 ### 1.4 Justificativas
 
