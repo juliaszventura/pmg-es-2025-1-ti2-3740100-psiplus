@@ -13,15 +13,17 @@
 
 ## Professores Orientadores:
 
-**Michelle Hanne Soares de Andrade**   
-**Danilo de Quadra Maia Filho**  
-**Joana Gabriela Ribeiro de Souza**  
+- **Michelle Hanne Soares de Andrade**   
+- **Danilo de Quadra Maia Filho**  
+- **Joana Gabriela Ribeiro de Souza**  
 
 ---
 
-_Curso de Engenharia de Software_
+## Instituição
 
-_Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
+_Curso de Engenharia de Software_
+_Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS)_
+_Belo Horizonte – MG – Brasil_
 
 ---
 
