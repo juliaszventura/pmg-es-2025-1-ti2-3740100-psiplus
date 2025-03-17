@@ -94,7 +94,7 @@ A gestão de práticas psicológicas enfrenta desafios que impactam tanto os pro
 ❌ **Comunicação limitada entre sessões** – A ausência de um canal estruturado para que os pacientes relatem sua evolução dificulta o trabalho do psicólogo e pode afetar o desenvolvimento do tratamento.  
 ❌ **Falta de ferramentas para auxiliar na expressão emocional dos pacientes** – Nem todos os pacientes conseguem verbalizar suas emoções com facilidade, o que pode atrasar o progresso terapêutico.   
 
-🔹 Solução proposta: Psi+
+🔹 Solução proposta: **Psi+**
 
 O projeto Psi+ surge como uma inovação na área da psicologia, oferecendo um sistema digital de gestão que visa tornar o atendimento mais organizado e eficiente:
 
