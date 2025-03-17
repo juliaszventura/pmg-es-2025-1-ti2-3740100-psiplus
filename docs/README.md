@@ -96,7 +96,7 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 
 ## 🏥 2. Participantes do processo
 
-### 2.1. 🧑‍⚕️ Psicólogo 
+### 2.1. ⚕️ Psicólogo 
 
 - Conseguir cadastrar todos os seus clientes em uma única plataforma
 - Poder agendar as consultas em um calendário virtual
@@ -109,7 +109,7 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 - Manter anotações e registros seguros sobre as sessões
 - Utilizar ferramentas que a ajudem a monitorar o progresso terapêutico
 
-### 2.2. Paciente
+### 2.2. 💼 Paciente
 
 - Agendar e remarcar consultas de forma prática e rápida
 - Registrar emoções e eventos diários para compartilhar com o psicólogo
