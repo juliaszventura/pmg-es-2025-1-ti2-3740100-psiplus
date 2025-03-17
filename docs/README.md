@@ -65,7 +65,7 @@ Esses desafios evidenciam a necessidade de uma solução integrada que otimize a
 
 ### 1.3 Objetivo geral
 
-O objetivo geral deste trabalho é desenvolver o PSI+, um sistema de gestão digital para psicólogos e pacientes que centralize as principais funcionalidades necessárias para uma prática clínica eficiente e organizada. A plataforma tem como foco a organização da agenda profissional, oferecendo um sistema de agendamento simples e intuitivo, além de um canal de comunicação seguro entre psicólogos e pacientes. Além disso, o PSI+ permitirá o registro diário das emoções dos pacientes, facilitando um acompanhamento mais próximo por parte do profissional. O objetivo é criar uma solução acessível, intuitiva e prática, tornando a gestão das consultas mais eficiente e a experiência do usuário mais fluida e livre de complicações.
+Desenvolver o PSI+, um sistema de gestão digital para psicólogos e pacientes que centralize as principais funcionalidades necessárias para uma prática clínica eficiente e organizada. A plataforma tem como foco a organização da agenda profissional, oferecendo um sistema de agendamento simples e intuitivo, além de um canal de comunicação seguro entre psicólogos e pacientes. O PSI+ permitirá o registro diário das emoções dos pacientes, facilitando um acompanhamento mais próximo por parte do profissional. O objetivo é criar uma solução acessível, intuitiva e prática, tornando a gestão das consultas mais eficiente e a experiência do usuário mais fluida e livre de complicações.
 
 #### 1.3.1 Objetivos específicos
 
