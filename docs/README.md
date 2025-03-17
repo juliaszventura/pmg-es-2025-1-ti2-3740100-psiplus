@@ -149,7 +149,8 @@ O PSI+ é uma plataforma online que centraliza funcionalidades essenciais para a
 
 1️⃣ **Cadastro e Gestão da agenda:** 
 
-2️⃣ **Cadastro e Gestão do paciente:** O Psi+ propõe uma solução digital integrada que centraliza o cadastro de pacientes e o controle de informações em uma plataforma segura e acessível. Com esse sistema, os psicólogos poderão registrar e consultar facilmente os dados de seus pacientes, facilitando a organização das consultas e otimizando o acompanhamento terapêutico.  A plataforma permite a edição e o arquivamento de pacientes, garantindo que as informações estejam sempre atualizadas e acessíveis quando necessário. Além disso, elimina a necessidade de documentos físicos e reduz o risco de perda de dados, tornando o atendimento mais eficiente e organizado.
+2️⃣ **Cadastro e Gestão do paciente:** O Psi+ propõe uma solução digital integrada que centraliza o cadastro de pacientes e o controle de informações em uma plataforma segura e acessível. Com esse sistema, os psicólogos poderão registrar e consultar facilmente os dados de seus pacientes, facilitando a organização das consultas e otimizando o acompanhamento terapêutico.  
+A plataforma permite a edição e o arquivamento de pacientes, garantindo que as informações estejam sempre atualizadas e acessíveis quando necessário. Além disso, elimina a necessidade de documentos físicos e reduz o risco de perda de dados, tornando o atendimento mais eficiente e organizado.
 
 3️⃣ **Registro das consultas:** 
 
