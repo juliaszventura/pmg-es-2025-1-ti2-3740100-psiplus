@@ -2,7 +2,7 @@
 
 **Registro das consultas:** O processo de agendamento de consultas permite que psicólogos cadastrem seus horários disponíveis e ocupados, enquanto os pacientes podem visualizar os horários livres e agendar uma consulta diretamente pela plataforma. O sistema facilita a organização do tempo dos psicólogos e oferece aos pacientes uma maneira simples e eficiente de marcar consultas, garantindo uma gestão otimizada de horários e maior conveniência para ambos os lados.
 
-![Exemplo de um Modelo BPMN do PROCESSO 3](images/ "Modelo BPMN do Processo 3.") 
+![Exemplo de um Modelo BPMN do PROCESSO 3](images/diagramaAgendamento.png "Modelo BPMN do Processo 3.") 
 
 
 #### Detalhamento das atividades
