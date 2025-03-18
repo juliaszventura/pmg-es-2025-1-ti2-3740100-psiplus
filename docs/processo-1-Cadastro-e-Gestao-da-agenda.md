@@ -2,7 +2,7 @@
 
 
 
-![Modelo BPMN agendamento](images/diagramaAgendamento)
+![Modelo BPMN agendamento](images/diagramaAgendamento.png)
 
 
 **Efetuar Login**
