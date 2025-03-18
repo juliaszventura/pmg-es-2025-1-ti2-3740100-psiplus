@@ -7,40 +7,50 @@
 
 #### Detalhamento das atividades
 
-**Cadastro de paciente**
+**Efetuar Login**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ----           | ---               |
-| Nome            | Caixa de texto   | Obrigatório    | -                 |
-| Data de Nascimento  | Data                 | Obrigatório (dd-mm-aaaa)               | -                  |
-| Telefone           | Número   | Obrigatório, formato (XX) XXXXX-XXXX | -               |
-| Gênero           | Seleção única   | Masculino/Feminino/Outro | -               |
-| CPF          | Caixa de Texto   | Formato: 000.000.000-00 | -          |
-| E-mail          | Caixa de Texto   | Formato de e-mail válido | -          |
-| Endereço           | Área de Texto   | Opcional | -               |
-| Observações          | Área de Texto   | Opcional | -          |
+| ---             | ---              | ---            | ---               |
+| login           | Caixa de Texto   | formato de e-mail |                |
+| senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| Salvar               | Confirma o cadastro e armazena os dados              | default           |
-| Cancelar            | Descarta a ação e retorna à tela inicial  | Cancel                  |
+| entrar               | Fim do Processo Efetuar Login           | default           |
+| cadastrar            | Início do proceso de cadastro  |                   |
 
 
-**Atualização de Dados do Paciente**
+**Cadastrar horário vago**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ----           | ---               |
-| Nome            | Caixa de texto   | Editável    | -                 |
-| Data de Nascimento  | Data                 | Editável (dd-mm-aaaa)               | -                  |
-| Gênero           | Seleção única   | Masculino/Feminino/Outro | -               |
-| Telefone           | Número   | Editável, formato (XX) XXXXX-XXXX | -               |
-| E-mail          | Caixa de Texto   | Formato de e-mail válido | -          |
-| Endereço           | Área de Texto   | Opcional | -               |
-| Observações          | Área de Texto   | Opcional | -          |
+| ---             | ---              | ---            | ---               |
+| [Nome do campo] | [tipo de dados]  |                |                   |
+| dataehora       | Data e Hora      |dd-mm-aaaa, hh:mm|                   |
 
-| **Comandos**         |  **Destino**                   | **Tipo** |
+| **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| Atualizar               | Confirma as alterações              | default           |
-| Cancelar            | Descarta mudanças  | cancel                  |
+| confirmar | Fim do Processo Cadastrar horário vago  | default|
+| cancelar| Fim do Processo Cadastrar horário vago|cancel|
 
 
+**Cadastrar horário ocupado**
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| nomepaciente       | Caixa de texto      |---| nome                   |
+| dataehora       | Data e Hora      |dd-mm-aaaa, hh:mm|    
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| confirmar | Fim do Processo Cadastrar horário ocupado  | default|
+| cancelar| Fim do Processo Cadastrar horário ocupado|cancel|
+
+
+**Ocupar horário disponível**
+ **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| selecionarhorario      | Seleção única      |---|                  |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| confirmar | Fim do Processo Ocupar horário disponível  | default|
+| cancelar| Fim do Processo Ocupar horário disponível|cancel|
