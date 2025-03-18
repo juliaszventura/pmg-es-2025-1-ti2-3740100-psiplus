@@ -7,50 +7,85 @@
 
 #### Detalhamento das atividades
 
-_Descreva aqui cada uma das propriedades das atividades do processo 2. 
-Devem estar relacionadas com o modelo de processo apresentado anteriormente._
-
-_Os tipos de dados a serem utilizados são:_
-
-_* **Área de texto** - campo texto de múltiplas linhas_
-
-_* **Caixa de texto** - campo texto de uma linha_
-
-_* **Número** - campo numérico_
-
-_* **Data** - campo do tipo data (dd-mm-aaaa)_
-
-_* **Hora** - campo do tipo hora (hh:mm:ss)_
-
-_* **Data e Hora** - campo do tipo data e hora (dd-mm-aaaa, hh:mm:ss)_
-
-_* **Imagem** - campo contendo uma imagem_
-
-_* **Seleção única** - campo com várias opções de valores que são mutuamente exclusivas (tradicional radio button ou combobox)_
-
-_* **Seleção múltipla** - campo com várias opções que podem ser selecionadas mutuamente (tradicional checkbox ou listbox)_
-
-_* **Arquivo** - campo de upload de documento_
-
-_* **Link** - campo que armazena uma URL_
-
-_* **Tabela** - campo formado por uma matriz de valores_
-
-**selecionar consulta, pessoa ou data**
+**Cadastro de paciente**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| Tipo de pesquisa| Seleção única    |  Obrigatório   |    Pessoa         |
-|  Pesquisar      |  Área de texto  |   Obrigatório  |    Null           |
+| ---             | ---              | ----           | ---               |
+| Nome            | Caixa de texto   | Obrigatório    | -                 |
+| Data de Nascimento  | Data                 | Obrigatório (dd-mm-aaaa)               | -                  |
+| Telefone           | Número   | Obrigatório, formato (XX) XXXXX-XXXX | -               |
+| Gênero           | Seleção única   | Masculino/Feminino/Outro | -               |
+| CPF          | Caixa de Texto   | Formato: 000.000.000-00 | -          |
+| E-mail          | Caixa de Texto   | Formato de e-mail válido | -          |
+| Endereço           | Área de Texto   | Opcional | -               |
+| Observações          | Área de Texto   | Opcional | -          |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| Selecionar pessoa    | Consultas da pessoa            | Null              |
+| Salvar               | Confirma o cadastro e armazena os dados              | default           |
+| Cancelar            | Descarta a ação e retorna à tela inicial  | Cancel                  |
 
 
-**Nome da atividade 2**
+**Atualização de Dados do Paciente**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| Anotações       | Caixa de texto   | Confirmação da identidade| Null    |
+| ---             | ---              | ----           | ---               |
+| Nome            | Caixa de texto   | Editável    | -                 |
+| Data de Nascimento  | Data                 | Editável (dd-mm-aaaa)               | -                  |
+| Gênero           | Seleção única   | Masculino/Feminino/Outro | -               |
+| Telefone           | Número   | Editável, formato (XX) XXXXX-XXXX | -               |
+| E-mail          | Caixa de Texto   | Formato de e-mail válido | -          |
+| Endereço           | Área de Texto   | Opcional | -               |
+| Observações          | Área de Texto   | Opcional | -          |
+
+| **Comandos**         |  **Destino**                   | **Tipo** |
+| ---                  | ---                            | ---               |
+| Atualizar               | Confirma as alterações              | default           |
+| Cancelar            | Descarta mudanças  | cancel                  |
+
+**Consulta ao Histórico Clínico**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ----           | ---               |
+| Data da Consulta            | Data   | Obrigatório    | -                 |
+| Anotações  | Área de Texto                 | Somente leitura               | -                  |
+| Diagnóstico           | Área de Texto   | Somente leitura | -               |
+
+| **Comandos**         |  **Destino**                   | **Tipo** |
+| ---                  | ---                            | ---               |
+| Visualizar               | Exibe o histórico do paciente              | default           |
+| Fechar            | Sai da tela sem alterar dados  | cancel                  |
+
+**Solicitação de Histórico pelo Paciente**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ----           | ---               |
+| Justificativa   | Área de Texto   | Obrigatório    | -                 |
+
+| **Comandos**         |  **Destino**                   | **Tipo** |
+| ---                  | ---                            | ---               |
+| Enviar               | Envia a solicitação ao psicólogo              | default           |
+| Cancelar            | Cancela a solicitação  | cancel                  |
+
+**Liberação do Histórico para o Paciente**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ----           | ---               |
+| Histórico do Paciente   | Área de Texto   | Somente leitura   | -                 |
+
+| **Comandos**         |  **Destino**                   | **Tipo** |
+| ---                  | ---                            | ---               |
+| Aprovar               | Disponibiliza o histórico ao paciente              | default           |
+| Recusar            | Notifica paciente da recusa  | cancel                  |
+
+**Arquivamento de Paciente**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ----           | ---               |
+| Status do Paciente   | Seleção Única   | Ativo / Arquivado   | Ativo                |
+
+| **Comandos**         |  **Destino**                   | **Tipo** |
+| ---                  | ---                            | ---               |
+| Arquivar               | Altera o status para "Arquivado"              | default           |
+| Cancelar            | Mantém o status atual  | cancel                  |
 
