@@ -139,7 +139,7 @@ Muitos psicólogos enfrentam desafios na gestão de suas práticas clínicas dev
 
 2️⃣ **Cadastro e Gestão do paciente:** Na atualidade, o cadastro de pacientes, o controle de informações e o histórico clínico em clínicas de psicologia são gerenciados de forma descentralizada. Muitos profissionais ainda utilizam fichas físicas, cadernos de anotações ou planilhas simples para registrar dados dos pacientes, o que torna o acesso às informações lento e suscetível a perdas. Em alguns casos, clínicas maiores adotam softwares genéricos de gestão, mas esses sistemas nem sempre são adaptados às necessidades específicas da psicologia, dificultando a organização do histórico clínico e o acompanhamento detalhado da evolução do paciente. O armazenamento descentralizado dessas informações também compromete a continuidade do tratamento, pois o psicólogo depende de registros dispersos ou da memória do paciente para acompanhar seu progresso ao longo do tempo.
 
-3️⃣ **Registro das consultas:** 
+3️⃣ **Registro das consultas:** O registro de consultas médicas enfrenta dificuldades devido ao uso de métodos manuais, falta de integração entre setores e limitação no acesso ao histórico dos pacientes. Essas deficiências resultam em erros operacionais, conflitos de horários, dificuldades na comunicação entre profissionais e na gestão de agendas, além de comprometerem a experiência do paciente e a eficiência do atendimento. A ausência de um sistema centralizado impacta a continuidade dos tratamentos e dificulta a tomada de decisões clínicas, tornando a gestão das consultas menos eficiente.
 
 4️⃣ **Registro das emoções e calendário:** 
 
@@ -152,7 +152,7 @@ O PSI+ é uma plataforma que facilita a gestão psicológica, com agendamento, m
 2️⃣ **Cadastro e Gestão do paciente:** O Psi+ propõe uma solução digital integrada que centraliza o cadastro de pacientes e o controle de informações em uma plataforma segura e acessível. Com esse sistema, os psicólogos poderão registrar e consultar facilmente os dados de seus pacientes, facilitando a organização das consultas e otimizando o acompanhamento terapêutico.  
 A plataforma permite a edição e o arquivamento de pacientes, garantindo que as informações estejam sempre atualizadas e acessíveis quando necessário. Além disso, elimina a necessidade de documentos físicos e reduz o risco de perda de dados, tornando o atendimento mais eficiente e organizado.
 
-3️⃣ **Registro das consultas:** 
+3️⃣ **Registro das consultas:** Para resolver esses problemas, propomos a criação de um sistema integrado de agendamento e gerenciamento de consultas médicas. A plataforma permitirá a marcação online de consultas, acesso ao histórico de atendimentos, criação de notas e comentários sobre a consulta e envio de notificações para otimizar a ocupação dos horários e melhorar o atendimento. 
 
 4️⃣ **Registro das emoções e calendário:** 
 
