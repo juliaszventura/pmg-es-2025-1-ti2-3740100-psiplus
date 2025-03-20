@@ -17,7 +17,7 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 
 * Michelle Hanne Soares de Andrade
 * Danilo de Quadra Maia Filho
-* Nome completo do professor 3
+* Joana Gabriela Ribeiro de Souza
 
 ## Instruções de utilização
 
