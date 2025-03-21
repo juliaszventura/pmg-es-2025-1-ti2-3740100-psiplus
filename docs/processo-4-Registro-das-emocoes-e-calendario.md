@@ -1,12 +1,8 @@
-### 3.3.4 Processo 4 – Estatísticas e feedback das emoções do indivíduo
+### 3.3.4 Processo 4 – Registro das emoções e calendário
 
 O sistema apresenta uma visão de um período selecionado das emoções do paciente, com base nos registros realizados pelo paciente e pelo psicólogo. Com o gráfico é possível realizar comparação entre as visões e também é possível analisar o progresso com o tempo e ter feedbacks das consultas realizadas, o que facilita para o psicólogo proporcionando um melhor acompanhamento e também para o paciente compreender o processo terapêutico.
 
-![Wireframe-Calendario](images/wireframeCalendario.png "Wireframe calendário.")
-![Wireframe](images/wireframe-estatisticas.jpeg "Wireframe tela estatísticas.")
-
 ![Exemplo de um Modelo BPMN do PROCESSO 4](images/bpmn-estatisticas.png "Modelo BPMN do Processo 4.")
-
 
 #### Detalhamento das atividades
 

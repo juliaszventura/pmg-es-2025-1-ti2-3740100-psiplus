@@ -1,8 +1,8 @@
-### 3.3.3 Processo 3 – Gestão do Paciente e Histórico Clínico
+### 3.3.2 Processo 2 – Cadastro e Gestão do paciente
 
-**Gestão do Paciente e Histórico Cínico:** A gestão de pacientes e históricos clínicos em clínicas de psicologia enfrenta desafios como registros descentralizados, dificuldades de acesso às informações e processos manuais suscetíveis a erros. A digitalização completa do processo permite maior organização, reduz burocracias e melhora a continuidade do tratamento. Um sistema centralizado e automatizado possibilita um cadastro mais eficiente, facilitando atualizações e acesso rápido ao histórico clínico. Além disso, a inclusão de um módulo para solicitação de histórico pelos pacientes proporciona mais autonomia, garantindo um atendimento mais ágil e eficiente.
+**Cadastro e Gestão do paciente:** A gestão de pacientes e históricos clínicos em clínicas de psicologia enfrenta desafios como registros descentralizados, dificuldades de acesso às informações e processos manuais suscetíveis a erros. A digitalização completa do processo permite maior organização, reduz burocracias e melhora a continuidade do tratamento. Um sistema centralizado e automatizado possibilita um cadastro mais eficiente, facilitando atualizações e acesso rápido ao histórico clínico. 
 
-![Exemplo de um Modelo BPMN do PROCESSO 3](images/modelagem-ControledePacientesHistoricoClinico.png "Modelo BPMN do Processo 3.") 
+![Exemplo de um Modelo BPMN do PROCESSO 2](images/).
 
 
 #### Detalhamento das atividades
@@ -55,28 +55,6 @@
 | ---                  | ---                            | ---               |
 | Visualizar               | Exibe o histórico do paciente              | default           |
 | Fechar            | Sai da tela sem alterar dados  | cancel                  |
-
-**Solicitação de Histórico pelo Paciente**
-
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ----           | ---               |
-| Justificativa   | Área de Texto   | Obrigatório    | -                 |
-
-| **Comandos**         |  **Destino**                   | **Tipo** |
-| ---                  | ---                            | ---               |
-| Enviar               | Envia a solicitação ao psicólogo              | default           |
-| Cancelar            | Cancela a solicitação  | cancel                  |
-
-**Liberação do Histórico para o Paciente**
-
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ----           | ---               |
-| Histórico do Paciente   | Área de Texto   | Somente leitura   | -                 |
-
-| **Comandos**         |  **Destino**                   | **Tipo** |
-| ---                  | ---                            | ---               |
-| Aprovar               | Disponibiliza o histórico ao paciente              | default           |
-| Recusar            | Notifica paciente da recusa  | cancel                  |
 
 **Arquivamento de Paciente**
 
