@@ -2,7 +2,7 @@
 
 **Cadastro e Gestão do paciente:** A gestão de pacientes e históricos clínicos em clínicas de psicologia enfrenta desafios como registros descentralizados, dificuldades de acesso às informações e processos manuais suscetíveis a erros. A digitalização completa do processo permite maior organização, reduz burocracias e melhora a continuidade do tratamento. Um sistema centralizado e automatizado possibilita um cadastro mais eficiente, facilitando atualizações e acesso rápido ao histórico clínico. 
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](images/Modelagem-CadastroeGestãodosPacientes.png).
+![Exemplo de um Modelo BPMN do Cadastro e Gestão do paciente](images/Modelagem-CadastroeGestãodosPacientes.png).
 
 
 #### Detalhamento das atividades
