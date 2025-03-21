@@ -141,7 +141,8 @@ Muitos psicólogos enfrentam desafios na gestão de suas práticas clínicas dev
 
 3️⃣ **Registro das consultas:** O registro de consultas médicas enfrenta dificuldades devido ao uso de métodos manuais, falta de integração entre setores e limitação no acesso ao histórico dos pacientes. Essas deficiências resultam em erros operacionais, conflitos de horários, dificuldades na comunicação entre profissionais e na gestão de agendas, além de comprometerem a experiência do paciente e a eficiência do atendimento. A ausência de um sistema centralizado impacta a continuidade dos tratamentos e dificulta a tomada de decisões clínicas, tornando a gestão das consultas menos eficiente.
 
-4️⃣ **Registro das emoções e calendário:** 
+4️⃣ **Registro das emoções e calendário:**  Atualmente, o registro das emoções dos pacientes é feito de forma pontual durante as sessões ou de maneira dispersa, o que dificulta o acompanhamento contínuo da evolução emocional. A ausência de uma ferramenta integrada limita a identificação de padrões e a correlação de emoções com eventos específicos do dia a dia. Isso impacta diretamente na personalização do atendimento psicológico e na participação ativa do paciente no próprio processo terapêutico.
+Com a implementação de um sistema de registro das emoções integrado a um calendário, tanto o psicólogo quanto o paciente ganham uma visão mais clara e estruturada dos sentimentos ao longo do tempo. Essa funcionalidade permitirá detectar momentos críticos, padrões emocionais e possíveis gatilhos, proporcionando ao profissional uma base mais sólida para o planejamento terapêutico e estimulando o paciente a refletir sobre sua jornada emocional de forma mais engajada.
 
 ### 3.2. Descrição geral da proposta de solução
 
@@ -154,7 +155,8 @@ A plataforma permite a edição e o arquivamento de pacientes, garantindo que as
 
 3️⃣ **Registro das consultas:** Para resolver esses problemas, propomos a criação de um sistema integrado de agendamento e gerenciamento de consultas médicas. A plataforma permitirá a marcação online de consultas, acesso ao histórico de atendimentos, criação de notas e comentários sobre a consulta e envio de notificações para otimizar a ocupação dos horários e melhorar o atendimento. 
 
-4️⃣ **Registro das emoções e calendário:** 
+4️⃣ **Registro das emoções e calendário:** Uma das propostas do PSI+ é criar uma funcionalidade de Registro das Emoções e Calendário, onde o paciente poderá registrar a qualquer momento seus sentimentos e associá-los a eventos ou situações vivenciadas. Esses registros ficarão organizados em um calendário visual e intuitivo, facilitando o acompanhamento da jornada emocional do paciente.
+O psicólogo terá acesso a esses dados, além de gráficos e estatísticas que facilitarão a análise de tendências emocionais e momentos de maior ou menor estabilidade. A solução permitirá uma visão mais ampla e detalhada da rotina emocional do paciente, tornando o processo terapêutico mais eficiente. Isso fortalecerá o vínculo terapêutico, permitirá ajustes nas estratégias de tratamento e ampliará o engajamento do paciente na própria evolução emocional.
 
 ### 3.3. Modelagem dos processos
 
