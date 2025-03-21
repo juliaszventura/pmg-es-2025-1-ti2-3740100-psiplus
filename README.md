@@ -1,6 +1,10 @@
 # PsiPlus
 
-![Logo](docs/images/logo.png)
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="docs/images/logo.png" alt="Descrição da Imagem" />
+</div>
+
+![Logo]()
 
 **Conectando emoções, organizando cuidados.**
 
