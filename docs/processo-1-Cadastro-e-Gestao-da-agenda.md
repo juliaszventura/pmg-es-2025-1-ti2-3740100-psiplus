@@ -4,22 +4,24 @@
 
 ![Modelo BPMN agendamento](images/diagramaAgendamento.png)
 
-
-**Efetuar Login**
+**Cadastrar horário**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| login           | Caixa de Texto   | formato de e-mail |                |
-| senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
+| [Nome do campo] | [tipo de dados]  |                |                   |
+| dataehora       | Data e Hora      |dd-mm-aaaa, hh:mm|                   |
+| seleçãopaciente       | Seleção única     ||                   |
+| horarioocupado       | Seleção única     ||                   |
+| horariolivre       | Seleção única     ||                   |
 
-| **Comandos**         |  **Destino**                   | **Tipo** |
+| **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| entrar               | Fim do Processo Efetuar Login           | default           |
-| cadastrar            | Início do proceso de cadastro  |                   |
+| criarpaciente                | Enviar para Processo Cadastar Paciente| ---               |
+| confirmar | Fim do Processo Cadastrar horário| default|
+| cancelar| Fim do Processo Cadastrar horário|cancel|
 
 
-**Cadastrar horário vago**
-
+**Agendamento feito pelo paciente**
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
 | [Nome do campo] | [tipo de dados]  |                |                   |
@@ -27,28 +29,5 @@
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| confirmar | Fim do Processo Cadastrar horário vago  | default|
-| cancelar| Fim do Processo Cadastrar horário vago|cancel|
-
-
-**Cadastrar horário ocupado**
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| nomepaciente       | Caixa de texto      |---| nome                   |
-| dataehora       | Data e Hora      |dd-mm-aaaa, hh:mm|    
-
-| **Comandos**         |  **Destino**                   | **Tipo**          |
-| ---                  | ---                            | ---               |
-| confirmar | Fim do Processo Cadastrar horário ocupado  | default|
-| cancelar| Fim do Processo Cadastrar horário ocupado|cancel|
-
-
-**Ocupar horário disponível**
- **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| selecionarhorario      | Seleção única      |---|                  |
-
-| **Comandos**         |  **Destino**                   | **Tipo**          |
-| ---                  | ---                            | ---               |
-| confirmar | Fim do Processo Ocupar horário disponível  | default|
-| cancelar| Fim do Processo Ocupar horário disponível|cancel|
+| confirmar | Horário é reservado para o paciente | default|
+| cancelar| Processo é cancelado |cancel|
