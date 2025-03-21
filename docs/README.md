@@ -135,7 +135,7 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 
 Muitos psicólogos enfrentam desafios na gestão de suas práticas clínicas devido à falta de sistemas integrados para agendamento, acompanhamento emocional e comunicação entre sessões. A dependência de métodos manuais ou sistemas desconexos gera agendamentos confusos, dificuldades no monitoramento contínuo dos pacientes e limitações na comunicação, prejudicando a qualidade do atendimento e a eficiência terapêutica.
 
-1️⃣ **Cadastro e Gestão da agenda:** 
+1️⃣ **Cadastro e Gestão da agenda:** O agendamento de consultas psicológicas ainda enfrenta desafios que dificultam a experiência tanto para pacientes quanto para profissionais. Muitas clínicas utilizam métodos tradicionais, como ligações telefônicas ou trocas de mensagens, o que pode ser demorado e suscetível a falhas de comunicação. Além disso, algumas plataformas digitais exigem que o paciente entre em contato diretamente com o profissional para verificar a disponibilidade, tornando o processo menos prático. Essas dificuldades podem resultar em atrasos, falta de sincronia nos horários e dificuldades no remanejamento de consultas.
 
 2️⃣ **Cadastro e Gestão do paciente:** Na atualidade, o cadastro de pacientes, o controle de informações e o histórico clínico em clínicas de psicologia são gerenciados de forma descentralizada. Muitos profissionais ainda utilizam fichas físicas, cadernos de anotações ou planilhas simples para registrar dados dos pacientes, o que torna o acesso às informações lento e suscetível a perdas. Em alguns casos, clínicas maiores adotam softwares genéricos de gestão, mas esses sistemas nem sempre são adaptados às necessidades específicas da psicologia, dificultando a organização do histórico clínico e o acompanhamento detalhado da evolução do paciente. O armazenamento descentralizado dessas informações também compromete a continuidade do tratamento, pois o psicólogo depende de registros dispersos ou da memória do paciente para acompanhar seu progresso ao longo do tempo.
 
@@ -147,7 +147,7 @@ Muitos psicólogos enfrentam desafios na gestão de suas práticas clínicas dev
 
 O PSI+ é uma plataforma que facilita a gestão psicológica, com agendamento, monitoramento emocional e comunicação segura, otimizando o atendimento.
 
-1️⃣ **Cadastro e Gestão da agenda:** 
+1️⃣ **Cadastro e Gestão da agenda:** O PSI+ revoluciona o processo de agendamento ao oferecer uma interface intuitiva e eficiente. Com nosso aplicativo, os psicólogos podem cadastrar seus horários livres de forma prática, e os pacientes podem visualizar essa agenda em tempo real, escolhendo o horário que melhor se encaixa em sua rotina. Esse sistema elimina a necessidade de longas trocas de mensagens ou chamadas telefônicas, garantindo uma experiência ágil, organizada e otimizando o tempo de profissionais e pacientes.
 
 2️⃣ **Cadastro e Gestão do paciente:** O Psi+ propõe uma solução digital integrada que centraliza o cadastro de pacientes e o controle de informações em uma plataforma segura e acessível. Com esse sistema, os psicólogos poderão registrar e consultar facilmente os dados de seus pacientes, facilitando a organização das consultas e otimizando o acompanhamento terapêutico.  
 A plataforma permite a edição e o arquivamento de pacientes, garantindo que as informações estejam sempre atualizadas e acessíveis quando necessário. Além disso, elimina a necessidade de documentos físicos e reduz o risco de perda de dados, tornando o atendimento mais eficiente e organizado.
