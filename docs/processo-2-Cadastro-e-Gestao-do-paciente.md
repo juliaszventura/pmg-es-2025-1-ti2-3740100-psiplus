@@ -16,8 +16,8 @@
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| Pesquisar              | Confirma a pesquisa e busca os dados solicitados             | default           |
-| Cancelar            | Descarta a ação e retorna à tela inicial  | Cancel                  |
+| Pesquisar              | Confirma a pesquisa e exibe os resultados correspondentes             | default           |
+| Cancelar            | Descarta a pesquisa e retorna à tela inicial  | Cancel                  |
 
 
 **Cadastro de paciente**
