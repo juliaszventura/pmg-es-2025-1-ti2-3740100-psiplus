@@ -7,7 +7,7 @@
 
 #### Detalhamento das atividades
 
-**Pesquisa de Perfil**
+**Pesquisa de Perfil do paciente**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ----           | ---               |
