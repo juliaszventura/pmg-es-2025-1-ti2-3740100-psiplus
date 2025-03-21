@@ -1,56 +1,43 @@
-### 3.3.3 Processo 3 – Registro das consultas
+# 3.3.4 Processo 3 – Registro de Anotações da Consulta
 
-**Registro das consultas:** O processo de agendamento de consultas permite que psicólogos cadastrem seus horários disponíveis e ocupados, enquanto os pacientes podem visualizar os horários livres e agendar uma consulta diretamente pela plataforma. O sistema facilita a organização do tempo dos psicólogos e oferece aos pacientes uma maneira simples e eficiente de marcar consultas, garantindo uma gestão otimizada de horários e maior conveniência para ambos os lados.
+## Registro de Anotações da Consulta  
 
-![Exemplo de um Modelo BPMN do PROCESSO 3](images/diagramaAgendamento.png "Modelo BPMN do Processo 3.") 
+O processo permite que os profissionais registrem informações importantes sobre as consultas realizadas. Após o atendimento, o médico ou psicólogo pode inserir anotações, revisá-las e armazená-las no sistema. Caso não haja necessidade de anotações, o processo é finalizado diretamente. O sistema garante a organização eficiente dos registros, facilitando o acompanhamento do histórico do paciente.  
 
+![Exemplo de um Modelo BPMN do PROCESSO 4](images/modeloRegistro_Consulta.png")  
 
-#### Detalhamento das atividades
+---
 
-**Efetuar Login**
-
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| login           | Caixa de Texto   | formato de e-mail |                |
-| senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
-
-| **Comandos**         |  **Destino**                   | **Tipo** |
-| ---                  | ---                            | ---               |
-| entrar               | Fim do Processo Efetuar Login           | default           |
-| cadastrar            | Início do proceso de cadastro  |                   |
+## Detalhamento das atividades  
 
 
-**Cadastrar horário vago**
+### **Verificar Existência de Anotações (Gateway Exclusivo – XOR)**  
 
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-| dataehora       | Data e Hora      |dd-mm-aaaa, hh:mm|                   |
+- **Se houver anotações**, seguir para **Revisar Anotações**.  
+- **Se não houver anotações**, seguir diretamente para **Finalizar Registro**.  
 
-| **Comandos**         |  **Destino**                   | **Tipo**          |
-| ---                  | ---                            | ---               |
-| confirmar | Fim do Processo Cadastrar horário vago  | default|
-| cancelar| Fim do Processo Cadastrar horário vago|cancel|
+---
 
+### **Revisar Anotações**  
 
-**Cadastrar horário ocupado**
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| nomepaciente       | Caixa de texto      |---| nome                   |
-| dataehora       | Data e Hora      |dd-mm-aaaa, hh:mm|    
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| visualizarAnotacoes | Área de Texto | Somente leitura | Anotações feitas |
 
-| **Comandos**         |  **Destino**                   | **Tipo**          |
-| ---                  | ---                            | ---               |
-| confirmar | Fim do Processo Cadastrar horário ocupado  | default|
-| cancelar| Fim do Processo Cadastrar horário ocupado|cancel|
+| **Comandos** | **Destino** | **Tipo** |
+| --- | --- | --- |
+| confirmar | Processo "Salvar no Sistema" | default |
+| editar | Retornar para "Registrar Dados da Consulta" | action |
 
+---
 
-**Ocupar horário disponível**
- **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| selecionarhorario      | Seleção única      |---|                  |
+### **Salvar no Sistema**  
 
-| **Comandos**         |  **Destino**                   | **Tipo**          |
-| ---                  | ---                            | ---               |
-| confirmar | Fim do Processo Ocupar horário disponível  | default|
-| cancelar| Fim do Processo Ocupar horário disponível|cancel|
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| status | Texto Automático | Somente leitura | "Salvo com sucesso" |
+
+| **Comandos** | **Destino** | **Tipo** |
+| --- | --- | --- |
+| ok | Processo "Finalizar Registro" | default |
+
