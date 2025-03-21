@@ -1,4 +1,4 @@
-# 3.3.4 Processo 3 – Registro de Anotações da Consulta
+# 3.3.3 Processo 3 – Registro de Anotações da Consulta
 
 ## Registro de Anotações da Consulta  
 
