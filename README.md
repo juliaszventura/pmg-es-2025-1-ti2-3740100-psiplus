@@ -1,6 +1,6 @@
 # PsiPlus
 
-**Conectando emoções, organizando cuidados**
+**Conectando emoções, organizando cuidados.**
 
 A gestão de práticas psicológicas enfrenta desafios como desorganização da agenda, dificuldades no acompanhamento das emoções dos pacientes e comunicação limitada entre sessões, o que afeta a qualidade do atendimento. Este trabalho visa criar um sistema digital que integre agendamento, comunicação e registro das emoções dos pacientes, facilitando a gestão para o psicólogo e melhorando a experiência para o paciente. A plataforma permitirá otimizar o tempo do profissional, tornando o processo mais eficiente e promovendo um atendimento mais organizado. A tecnologia será uma aliada, tornando os dados mais acessíveis e fáceis de gerenciar.
 
