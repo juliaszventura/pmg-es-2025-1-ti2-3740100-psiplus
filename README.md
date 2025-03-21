@@ -1,6 +1,6 @@
 # ➕PsiPlus
 
-![Logo](images/logo.png)
+![Logo](docs/images/logo.png)
 
 **Conectando emoções, organizando cuidados.**
 
