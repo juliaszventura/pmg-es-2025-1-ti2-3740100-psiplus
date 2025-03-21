@@ -1,4 +1,4 @@
-# ➕PsiPlus
+# PsiPlus
 
 ![Logo](docs/images/logo.png)
 
