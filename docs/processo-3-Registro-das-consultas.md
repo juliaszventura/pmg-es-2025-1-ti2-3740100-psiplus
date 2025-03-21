@@ -6,6 +6,9 @@ O processo permite que os profissionais registrem informações importantes sobr
 
 -Modelagem de registros:
 ![Exemplo de um Modelo BPMN do PROCESSO 4](images/modeloRegistro_Consulta.png)  
+
+
+
 -Modelagem da gestão dos registros:
 ![Exemplo de um Modelo BPMN do PROCESSO 4](images/modelagemGestãoDosRegistros.png)  
 
