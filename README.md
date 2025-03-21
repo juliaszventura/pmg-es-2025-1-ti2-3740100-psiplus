@@ -1,4 +1,4 @@
-# PsiPlus
+# ➕PsiPlus
 
 **Conectando emoções, organizando cuidados.**
 
