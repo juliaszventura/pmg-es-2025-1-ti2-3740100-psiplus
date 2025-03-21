@@ -7,6 +7,19 @@
 
 #### Detalhamento das atividades
 
+**Pesquisa de Perfil**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ----           | ---               |
+| Nome            | Caixa de texto   | Obrigatório    | -                 |
+| CPF          | Caixa de Texto   | Formato: 000.000.000-00 | -          |
+
+| **Comandos**         |  **Destino**                   | **Tipo** |
+| ---                  | ---                            | ---               |
+| Pesquisar              | Confirma a pesquisa e busca os dados solicitados             | default           |
+| Cancelar            | Descarta a ação e retorna à tela inicial  | Cancel                  |
+
+
 **Cadastro de paciente**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
