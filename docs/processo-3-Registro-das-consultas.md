@@ -17,6 +17,12 @@ O processo permite que os profissionais registrem informações importantes sobr
 
 ## Detalhamento das atividades de Registros. 
 
+| **Campo**             | **Tipo**       | **Restrições**                   | **Valor default**     |  
+|----------------------|---------------|---------------------------------|----------------------|  
+| visualizarAnotacoes | Área de Texto  | Somente leitura                 | Anotações feitas    |  
+| inserirAnotacoes    | Botão          | Permite inserir novas anotações | - |  
+| campoAnotacoes      | Área de Texto  | Entrada de usuário              | - |  
+
 
 ### **Verificar Existência de Anotações (Gateway Exclusivo – XOR)**  
 
