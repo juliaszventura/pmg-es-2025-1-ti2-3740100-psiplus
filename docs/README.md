@@ -135,26 +135,28 @@ Este trabalho se justifica pela crescente demanda por soluções tecnológicas n
 
 Muitos psicólogos enfrentam desafios na gestão de suas práticas clínicas devido à falta de sistemas integrados para agendamento, acompanhamento emocional e comunicação entre sessões. A dependência de métodos manuais ou sistemas desconexos gera agendamentos confusos, dificuldades no monitoramento contínuo dos pacientes e limitações na comunicação, prejudicando a qualidade do atendimento e a eficiência terapêutica.
 
-1️⃣ **Cadastro e Gestão da agenda:** 
+1️⃣ **Cadastro e Gestão da agenda:** O agendamento de consultas psicológicas ainda enfrenta desafios que dificultam a experiência tanto para pacientes quanto para profissionais. Muitas clínicas utilizam métodos tradicionais, como ligações telefônicas ou trocas de mensagens, o que pode ser demorado e suscetível a falhas de comunicação. Além disso, algumas plataformas digitais exigem que o paciente entre em contato diretamente com o profissional para verificar a disponibilidade, tornando o processo menos prático. Essas dificuldades podem resultar em atrasos, falta de sincronia nos horários e dificuldades no remanejamento de consultas.
 
 2️⃣ **Cadastro e Gestão do paciente:** Na atualidade, o cadastro de pacientes, o controle de informações e o histórico clínico em clínicas de psicologia são gerenciados de forma descentralizada. Muitos profissionais ainda utilizam fichas físicas, cadernos de anotações ou planilhas simples para registrar dados dos pacientes, o que torna o acesso às informações lento e suscetível a perdas. Em alguns casos, clínicas maiores adotam softwares genéricos de gestão, mas esses sistemas nem sempre são adaptados às necessidades específicas da psicologia, dificultando a organização do histórico clínico e o acompanhamento detalhado da evolução do paciente. O armazenamento descentralizado dessas informações também compromete a continuidade do tratamento, pois o psicólogo depende de registros dispersos ou da memória do paciente para acompanhar seu progresso ao longo do tempo.
 
 3️⃣ **Registro das consultas:** O registro de consultas médicas enfrenta dificuldades devido ao uso de métodos manuais, falta de integração entre setores e limitação no acesso ao histórico dos pacientes. Essas deficiências resultam em erros operacionais, conflitos de horários, dificuldades na comunicação entre profissionais e na gestão de agendas, além de comprometerem a experiência do paciente e a eficiência do atendimento. A ausência de um sistema centralizado impacta a continuidade dos tratamentos e dificulta a tomada de decisões clínicas, tornando a gestão das consultas menos eficiente.
 
-4️⃣ **Registro das emoções e calendário:** 
+4️⃣ **Registro das emoções e calendário:**  Atualmente, o registro das emoções dos pacientes é feito de forma pontual durante as sessões ou de maneira dispersa, o que dificulta o acompanhamento contínuo da evolução emocional. A ausência de uma ferramenta integrada limita a identificação de padrões e a correlação de emoções com eventos específicos do dia a dia. Isso impacta diretamente na personalização do atendimento psicológico e na participação ativa do paciente no próprio processo terapêutico.
+Com a implementação de um sistema de registro das emoções integrado a um calendário, tanto o psicólogo quanto o paciente ganham uma visão mais clara e estruturada dos sentimentos ao longo do tempo. Essa funcionalidade permitirá detectar momentos críticos, padrões emocionais e possíveis gatilhos, proporcionando ao profissional uma base mais sólida para o planejamento terapêutico e estimulando o paciente a refletir sobre sua jornada emocional de forma mais engajada.
 
 ### 3.2. Descrição geral da proposta de solução
 
 O PSI+ é uma plataforma que facilita a gestão psicológica, com agendamento, monitoramento emocional e comunicação segura, otimizando o atendimento.
 
-1️⃣ **Cadastro e Gestão da agenda:** 
+1️⃣ **Cadastro e Gestão da agenda:** O PSI+ revoluciona o processo de agendamento ao oferecer uma interface intuitiva e eficiente. Com nosso aplicativo, os psicólogos podem cadastrar seus horários livres de forma prática, e os pacientes podem visualizar essa agenda em tempo real, escolhendo o horário que melhor se encaixa em sua rotina. Esse sistema elimina a necessidade de longas trocas de mensagens ou chamadas telefônicas, garantindo uma experiência ágil, organizada e otimizando o tempo de profissionais e pacientes.
 
 2️⃣ **Cadastro e Gestão do paciente:** O Psi+ propõe uma solução digital integrada que centraliza o cadastro de pacientes e o controle de informações em uma plataforma segura e acessível. Com esse sistema, os psicólogos poderão registrar e consultar facilmente os dados de seus pacientes, facilitando a organização das consultas e otimizando o acompanhamento terapêutico.  
 A plataforma permite a edição e o arquivamento de pacientes, garantindo que as informações estejam sempre atualizadas e acessíveis quando necessário. Além disso, elimina a necessidade de documentos físicos e reduz o risco de perda de dados, tornando o atendimento mais eficiente e organizado.
 
 3️⃣ **Registro das consultas:** Para resolver esses problemas, propomos a criação de um sistema integrado de agendamento e gerenciamento de consultas médicas. A plataforma permitirá a marcação online de consultas, acesso ao histórico de atendimentos, criação de notas e comentários sobre a consulta e envio de notificações para otimizar a ocupação dos horários e melhorar o atendimento. 
 
-4️⃣ **Registro das emoções e calendário:** 
+4️⃣ **Registro das emoções e calendário:** Uma das propostas do PSI+ é criar uma funcionalidade de Registro das Emoções e Calendário, onde o paciente poderá registrar a qualquer momento seus sentimentos e associá-los a eventos ou situações vivenciadas. Esses registros ficarão organizados em um calendário visual e intuitivo, facilitando o acompanhamento da jornada emocional do paciente.
+O psicólogo terá acesso a esses dados, além de gráficos e estatísticas que facilitarão a análise de tendências emocionais e momentos de maior ou menor estabilidade. A solução permitirá uma visão mais ampla e detalhada da rotina emocional do paciente, tornando o processo terapêutico mais eficiente. Isso fortalecerá o vínculo terapêutico, permitirá ajustes nas estratégias de tratamento e ampliará o engajamento do paciente na própria evolução emocional.
 
 ### 3.3. Modelagem dos processos
 
