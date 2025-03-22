@@ -9,7 +9,7 @@ O sistema disponibiliza uma página dedicada para o paciente registrar suas emo�
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
 | dia_selecionado | Seleção única    |  Obrigatório   |   Hoje            |
-| emoção_atual    | Seleção única    |  Obrigatório   |   Neutro          |
+| emoção_atual    | Seleção única    |  Obrigatório (Raiva, Muito triste, triste, neutro, feliz, muito feliz)   |   Neutro          |
 | descrição       | Caixa de Texto   | Obrigatório    | ---               |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
