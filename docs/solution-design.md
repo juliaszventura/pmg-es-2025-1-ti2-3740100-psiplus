@@ -3,7 +3,7 @@
 ### 4.1. Modelo de dados
 
 
-![Modelo relacional](images/ModeloDadosPSI+.drawio.png "Modelo Relacional.")
+![Modelo relacional](images/ModeloDadosPSI+.drawioo.png "Modelo Relacional.")
 ---
 
 ### 4.2. Tecnologias
