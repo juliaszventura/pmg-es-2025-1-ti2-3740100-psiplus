@@ -7,12 +7,6 @@ O processo permite que os profissionais registrem informações importantes sobr
 -Modelagem de registros:
 ![Exemplo de um Modelo BPMN do PROCESSO 4](images/modeloRegistro_Consulta.png)  
 
-
-
--Modelagem da gestão dos registros:
-![Exemplo de um Modelo BPMN do PROCESSO 4](images/modelagemGestãoDosRegistros.png)  
-
-
 ---
 
 ## Detalhamento das atividades de Registros. 
@@ -53,31 +47,3 @@ O processo permite que os profissionais registrem informações importantes sobr
 | **Comandos** | **Destino** | **Tipo** |
 | --- | --- | --- |
 | ok | Processo "Finalizar Registro" | default |
-
-## Detalhamento das atividades de Gestão de registros. 
-
----
-
-### **Escolher o tipo de pesquisa (Paciente ou Consulta)**  
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| o que você procura | Seleção única | obrigatório | - |
-
-### **Pesquisar**  
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| Pesquisar | Área de texto | obrigatório | - |
-
-| **Comandos** | **Destino** | **Tipo** |
-| --- | --- | --- |
-| Icone pesquisar | Processo "Exibir resultados filtrados" | Tabela |
----
-
-### **Selecionar um dos resultados exibidos**  
-
-| **Comandos** | **Destino** | **Tipo** |
-| --- | --- | --- |
-| Selecionar | Gráficos e anotações | Tabela |
-
