@@ -1,4 +1,4 @@
-### 3.3.1 Processo 1 – Cadastro e Gestão da agenda
+### 3.3.1 Processo 1 – Cadastro da agenda
 O processo de agendamento no Psi+ permite que psicólogos cadastrem horários disponíveis e que pacientes possam visualizar e marcar consultas de maneira otimizada. O fluxo envolve as ações de ambos os usuários, garantindo que a agenda esteja sempre atualizada e evitando conflitos de horários.
 
 
