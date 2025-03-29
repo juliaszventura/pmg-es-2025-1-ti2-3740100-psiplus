@@ -5,11 +5,11 @@
 O processo permite que os profissionais consultem registros, informações importantes sobre as consultas realizadas. O sistema garante a organização eficiente dos registros, facilitando o acompanhamento do histórico do paciente.  
 
 
-![Exemplo de um Modelo BPMN do PROCESSO 5]([docs/images/wireframe-1-Gestao-Registros-Consultas.png](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti2-3740100-psiplus/blob/main/docs/images/wireframe-1-Gestao-Registros-Consultas.png)
+![Exemplo de um Modelo BPMN do PROCESSO 5](images/wireframe-1-Gestao-Registros-Consultas.png)
 
 ![Exemplo de um Modelo BPMN do PROCESSO 5](images/wireframe-2-Gestao-Registros-Consultas.png)
 
-![Exemplo de um Modelo BPMN do PROCESSO 5](docs/images/wireframe-3-Gestao-Registros-Consultas.png)
+![Exemplo de um Modelo BPMN do PROCESSO 5](images/wireframe-3-Gestao-Registros-Consultas.png)
 
 
 -Modelagem de registros:
