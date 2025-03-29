@@ -1,8 +1,16 @@
-# 3.3.3 Processo 3 – Registro de Anotações da Consulta
+# 3.3.3 Processo 5 – Gestão Registro de Anotações da Consulta
 
-## Registro de Anotações da Consulta  
+## Gestão Registro de Anotações da Consulta  
 
 O processo permite que os profissionais consultem registros, informações importantes sobre as consultas realizadas. O sistema garante a organização eficiente dos registros, facilitando o acompanhamento do histórico do paciente.  
+
+
+![Exemplo de um Modelo BPMN do PROCESSO 5](wireframe-1-Gestao-Registros-Consultas.png)
+
+![Exemplo de um Modelo BPMN do PROCESSO 5](wireframe-2-Gestao-Registros-Consultas.png)
+
+![Exemplo de um Modelo BPMN do PROCESSO 5](wireframe-3-Gestao-Registros-Consultas.png)
+
 
 -Modelagem de registros:
 ![Exemplo de um Modelo BPMN do PROCESSO 4](images/bpmnGestaoRegistroConsultas.png)  
