@@ -144,6 +144,8 @@ Muitos psicólogos enfrentam desafios na gestão de suas práticas clínicas dev
 4️⃣ **Registro das emoções e calendário:**  Atualmente, o registro das emoções dos pacientes é feito de forma pontual durante as sessões ou de maneira dispersa, o que dificulta o acompanhamento contínuo da evolução emocional. A ausência de uma ferramenta integrada limita a identificação de padrões e a correlação de emoções com eventos específicos do dia a dia. Isso impacta diretamente na personalização do atendimento psicológico e na participação ativa do paciente no próprio processo terapêutico.
 Com a implementação de um sistema de registro das emoções integrado a um calendário, tanto o psicólogo quanto o paciente ganham uma visão mais clara e estruturada dos sentimentos ao longo do tempo. Essa funcionalidade permitirá detectar momentos críticos, padrões emocionais e possíveis gatilhos, proporcionando ao profissional uma base mais sólida para o planejamento terapêutico e estimulando o paciente a refletir sobre sua jornada emocional de forma mais engajada.
 
+**Gestão dos registros das consultas:** Consultar os registros das sessões não é uma tarefa fácil, ainda mais onde o usuário não pode ter o auxilio de um banco de dados para fazer as filtragens, e ao invés disso, ter que fazer a verificação de registro em registro, ja que são feitos em papéis ou em planilhas não automatizadas, isso pode trazer muitas desvantagens, como tempo perdido, algum registro que não seja encontrado e a necessidade de um local físico grande, para comportar tanta informação.
+
 ### 3.2. Descrição geral da proposta de solução
 
 O PSI+ é uma plataforma que facilita a gestão psicológica, com agendamento, monitoramento emocional e comunicação segura, otimizando o atendimento.
@@ -157,6 +159,8 @@ A plataforma permite a edição e o arquivamento de pacientes, garantindo que as
 
 4️⃣ **Registro das emoções e calendário:** Uma das propostas do PSI+ é criar uma funcionalidade de Registro das Emoções e Calendário, onde o paciente poderá registrar a qualquer momento seus sentimentos e associá-los a eventos ou situações vivenciadas. Esses registros ficarão organizados em um calendário visual e intuitivo, facilitando o acompanhamento da jornada emocional do paciente.
 O psicólogo terá acesso a esses dados, além de gráficos e estatísticas que facilitarão a análise de tendências emocionais e momentos de maior ou menor estabilidade. A solução permitirá uma visão mais ampla e detalhada da rotina emocional do paciente, tornando o processo terapêutico mais eficiente. Isso fortalecerá o vínculo terapêutico, permitirá ajustes nas estratégias de tratamento e ampliará o engajamento do paciente na própria evolução emocional.
+
+**Gestão dos registros das consultas:** O PSi+ soluciona esses problemas, com um banco de dados bem estruturado, para que suas pesquisas possam ser feitas, e as necessidades de visualização de informação sejam sanadas, com uma interface intuitiva e limpa, você pode fazer as buscas de todos os registros de todas as consultas, obtendo informações como, data da consulta, paciente atendido, as anotações que foram feitas durante a sessão e um grafico com as principais impressões que o usuário possa ter tido do paciente.
 
 ### 3.3. Modelagem dos processos
 
