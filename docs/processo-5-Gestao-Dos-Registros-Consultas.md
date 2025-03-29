@@ -12,7 +12,7 @@ O processo permite que os profissionais consultem registros, informações impor
 ![Exemplo de um Modelo BPMN do PROCESSO 5](images/wireframe-3-Gestao-Registros-Consultas.png)
 
 
--Modelagem de registros:
+-Modelagem de gestão registros:
 ![Exemplo de um Modelo BPMN do PROCESSO 4](images/bpmnGestaoRegistroConsultas.png)  
 
 
