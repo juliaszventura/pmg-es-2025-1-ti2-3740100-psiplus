@@ -37,7 +37,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ----           | ---               |
-| Nome            | Caixa de texto   | Obrigatório    | -                 |
+| Pesquisar por nome            | Caixa de texto   | Obrigatório    | -                 |
 | CPF          | Caixa de Texto   | Formato: 000.000.000-00 | -          |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
