@@ -14,9 +14,7 @@ O processo permite que os profissionais consultem registros, informações impor
 
 
 
-## Detalhamento das atividades de Gestão de registros. 
-
----
+## Detalhamento das atividades  
 
 ### **Escolher o tipo de pesquisa (Paciente ou Consulta)**  
 
