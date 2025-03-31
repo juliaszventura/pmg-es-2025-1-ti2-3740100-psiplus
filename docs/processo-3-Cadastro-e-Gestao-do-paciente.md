@@ -22,7 +22,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 | E-mail          | Caixa de Texto   | Obrigatório/Formato de e-mail válido | -          |
 | Endereço        | Área de Texto   | Opcional | -               |
 | Cidade          | Área de Texto   | Opcional | -               |
-| País            | Seleção única   | Opcional/Países | -               |
+| País            | Área de Texto   | Opcional | -               |
 | CEP             | Área de Texto   | Opcional | -               |
 | Notas           | Área de Texto   | Opcional | -          |
 
