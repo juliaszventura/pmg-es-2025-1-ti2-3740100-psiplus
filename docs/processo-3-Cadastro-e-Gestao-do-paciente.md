@@ -5,7 +5,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 ![Exemplo de um Modelo BPMN do Cadastro e Gestão do paciente](images/Modelagem-CadastroeGestãodosPacientess.png)
 
 
-#### Detalhamento das atividades
+### Detalhamento das atividades
 
 **Pesquisa de Perfil do paciente**
 
