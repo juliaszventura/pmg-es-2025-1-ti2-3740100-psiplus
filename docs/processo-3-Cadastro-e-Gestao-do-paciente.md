@@ -64,18 +64,21 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ----           | ---               |
-| Nome            | Caixa de texto   | Editável    | -                 |
-| Data de Nascimento  | Data                 | Editável (dd-mm-aaaa)               | -                  |
-| Gênero           | Seleção única   | Masculino/Feminino/Outro | -               |
-| Telefone           | Número   | Editável, formato (XX) XXXXX-XXXX | -               |
-| E-mail          | Caixa de Texto   | Formato de e-mail válido | -          |
-| Endereço           | Área de Texto   | Opcional | -               |
-| Observações          | Área de Texto   | Opcional | -          |
+| Nome            | Caixa de texto   | Obrigatório    | -                 |
+| CPF             | Caixa de Texto   | Obrigatório/Formato: 000.000.000-00 | -          |
+| Data de Nascimento  | Seleção única                 | Obrigatório Dia/Mes/Ano  | -                  |
+| Telefone        | Número   | Obrigatório, formato (XX) XXXXX-XXXX | -               |
+| Sexo            | Seleção única   | Masculino/Feminino/Outro | -               |
+| E-mail          | Caixa de Texto   | Obrigatório/Formato de e-mail válido | -          |
+| Endereço        | Área de Texto   | Opcional | -               |
+| Cidade          | Área de Texto   | Opcional | -               |
+| País            | Seleção única   | Opcional/Países | -               |
+| CEP             | Área de Texto   | Opcional | -               |
+| Notas           | Área de Texto   | Opcional | -          |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| Atualizar               | Confirma as alterações              | default           |
-| Cancelar            | Descarta mudanças  | cancel                  |
+| Salvar               | Confirma o cadastro e armazena os dados              | default           |
 
 ---  
 **Consulta ao Histórico Clínico**
