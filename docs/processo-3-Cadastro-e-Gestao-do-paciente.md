@@ -78,7 +78,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| Salvar               | Confirma o cadastro e armazena os dados              | default           |
+| Salvar               | Confirma a alteração e armazena os dados              | default           |
 
 ---  
 **Consulta ao Histórico Clínico**
