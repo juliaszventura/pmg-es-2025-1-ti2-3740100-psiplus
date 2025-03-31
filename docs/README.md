@@ -171,7 +171,7 @@ O psicólogo terá acesso a esses dados, além de gráficos e estatísticas que 
 📌 [Processo 2 - Gestão da agenda](processo-1-Cadastro-e-Gestao-da-agenda.md "Detalhamento do Processo 2.")  
 📌 [Processo 3 - Cadastro e Gestão do paciente](processo-3-Cadastro-e-Gestao-do-paciente.md "Detalhamento do Processo 3.")   
 📌 [Processo 4 - Registro das consultas](processo-3-Registro-das-consultas.md "Detalhamento do Processo 4.")  
-📌 [Processo 5 - Gestão dos Registros das consultas](processo-3-Registro-das-consultas.md "Detalhamento do Processo 5.")    
+📌 [Processo 5 - Gestão dos Registros das consultas](processo-5-Gestao-Dos-Registros-Consultas.md "Detalhamento do Processo 5.")    
 📌 [Processo 6 - Gestão das emoções e calendário](processo-6-Gestao-das-emocoes-e-calendario.md "Detalhamento do Processo 6.")    
 
 ## 💡 4. Projeto da solução
