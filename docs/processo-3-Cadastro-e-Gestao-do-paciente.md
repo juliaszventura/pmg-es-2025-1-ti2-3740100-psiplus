@@ -15,18 +15,20 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ----           | ---               |
 | Nome            | Caixa de texto   | Obrigatório    | -                 |
-| Data de Nascimento  | Data                 | Obrigatório (dd-mm-aaaa)               | -                  |
-| Telefone           | Número   | Obrigatório, formato (XX) XXXXX-XXXX | -               |
-| Gênero           | Seleção única   | Masculino/Feminino/Outro | -               |
-| CPF          | Caixa de Texto   | Formato: 000.000.000-00 | -          |
-| E-mail          | Caixa de Texto   | Formato de e-mail válido | -          |
-| Endereço           | Área de Texto   | Opcional | -               |
-| Observações          | Área de Texto   | Opcional | -          |
+| CPF             | Caixa de Texto   | Obrigatório/Formato: 000.000.000-00 | -          |
+| Data de Nascimento  | Seleção única                 | Obrigatório Dia/Mes/Ano  | -                  |
+| Telefone        | Número   | Obrigatório, formato (XX) XXXXX-XXXX | -               |
+| Sexo            | Seleção única   | Masculino/Feminino/Outro | -               |
+| E-mail          | Caixa de Texto   | Obrigatório/Formato de e-mail válido | -          |
+| Endereço        | Área de Texto   | Opcional | -               |
+| Cidade          | Área de Texto   | Opcional | -               |
+| País            | Seleção única   | Opcional/Países | -               |
+| CEP             | Área de Texto   | Opcional | -               |
+| Notas           | Área de Texto   | Opcional | -          |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
 | Salvar               | Confirma o cadastro e armazena os dados              | default           |
-| Cancelar            | Descarta a ação e retorna à tela inicial  | Cancel                  |
 
 ---  
 **Pesquisa de Perfil do Paciente**
