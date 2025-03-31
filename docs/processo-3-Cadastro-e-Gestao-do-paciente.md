@@ -5,6 +5,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 ![Exemplo de um Modelo BPMN do Cadastro e Gestão do paciente](images/Modelagem-CadastroeGestãodosPacientes.png)
 
 
+---  
 ### Detalhamento das atividades
 
 **Cadastro de Paciente**
@@ -27,7 +28,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 | Salvar               | Confirma o cadastro e armazena os dados              | default           |
 | Cancelar            | Descarta a ação e retorna à tela inicial  | Cancel                  |
 
-
+---  
 **Pesquisa de Perfil do Paciente**
 
 ![Wireframe Cadastro de Paciente](images/Wireframe-Gestao-de-Pacientes.jpg)
@@ -54,7 +55,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 | Arquivar               | Altera o status para "Arquivado"              | default           |
 | Cancelar            | Mantém o status atual  | cancel                  |
 
-
+---  
 **Atualização de Dados do Paciente**
 
 ![Wireframe Cadastro de Paciente](images/Wireframe-Editar-Dados-Paciente.jpg)
@@ -74,7 +75,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 | Atualizar               | Confirma as alterações              | default           |
 | Cancelar            | Descarta mudanças  | cancel                  |
 
-
+---  
 **Consulta ao Histórico Clínico**
 
 ![Wireframe Cadastro de Paciente](images/Wireframe-Historico-Consultas.jpg)
