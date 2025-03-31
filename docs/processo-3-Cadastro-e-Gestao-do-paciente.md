@@ -1,6 +1,6 @@
 ### 3.3.3 Processo 3 – Cadastro e Gestão do paciente
 
-**Cadastro e Gestão do paciente:** A gestão de pacientes e históricos clínicos em clínicas de psicologia enfrenta desafios como registros descentralizados, dificuldades de acesso às informações e processos manuais suscetíveis a erros. A digitalização completa do processo permite maior organização, reduz burocracias e melhora a continuidade do tratamento. Um sistema centralizado e automatizado possibilita um cadastro mais eficiente, facilitando atualizações e acesso rápido ao histórico clínico. 
+O processo de Cadastro e Gestão do Paciente permite a organização e atualização dos dados dos pacientes, garantindo um atendimento eficiente e seguro. No cadastro, são registradas informações pessoais, endereço residencial e informações complementares. Já a gestão acompanha o histórico de consultas, as estatísticas das emoções e a visualização do calendário de emoções. Além disso, é possível editar os dados do paciente ou arquivá-lo quando necessário. Esse processo melhora o atendimento, otimiza o fluxo de trabalho e garante a segurança das informações.
 
 ![Exemplo de um Modelo BPMN do Cadastro e Gestão do paciente](images/Modelagem-CadastroeGestãodosPacientess.png)
 
