@@ -38,12 +38,12 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ----           | ---               |
 | Pesquisar por nome            | Caixa de texto   | Obrigatório    | -                 |
-| CPF          | Caixa de Texto   | Formato: 000.000.000-00 | -          |
+| Filtrar por          | Caixa de texto   | CPF / E-mail / Telefone | -          |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
+| Mais Recentes             | Filtra e organiza os pacientes do cadastro mais recente para o mais antigo             | default           |
 | Pesquisar              | Confirma a pesquisa e exibe os resultados correspondentes             | default           |
-| Cancelar            | Descarta a pesquisa e retorna à tela inicial  | Cancel                  |
 
 
 **Arquivamento de Paciente**
