@@ -41,18 +41,18 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| Mais Recentes        | Filtra e organiza os pacientes do cadastro mais recente para o mais antigo             | default |
+| Mais Recentes        | Filtra e organiza os pacientes do cadastro mais recente para o mais antigo             | Filtro |
 
 
 **Arquivamento de Paciente**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ----           | ---               |
-| Status do Paciente   | Seleção Única   | Ativo / Arquivado   | Ativo                |
+| Seleção de Paciente   | Checkbox (múltipla)   | Permite selecionar um ou mais pacientes para arquivar   | Ativo                |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| Arquivar             | Altera o status para "Arquivado"              | default           |
+| Arquivar             | Move os pacientes selecionados para a página "Pacientes Arquivados"              | Lista de Arquivados          |
 
 
 ---  
