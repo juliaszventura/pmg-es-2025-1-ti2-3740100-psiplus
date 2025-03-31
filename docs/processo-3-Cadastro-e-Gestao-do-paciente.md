@@ -87,7 +87,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| Histórico da consulta     | Exibe o histórico de consultas do paciente    | Navegação             |
+| Histórico de consultas     | Exibe o histórico de consultas do paciente    | Navegação             |
 | Estatísticas das Emoções  | Exibe as estatísticas das emoções do paciente | Navegação             |
 | Calendário de Emoções     | Exibe o calendário de emoções do paciente     | Navegação             |
 
