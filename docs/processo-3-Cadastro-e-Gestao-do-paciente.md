@@ -7,7 +7,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 
 ### Detalhamento das atividades
 
-**Cadastro de paciente**
+**Cadastro de Paciente**
 
 ![Wireframe Cadastro de Paciente](images/Wireframe-Cadastro-de-Paciente.jpg)
 
@@ -28,7 +28,9 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 | Cancelar            | Descarta a ação e retorna à tela inicial  | Cancel                  |
 
 
-**Pesquisa de Perfil do paciente**
+**Pesquisa de Perfil do Paciente**
+
+![Wireframe Cadastro de Paciente](images/Wireframe-Gestao-de-Pacientes.jpg)
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ----           | ---               |
@@ -72,6 +74,10 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 
 
 **Consulta ao Histórico Clínico**
+
+![Wireframe Cadastro de Paciente](images/Wireframe-Historico-Consultas.jpg)
+![Wireframe Cadastro de Paciente](images/Wireframe-Estatisiticas-das-Emocoes-Psicologo.jpg)
+![Wireframe Cadastro de Paciente](images/Wireframe-Calendario-de-Emocoes-Psicologo.jpg)
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ----           | ---               |
