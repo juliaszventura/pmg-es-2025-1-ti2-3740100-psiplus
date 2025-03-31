@@ -87,9 +87,9 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ----           | ---               |
-| Data da Consulta            | Data   | Obrigatório    | -                 |
-| Anotações  | Área de Texto                 | Somente leitura               | -                  |
-| Diagnóstico           | Área de Texto   | Somente leitura | -               |
+| Histórico da consulta     | Data   | Obrigatório    | -                 |
+| Estatísticas das Emoções  | Área de Texto                 | Somente leitura               | -                  |
+| Calendário de Emoções     | Área de Texto   | Somente leitura | -               |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
