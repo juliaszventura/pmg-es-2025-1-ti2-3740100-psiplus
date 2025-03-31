@@ -7,19 +7,6 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 
 ### Detalhamento das atividades
 
-**Pesquisa de Perfil do paciente**
-
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ----           | ---               |
-| Nome            | Caixa de texto   | Obrigatório    | -                 |
-| CPF          | Caixa de Texto   | Formato: 000.000.000-00 | -          |
-
-| **Comandos**         |  **Destino**                   | **Tipo** |
-| ---                  | ---                            | ---               |
-| Pesquisar              | Confirma a pesquisa e exibe os resultados correspondentes             | default           |
-| Cancelar            | Descarta a pesquisa e retorna à tela inicial  | Cancel                  |
-
-
 **Cadastro de paciente**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
@@ -39,6 +26,31 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 | Cancelar            | Descarta a ação e retorna à tela inicial  | Cancel                  |
 
 
+**Pesquisa de Perfil do paciente**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ----           | ---               |
+| Nome            | Caixa de texto   | Obrigatório    | -                 |
+| CPF          | Caixa de Texto   | Formato: 000.000.000-00 | -          |
+
+| **Comandos**         |  **Destino**                   | **Tipo** |
+| ---                  | ---                            | ---               |
+| Pesquisar              | Confirma a pesquisa e exibe os resultados correspondentes             | default           |
+| Cancelar            | Descarta a pesquisa e retorna à tela inicial  | Cancel                  |
+
+
+**Arquivamento de Paciente**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ----           | ---               |
+| Status do Paciente   | Seleção Única   | Ativo / Arquivado   | Ativo                |
+
+| **Comandos**         |  **Destino**                   | **Tipo** |
+| ---                  | ---                            | ---               |
+| Arquivar               | Altera o status para "Arquivado"              | default           |
+| Cancelar            | Mantém o status atual  | cancel                  |
+
+
 **Atualização de Dados do Paciente**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
@@ -56,6 +68,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 | Atualizar               | Confirma as alterações              | default           |
 | Cancelar            | Descarta mudanças  | cancel                  |
 
+
 **Consulta ao Histórico Clínico**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
@@ -68,15 +81,4 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 | ---                  | ---                            | ---               |
 | Visualizar               | Exibe o histórico do paciente              | default           |
 | Fechar            | Sai da tela sem alterar dados  | cancel                  |
-
-**Arquivamento de Paciente**
-
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ----           | ---               |
-| Status do Paciente   | Seleção Única   | Ativo / Arquivado   | Ativo                |
-
-| **Comandos**         |  **Destino**                   | **Tipo** |
-| ---                  | ---                            | ---               |
-| Arquivar               | Altera o status para "Arquivado"              | default           |
-| Cancelar            | Mantém o status atual  | cancel                  |
 
