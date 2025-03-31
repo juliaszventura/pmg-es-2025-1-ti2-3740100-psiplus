@@ -6,7 +6,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 
 
 ---  
-### Detalhamento das atividades
+## Detalhamento das atividades
 
 **Cadastro de Paciente**
 
