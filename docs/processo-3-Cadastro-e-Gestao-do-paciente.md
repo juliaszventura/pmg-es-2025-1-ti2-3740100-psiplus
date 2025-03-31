@@ -35,7 +35,7 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 
 ![Wireframe Cadastro de Paciente](images/Wireframe-Listagem-de-Pacientes.jpg)
 
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| **Campo**       | **Tipo**         | **Critérios de pesquisa** | **Valor default** |
 | ---             | ---              | ----           | ---               |
 | Pesquisar paciente   | Caixa de texto   | Nome/CPF/E-mail/Telefone/Nascimento    | -                 |
 
@@ -85,14 +85,10 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 ![Wireframe Cadastro de Paciente](images/Wireframe-Estatisiticas-das-Emocoes-Psicologo.jpg)
 ![Wireframe Cadastro de Paciente](images/Wireframe-Calendario-de-Emocoes-Psicologo.jpg)
 
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ----           | ---               |
-| Histórico da consulta     | Data   | Obrigatório    | -                 |
-| Estatísticas das Emoções  | Área de Texto                 | Somente leitura               | -                  |
-| Calendário de Emoções     | Área de Texto   | Somente leitura | -               |
-
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| Visualizar               | Exibe o histórico do paciente              | default           |
-| Fechar            | Sai da tela sem alterar dados  | cancel                  |
+| Histórico da consulta     | Exibe o histórico de consultas do paciente    | Navegação             |
+| Estatísticas das Emoções  | Exibe as estatísticas das emoções do paciente | Navegação             |
+| Calendário de Emoções     | Exibe o calendário de emoções do paciente     | Navegação             |
+
 
