@@ -57,6 +57,8 @@ O processo de Cadastro e Gestão do Paciente permite a organização e atualiza�
 
 **Atualização de Dados do Paciente**
 
+![Wireframe Cadastro de Paciente](images/Wireframe-Editar-Dados-Paciente.jpg)
+
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ----           | ---               |
 | Nome            | Caixa de texto   | Editável    | -                 |
