@@ -8,7 +8,7 @@ O sistema disponibiliza uma página dedicada para o paciente registrar suas emo�
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| Selecionar dia para registro | Tabela  |  Opcional              |   ---               |
+| Selecionar dia para gestão | Tabela  |  Opcional              |   ---               |
 
 **Cadastro de Emoção**
 
@@ -22,7 +22,7 @@ O sistema disponibiliza uma página dedicada para o paciente registrar suas emo�
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
 | Salvar            | Adiciona a emoção no banco   | default           |
-| Cancelar             | Cancela o registro de emoção             | cancel            |
+| Cancelar             | Cancela a gestão da emoção             | cancel            |
 
 **Edição de Emoção**
 
