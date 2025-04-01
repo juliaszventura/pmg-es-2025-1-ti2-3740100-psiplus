@@ -38,10 +38,3 @@ O sistema disponibiliza uma página dedicada para o paciente registrar suas emo�
 | Editar Emoção            | Salva os novos dados da emoção no banco   | default           |
 | Deletar Emoção            | Remove os dados da emoção do banco   | remover           |
 | Cancelar             | Cancela a edição da emoção             | cancel            |
-
-
-**Alteração de visualização do gráfico**
-
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| Alteração de Visualização | Seleção única  |  Opcional              |   Semanal               |
