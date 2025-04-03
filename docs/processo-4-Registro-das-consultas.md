@@ -23,26 +23,4 @@ O processo permite que os profissionais registrem informações importantes sobr
 - **Se não houver anotações**, seguir diretamente para **Finalizar Registro**.  
 
 ---
-
-### **Revisar Anotações**  
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| visualizarAnotacoes | Área de Texto | Somente leitura | Anotações feitas |
-
-| **Comandos** | **Destino** | **Tipo** |
-| --- | --- | --- |
-| confirmar | Processo "Salvar no Sistema" | default |
-| editar | Retornar para "Registrar Dados da Consulta" | action |
-
----
-
-### **Salvar no Sistema**  
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| status | Texto Automático | Somente leitura | "Salvo com sucesso" |
-
-| **Comandos** | **Destino** | **Tipo** |
-| --- | --- | --- |
-| ok | Processo "Finalizar Registro" | default |
+### **Wireframe do processo e tela**  
