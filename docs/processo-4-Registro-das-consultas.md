@@ -25,5 +25,5 @@ O processo permite que os profissionais registrem informações importantes sobr
 ---
 ### **Wireframe do processo e tela**  
 
-![WIREFRAME PROCESSO4](images/)  
+![WIREFRAME PROCESSO4](images/Wireframe_registroDaConsulta.png)  
 
