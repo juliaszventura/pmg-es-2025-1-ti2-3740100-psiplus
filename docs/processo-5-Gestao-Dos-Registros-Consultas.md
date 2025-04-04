@@ -5,7 +5,6 @@ O processo permite que os profissionais consultem registros, informações impor
 
 ![Wireframe](images/wireframe-1-gestaoRegistros.png)
 
-![Wireframe](images/wireframe-2-gestaoRegistros.png)
 
 
 
