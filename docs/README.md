@@ -162,10 +162,15 @@ O PSI+ é uma plataforma que facilita a gestão psicológica, com agendamento, m
 1️⃣ **Cadastro e gestão da agenda:** O Psi+ revoluciona a forma como psicólogos organizam suas agendas ao oferecer um sistema inteligente e automatizado de agendamentos. Com nossa plataforma, o psicólogo pode personalizar completamente sua disponibilidade, garantindo mais praticidade e eficiência no dia a dia.
 Principais melhorias do Psi+:
 ✔ Cadastro facilitado de horários: O psicólogo pode cadastrar horários como disponíveis, indisponíveis ou já reservados para pacientes, tudo de forma intuitiva.
+
 ✔ Definição de horários padrão: É possível configurar horários fixos para almoço, tempo de transição entre consultas e dias específicos de atendimento, evitando a necessidade de ajustes constantes.
+
 ✔ Atualização em tempo real: Toda alteração na agenda é refletida imediatamente no sistema, permitindo que os pacientes visualizem os horários disponíveis sem necessidade de contato manual.
+
 ✔ Redução de erros e conflitos: Como o sistema gerencia automaticamente os horários, elimina-se o risco de marcações duplicadas ou esquecimentos.
+
 ✔ Autonomia para os pacientes: Os pacientes podem acessar a agenda e marcar consultas sem precisar entrar em contato direto, tornando o processo mais ágil para ambos.
+
 Com essas funcionalidades, o Psi+ não apenas digitaliza a agenda do psicólogo, mas também melhora a eficiência do seu atendimento, reduzindo sua carga administrativa e garantindo uma experiência mais organizada e profissional para todos.
 
 2️⃣ **Agendamento de consultas:** O PSI+ oferece uma interface intuitiva e eficiente. Com nosso aplicativo, os psicólogos podem cadastrar seus horários livres de forma prática, e os pacientes podem visualizar essa agenda em tempo real, escolhendo o horário que melhor se encaixa em sua rotina. Esse sistema elimina a necessidade de longas trocas de mensagens ou chamadas telefônicas, garantindo uma experiência ágil, organizada e otimizando o tempo de profissionais e pacientes.
