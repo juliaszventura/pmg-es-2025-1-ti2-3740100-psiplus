@@ -4,7 +4,16 @@ O sistema disponibiliza uma página dedicada para o paciente registrar suas emo�
 
 ![Bpmn emoções](images/bpmnEmocoes.png "Modelo BPMN do Processo 4.")
 
+
+---  
+## Detalhamento das atividades
+### Psicólogo
+
+### Paciente
+
 **Minhas Emoções**
+
+![Minhas emoções](images/paciente_Calendario_Emocoes.png "Calendário de emoções")
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
