@@ -5,7 +5,7 @@ O processo permite que os profissionais consultem registros, informações impor
 
 ![Exemplo de um Modelo BPMN do PROCESSO 5](images/wireframe-1-gestaoRegistros.png)
 
-![Exemplo de um Modelo BPMN do PROCESSO 5](images/wireframe-2-gestaoRegistros)
+![Exemplo de um Modelo BPMN do PROCESSO 5](images/wireframe-2-gestaoRegistros.png)
 
 
 
