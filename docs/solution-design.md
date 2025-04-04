@@ -12,8 +12,8 @@ Para o desenvolvimento da solução proposta, foram escolhidas tecnologias e fer
 SGBD - MySQL:
 Utilizado como sistema de gerenciamento de banco de dados relacional, o MySQL será responsável pelo armazenamento seguro dos registros das emoções, dados dos pacientes, histórico de consultas e demais informações essenciais do sistema.
 
-Front-end - HTML, CSS (TailwindCSS) e JavaScript:
-A interface será desenvolvida utilizando HTML e CSS com o framework TailwindCSS, garantindo um design moderno, responsivo e de fácil usabilidade. O JavaScript será aplicado para dar dinamismo e interatividade às funcionalidades da plataforma, como gráficos e manipulação do calendário.
+Front-end - React e TailwindCSS:
+A interface será desenvolvida utilizando **React**, garantindo uma experiência interativa e dinâmica, aproveitando os benefícios da componentização e do gerenciamento eficiente do estado. O **TailwindCSS** será utilizado para a estilização, proporcionando um design moderno, responsivo e de fácil manutenção. React e TailwindCSS juntos garantem um desenvolvimento rápido e uma interface de alta performance.
 
 Back-end - Java com Spring Boot:
 O back-end será construído com o framework Spring Boot, oferecendo segurança, robustez e facilidade na criação de APIs RESTful. Ele será responsável por processar as informações, realizar as operações no banco de dados e garantir a integridade dos dados.
@@ -30,8 +30,8 @@ O time utilizará o Discord como ferramenta principal de comunicação durante o
 | **Dimensão**   | **Tecnologia**  |
 | ---            | ---             |
 | SGBD           | MySQL           |
-| Front end      | HTML+CSS (TailwindCSS)+JS     |
+| Front end      | React + TailwindCSS |
 | Back end       | Java SpringBoot |
 | Deploy         | Github Pages    |
-| IDE            | Intellij        |
+| IDE            | IntelliJ        |
 | Sprints        | Discord         |
