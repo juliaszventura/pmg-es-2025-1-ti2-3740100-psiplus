@@ -1,33 +1,57 @@
 ### 3.3.1 Processo 1 – Cadastro da agenda
-O processo de agendamento no Psi+ permite que psicólogos cadastrem horários disponíveis e que pacientes possam visualizar e marcar consultas de maneira otimizada. O fluxo envolve as ações de ambos os usuários, garantindo que a agenda esteja sempre atualizada e evitando conflitos de horários.
+O processo de agendamento no Psi+ permite que psicólogos cadastrem horários como disponíveis, indisponíveis ou cadastrar um paciente à ele. O processo se inicia com a visualização da agenda de acordo com atualizações passadas, onde o paciente selecionará um horário e o definirá da forma que preferir, e, ao final do processo, a agenda estará atualizada.
 
 
-![Modelo BPMN agendamento](images/diagramaAgendamento.png)
+![Modelo BPMN agendamento](images/diagramaAgendamento2.png)
 
-**Cadastrar horário**
+![image](https://github.com/user-attachments/assets/3f790060-b57a-4ac1-af62-78414a39f557)
+![image](https://github.com/user-attachments/assets/15cffe71-542e-4424-bdab-7f0e5343c26d)
+
+
+
+**Visualizar Agenda**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
 | [Nome do campo] | [tipo de dados]  |                |                   |
-| dataehora       | Data e Hora      |dd-mm-aaaa, hh:mm|                   |
-| seleçãopaciente       | Seleção única     ||                   |
-| horarioocupado       | Seleção única     ||                   |
-| horariolivre       | Seleção única     ||                   |
+| tempoExpediente       | Hora      |hh:mm|                   |
+| horarioAlmoco       | Hora      |hh:mm|                   |
+| tempoEntreSessoes       | Hora      |hh:mm|                   |
+| duracaoConsulta       | Hora      |hh:mm|                   |
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| criarpaciente                | Enviar para Processo Cadastar Paciente| ---               |
-| confirmar | Fim do Processo Cadastrar horário| default|
-| cancelar| Fim do Processo Cadastrar horário|cancel|
+| novoPaciente                | Enviar para Processo Cadastar Paciente| ---               |
+| novaConsulta                | Enviar para Processo Cadastar Consulta| ---               |
 
 
-**Agendamento feito pelo paciente**
+**Selecionar Data e Horario, Pesquisar paciente, Cadastrar paciente, Selecionar paciente, Definir como horário disponível, Definir como horário indisponível**
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
 | [Nome do campo] | [tipo de dados]  |                |                   |
 | dataehora       | Data e Hora      |dd-mm-aaaa, hh:mm|                   |
+| definirComoIndisponivelOuDisponivel       | Seleção unica      ||                   |
+| selecionarPaciente       | Seleção unica      ||                   |
+
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| confirmar | Horário é reservado para o paciente | default|
+| criarPaciente       | Enviar para processo de criar paciente      ||                   |
+| salvar | Horário é atualizado | default|
 | cancelar| Processo é cancelado |cancel|
+
+
+**Visualizar Agenda atualizada**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| [Nome do campo] | [tipo de dados]  |                |                   |
+| tempoExpediente       | Hora      |hh:mm|                   |
+| horarioAlmoco       | Hora      |hh:mm|                   |
+| tempoEntreSessoes       | Hora      |hh:mm|                   |
+| duracaoConsulta       | Hora      |hh:mm|                   |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| novoPaciente                | Enviar para Processo Cadastar Paciente| ---               |
+| novaConsulta                | Enviar para Processo Cadastar Consulta| ---               |
