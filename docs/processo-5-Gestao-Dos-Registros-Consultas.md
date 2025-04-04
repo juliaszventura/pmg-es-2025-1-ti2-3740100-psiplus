@@ -2,14 +2,9 @@
 
 O processo permite que os profissionais consultem registros, informações importantes sobre as consultas realizadas. O sistema garante a organização eficiente dos registros, facilitando o acompanhamento do histórico do paciente.  
 
-
-![Wireframe](images/wireframe-1-gestaoRegistros.png)
-
-
-
-
 ![Exemplo de um Modelo BPMN do PROCESSO 5](images/bpmnGestaoRegistroConsultas.png)  
 
+![Wireframe](images/wireframe-1-gestaoRegistros.png)
 
 
 ## Detalhamento das atividades  
