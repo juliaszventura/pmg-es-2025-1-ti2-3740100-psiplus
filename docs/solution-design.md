@@ -3,7 +3,7 @@
 ### 4.1. Modelo de dados
 
 
-![Modelo relacional](images/ModeloDadosPSI+.drawioo.png "Modelo Relacional.")
+![Modelo relacional](images/WhatsApp Image 2025-04-04 at 7.21.31 PM.jpeg "Modelo Relacional.")
 ---
 
 ### 4.2. Tecnologias
