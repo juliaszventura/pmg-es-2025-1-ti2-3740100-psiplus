@@ -3,9 +3,9 @@
 O processo permite que os profissionais consultem registros, informações importantes sobre as consultas realizadas. O sistema garante a organização eficiente dos registros, facilitando o acompanhamento do histórico do paciente.  
 
 
-![Exemplo de um Modelo BPMN do PROCESSO 5](images/wireframe-1-gestaoRegistros.png)
+![Wireframe](images/wireframe-1-gestaoRegistros.png)
 
-![Exemplo de um Modelo BPMN do PROCESSO 5](images/wireframe-2-gestaoRegistros.png)
+![Wireframe](images/wireframe-2-gestaoRegistros.png)
 
 
 
@@ -24,7 +24,7 @@ O processo permite que os profissionais consultem registros, informações impor
 
 | **Comandos** | **Destino** | **Tipo** |
 | --- | --- | --- |
-| Icone pesquisar | Processo "Exibir resultados filtrados" | Tabela |
+| Exbiir anotação  | Exibir anotações do paceinte | Area de texto  |
 ---
 
 ### **Selecionar um dos resultados exibidos**  
@@ -33,3 +33,9 @@ O processo permite que os profissionais consultem registros, informações impor
 | --- | --- | --- |
 | Selecionar | Gráficos e anotações | Tabela |
 
+
+### **Adicionar anotações**  
+
+| **Comandos** | **Destino** | **Tipo** |
+| --- | --- | --- |
+| Adicionar anotações | Registrar anotação  | - |
