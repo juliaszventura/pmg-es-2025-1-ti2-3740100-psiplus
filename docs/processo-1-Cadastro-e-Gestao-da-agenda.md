@@ -16,8 +16,8 @@ O processo de agendamento no Psi+ permite que psicólogos cadastrem horários co
 | [Nome do campo] | [tipo de dados]  |                |                   |
 | tempoExpediente       | Hora      |hh:mm|                   |
 | horarioAlmoco       | Hora      |hh:mm|                   |
-| tempoEntreSessoes       | Hora      |hh:mm|                   |
-| duracaoConsulta       | Hora      |hh:mm|                   |
+| tempoEntreSessoes       | Hora      |hh:mm|00:10        |
+| duracaoConsulta       | Hora      |hh:mm|01:00        |
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
