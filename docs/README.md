@@ -160,6 +160,7 @@ Com a implementação de um sistema de registro das emoções integrado a um cal
 O PSI+ é uma plataforma que facilita a gestão psicológica, com agendamento, monitoramento emocional e comunicação segura, otimizando o atendimento.
 
 1️⃣ **Cadastro e gestão da agenda:** O Psi+ revoluciona a forma como psicólogos organizam suas agendas ao oferecer um sistema inteligente e automatizado de agendamentos. Com nossa plataforma, o psicólogo pode personalizar completamente sua disponibilidade, garantindo mais praticidade e eficiência no dia a dia.
+
 Principais melhorias do Psi+:
 ✔ Cadastro facilitado de horários: O psicólogo pode cadastrar horários como disponíveis, indisponíveis ou já reservados para pacientes, tudo de forma intuitiva.
 
