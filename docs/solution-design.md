@@ -34,6 +34,7 @@ Para o desenvolvimento da solução proposta, foram escolhidas tecnologias e fer
 🧩 **Comunicação e Gestão de Sprints**
 
 - **Discord:** O time utilizará o Discord como ferramenta principal de comunicação durante o desenvolvimento do projeto. Além disso, o Discord será usado para acompanhamento das sprints, alinhamento das tarefas, troca de feedbacks e organização geral do time.
+- **GitHub Projects:** GitHub Projects será utilizado para o planejamento e gerenciamento das tarefas do projeto com a criação de quadros no estilo Kanban, facilitando a visualização do progresso de cada atividade. Através dela, será possível organizar as sprints, atribuir responsabilidades, acompanhar prazos e manter a equipe alinhada durante todo o desenvolvimento.
 
 ---
 
