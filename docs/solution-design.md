@@ -3,7 +3,7 @@
 ### 4.1. Modelo de dados
 
 
-![Modelo relacional](images/Modelagem.jpeg "Modelo Relacional.")
+![Modelo relacional](images/ModeloDedadosPsiPlus.jpeg "Modelo Relacional.")
 ---
 
 ### 4.2. Tecnologias
